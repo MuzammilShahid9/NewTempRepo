@@ -1,0 +1,6838 @@
+fileFormatVersion: 2
+guid: 7d8a2ef3fb9a4d94990d7fb622c82042
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: bedroom_dresser_1
+  - first:
+      213: 21300002
+    second: bedroom_bedcarpet_3
+  - first:
+      213: 21300004
+    second: bedroom_bedcarpet_1
+  - first:
+      213: 21300006
+    second: bedroom_dressingmirror_1
+  - first:
+      213: 21300008
+    second: bedroom_fireplace_3
+  - first:
+      213: 21300010
+    second: yuanzhuobu
+  - first:
+      213: 21300012
+    second: bedroom_table_3
+  - first:
+      213: 21300014
+    second: bedroom_smallrug_3
+  - first:
+      213: 21300016
+    second: bedroom_catbed_1
+  - first:
+      213: 21300018
+    second: 22
+  - first:
+      213: 21300020
+    second: bedroom_hatstand_3
+  - first:
+      213: 21300022
+    second: bedroom_teacarpet_2
+  - first:
+      213: 21300024
+    second: bedroom_catbowl_3
+  - first:
+      213: 21300026
+    second: hqb_4
+  - first:
+      213: 21300028
+    second: ws_chuang_1
+  - first:
+      213: 21300030
+    second: panzi1
+  - first:
+      213: 21300032
+    second: zhuobu1
+  - first:
+      213: 21300034
+    second: bedroom_nighttable_3
+  - first:
+      213: 21300036
+    second: bedroom_bedcarpet_2
+  - first:
+      213: 21300038
+    second: bedroom_table_2
+  - first:
+      213: 21300040
+    second: danshu
+  - first:
+      213: 21300042
+    second: bedroom_wardrobe_2
+  - first:
+      213: 21300044
+    second: bedroom_cabinet_3
+  - first:
+      213: 21300046
+    second: bedroom_bedchair_3
+  - first:
+      213: 21300048
+    second: zhuobu2-2
+  - first:
+      213: 21300050
+    second: bedroom_bed_3
+  - first:
+      213: 21300052
+    second: bedroom_teatable_2
+  - first:
+      213: 21300054
+    second: ws_chuang_1_1
+  - first:
+      213: 21300056
+    second: bedroom_nighttable_2
+  - first:
+      213: 21300058
+    second: hua
+  - first:
+      213: 21300060
+    second: panzi3
+  - first:
+      213: 21300062
+    second: bedroom_fireplace_2
+  - first:
+      213: 21300064
+    second: bedroom_teacarpet_3
+  - first:
+      213: 21300066
+    second: bedroom_cushionB_1
+  - first:
+      213: 21300068
+    second: bedroom_cabinet_2
+  - first:
+      213: 21300070
+    second: bedroom_teacarpet_1
+  - first:
+      213: 21300072
+    second: bedroom_armchairA_3
+  - first:
+      213: 21300074
+    second: bedroom_bedchair_1
+  - first:
+      213: 21300076
+    second: shuihu1
+  - first:
+      213: 21300078
+    second: panzi4
+  - first:
+      213: 21300080
+    second: banquet_table
+  - first:
+      213: 21300082
+    second: throne_pedestal_3
+  - first:
+      213: 21300084
+    second: bedroom_bed_1
+  - first:
+      213: 21300086
+    second: bathroom_stool
+  - first:
+      213: 21300088
+    second: zhuobu2
+  - first:
+      213: 21300090
+    second: dlt_daditan_1
+  - first:
+      213: 21300092
+    second: shui
+  - first:
+      213: 21300094
+    second: ws_chuang_2
+  - first:
+      213: 21300096
+    second: bedroom_smallrug_2
+  - first:
+      213: 21300098
+    second: lazhu2
+  - first:
+      213: 21300100
+    second: shigaoxiang
+  - first:
+      213: 21300102
+    second: shuibei2
+  - first:
+      213: 21300104
+    second: bedroom_bigrug_3
+  - first:
+      213: 21300106
+    second: bedroom_candlestick_3
+  - first:
+      213: 21300108
+    second: bedroom_cushionA_3
+  - first:
+      213: 21300110
+    second: bedroom_cushionB_2
+  - first:
+      213: 21300112
+    second: bathroom_carpet
+  - first:
+      213: 21300114
+    second: bedroom_smallrug_1
+  - first:
+      213: 21300116
+    second: bedroom_armchairA_2
+  - first:
+      213: 21300118
+    second: bedroom_dresser_3
+  - first:
+      213: 21300120
+    second: bedroom_bigrug_1
+  - first:
+      213: 21300122
+    second: throne_pedestal_4
+  - first:
+      213: 21300124
+    second: shuihu2
+  - first:
+      213: 21300126
+    second: bedroom_fireplace_1
+  - first:
+      213: 21300128
+    second: chabei
+  - first:
+      213: 21300130
+    second: bedroom_catbowl_2
+  - first:
+      213: 21300132
+    second: bedroom_armchairB_1
+  - first:
+      213: 21300134
+    second: beizi1
+  - first:
+      213: 21300136
+    second: chaju3
+  - first:
+      213: 21300138
+    second: throne_pedestal_2
+  - first:
+      213: 21300140
+    second: bedroom_dressingmirror_3
+  - first:
+      213: 21300142
+    second: bedroom_bedchair_2
+  - first:
+      213: 21300144
+    second: bedroom_wardrobe_1
+  - first:
+      213: 21300146
+    second: tsg_dashugui_2
+  - first:
+      213: 21300148
+    second: shu1
+  - first:
+      213: 21300150
+    second: bathroom_bathtub
+  - first:
+      213: 21300152
+    second: bedroom_candlestick_2
+  - first:
+      213: 21300154
+    second: bedroom_bigrug_2
+  - first:
+      213: 21300156
+    second: bedroom_armchairA_1
+  - first:
+      213: 21300158
+    second: bedroom_cushionA_1
+  - first:
+      213: 21300160
+    second: bedroom_stool_3
+  - first:
+      213: 21300162
+    second: shuibei1
+  - first:
+      213: 21300164
+    second: bedroom_cattoy
+  - first:
+      213: 21300166
+    second: bedroom_cabinet_1
+  - first:
+      213: 21300168
+    second: bedroom_dressingmirror_2
+  - first:
+      213: 21300170
+    second: panzi2
+  - first:
+      213: 21300172
+    second: bedroom_bed_2
+  - first:
+      213: 21300174
+    second: beizi2
+  - first:
+      213: 21300176
+    second: bedroom_teatable_1
+  - first:
+      213: 21300178
+    second: throne_pedestal_1
+  - first:
+      213: 21300180
+    second: "\u7EFF\u82B1\u74F6"
+  - first:
+      213: 21300182
+    second: tsg_dashugui_1
+  - first:
+      213: 21300184
+    second: bedroom_hatstand_1
+  - first:
+      213: 21300186
+    second: bedroom_teatable_3
+  - first:
+      213: 21300188
+    second: ws_baijian_2
+  - first:
+      213: 21300190
+    second: bedroom_armchairB_3
+  - first:
+      213: 21300192
+    second: bedroom_catbowl_1
+  - first:
+      213: 21300194
+    second: bedroom_wardrobe_3
+  - first:
+      213: 21300196
+    second: bedroom_nighttable_1
+  - first:
+      213: 21300198
+    second: bedroom_candlestick_1
+  - first:
+      213: 21300200
+    second: bedroom_table_1
+  - first:
+      213: 21300202
+    second: bedroom_cushionA_2
+  - first:
+      213: 21300204
+    second: huapinghuang
+  - first:
+      213: 21300206
+    second: bedroom_hatstand_2
+  - first:
+      213: 21300208
+    second: bedroom_catbed_3
+  - first:
+      213: 21300210
+    second: "\u68B3\u5B50"
+  - first:
+      213: 21300212
+    second: bedroom_stool_1
+  - first:
+      213: 21300214
+    second: bedroom_catbed_2
+  - first:
+      213: 21300216
+    second: bathroom_washbasin
+  - first:
+      213: 21300218
+    second: hall_stair
+  - first:
+      213: 21300220
+    second: "\u68B3\u5B50"
+  - first:
+      213: 21300222
+    second: bedroom_cushionB_3
+  - first:
+      213: 21300224
+    second: bedroom_dresser_2
+  - first:
+      213: 21300226
+    second: throne
+  - first:
+      213: 21300228
+    second: bedroom_stool_2
+  - first:
+      213: 21300230
+    second: general_decrepit_bed
+  - first:
+      213: 21300232
+    second: bedroom_armchairB_2
+  - first:
+      213: 21300234
+    second: ws_baijian_1
+  - first:
+      213: 21300236
+    second: "\u68B3\u5B50"
+  - first:
+      213: 21300238
+    second: "\u68B3\u5B50"
+  - first:
+      213: 21300240
+    second: zhuobu1-2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bedroom_dresser_1
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 917
+        width: 131
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: -81}
+        - {x: -65.5, y: -53}
+        - {x: -65.5, y: 30}
+        - {x: -48.5, y: 81}
+        - {x: 34.5, y: 81}
+        - {x: 59.5, y: 50}
+        - {x: 65.5, y: 27}
+        - {x: 65.5, y: -69}
+        - {x: 55.5, y: -81}
+      physicsShape:
+      - - {x: 59.5, y: -29}
+        - {x: 60.5, y: -28}
+        - {x: 60.5, y: -21}
+        - {x: 55.5, y: 2}
+        - {x: 53.5, y: 15}
+        - {x: 45.5, y: 28}
+        - {x: 44.5, y: 40}
+        - {x: 35.5, y: 61}
+        - {x: 17.5, y: 81}
+        - {x: 2.5, y: 81}
+        - {x: -10.5, y: 78}
+        - {x: -17.5, y: 66}
+        - {x: -26.5, y: 50}
+        - {x: -36.5, y: 20}
+        - {x: -59.5, y: 12}
+        - {x: -63.5, y: 5}
+        - {x: -63.5, y: 0}
+        - {x: -61.5, y: -2}
+        - {x: -63.5, y: -31}
+        - {x: -63.5, y: -37}
+        - {x: -58.5, y: -40}
+        - {x: -52.5, y: -38}
+        - {x: -42.5, y: -52}
+        - {x: -32.5, y: -46}
+        - {x: -13.5, y: -44}
+        - {x: 1.5, y: -54}
+        - {x: 2.5, y: -71}
+        - {x: 10.5, y: -72}
+        - {x: 24.5, y: -79.99999}
+        - {x: 30.5, y: -79.99999}
+        - {x: 34.5, y: -75}
+        - {x: 60.5, y: -64}
+        - {x: 60.5, y: -39}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107f04620c304bfcb1666b9228590c38
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_bedcarpet_3
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1872
+        width: 335
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.5, y: -68}
+        - {x: -167.5, y: -15}
+        - {x: -167.5, y: -3}
+        - {x: -166.5, y: -1}
+        - {x: 8.5, y: 86}
+        - {x: 23.5, y: 86}
+        - {x: 165.5, y: 16}
+        - {x: 167.5, y: 14}
+        - {x: 167.5, y: 3}
+        - {x: 70.5, y: -48}
+        - {x: -5.5, y: -86}
+        - {x: -23.5, y: -86}
+      physicsShape:
+      - - {x: 20.5, y: 85}
+        - {x: 14.5, y: 85}
+        - {x: -163.5, y: -3}
+        - {x: -166.5, y: -6}
+        - {x: -166.5, y: -85}
+        - {x: 9.5, y: -85}
+        - {x: 166.5, y: -72.99999}
+        - {x: 166.5, y: 15}
+        - {x: 31.5, y: 83}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732da15bf7404d96b0d343574a9f43b7
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_bedcarpet_1
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1182
+        width: 336
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -137, y: -31}
+        - {x: -168, y: -14}
+        - {x: -168, y: -3}
+        - {x: -91, y: 37}
+        - {x: 10, y: 85}
+        - {x: 24, y: 85}
+        - {x: 94, y: 52}
+        - {x: 168, y: 15}
+        - {x: 168, y: 2}
+        - {x: 46, y: -58}
+        - {x: -9, y: -85}
+        - {x: -24, y: -85}
+      physicsShape:
+      - - {x: 9, y: 83}
+        - {x: -166, y: -5}
+        - {x: -166, y: -11}
+        - {x: -165, y: -13}
+        - {x: -19, y: -84}
+        - {x: -15, y: -84}
+        - {x: 166, y: 6}
+        - {x: 166, y: 12}
+        - {x: 24, y: 83}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81894cb365874567941621db1175206c
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_dressingmirror_1
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1395
+        width: 70
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: -60.5}
+        - {x: -35, y: -60.5}
+        - {x: -35, y: 18.5}
+        - {x: -32, y: 45.5}
+        - {x: -14, y: 60.5}
+        - {x: 20, y: 60.5}
+        - {x: 35, y: 15.5}
+      physicsShape:
+      - - {x: 33, y: 31.5}
+        - {x: 30, y: 44.5}
+        - {x: 9, y: 60.5}
+        - {x: -9.999999, y: 60.5}
+        - {x: -13, y: 59.5}
+        - {x: -27, y: 41.5}
+        - {x: -32, y: 6.5}
+        - {x: -33, y: -40.5}
+        - {x: -33, y: -56.5}
+        - {x: -30, y: -58.5}
+        - {x: -26, y: -58.5}
+        - {x: -23, y: -52.5}
+        - {x: 19, y: -58.5}
+        - {x: 33, y: -58.5}
+      - - {x: -23, y: -28.5}
+        - {x: -22, y: -29.5}
+        - {x: -19, y: -29.5}
+        - {x: -22, y: -29.5}
+      - - {x: 18, y: -30.5}
+        - {x: 21, y: -29.5}
+        - {x: 16, y: -30.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a23113531e46368ccba95643d78306
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_fireplace_3
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 923
+        width: 134
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: -71}
+        - {x: -67, y: -67}
+        - {x: -67, y: 40}
+        - {x: 6, y: 71}
+        - {x: 48, y: 71}
+        - {x: 67, y: 61}
+        - {x: 67, y: -40}
+        - {x: -6, y: -71}
+      physicsShape:
+      - - {x: 35, y: 66}
+        - {x: 29, y: 66}
+        - {x: -53, y: 27}
+        - {x: -57, y: 20}
+        - {x: -57, y: 11}
+        - {x: -54, y: 6}
+        - {x: -57, y: -43}
+        - {x: -57, y: -54}
+        - {x: -31, y: -68}
+        - {x: -23, y: -68}
+        - {x: 65, y: -33}
+        - {x: 65, y: 53}
+        - {x: 62, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c3cc043e804b06b237507c430cc8a8
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yuanzhuobu
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 812
+        width: 56
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -15}
+        - {x: -28, y: 15}
+        - {x: 28, y: 15}
+        - {x: 28, y: -15}
+      physicsShape:
+      - - {x: 18, y: 15}
+        - {x: -17, y: 15}
+        - {x: -25, y: 14}
+        - {x: -28, y: 8}
+        - {x: -28, y: -7}
+        - {x: -16, y: -15}
+        - {x: 18, y: -15}
+        - {x: 28, y: -6}
+        - {x: 28, y: 7}
+        - {x: 25, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3adcf064b2407390b903d2c3df6b42
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_table_3
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1187
+        width: 118
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5517465, y: 0.5478263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: -40.5}
+        - {x: -59, y: -5.5}
+        - {x: -59, y: 21.5}
+        - {x: -31, y: 40.5}
+        - {x: -11, y: 40.5}
+        - {x: 59, y: 10.5}
+        - {x: 59, y: -35.5}
+        - {x: 45, y: -40.5}
+      physicsShape:
+      - - {x: 55, y: -22.5}
+        - {x: 55, y: 5.5}
+        - {x: -7, y: 35.5}
+        - {x: -11, y: 35.5}
+        - {x: -21, y: 30.5}
+        - {x: -44, y: 19.5}
+        - {x: -44, y: -0.5}
+        - {x: -42, y: -7.5}
+        - {x: -35, y: -10.5}
+        - {x: -31, y: 1.5}
+        - {x: 14, y: -21.5}
+        - {x: 17, y: -36.5}
+        - {x: 25, y: -36.5}
+        - {x: 28, y: -23.5}
+        - {x: 44, y: -12.5}
+        - {x: 46, y: -24.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24352b9ae156476888e3b7ec2abe96a0
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_smallrug_3
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 0
+        width: 265
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: -66}
+        - {x: -132.5, y: -12}
+        - {x: -132.5, y: 9}
+        - {x: -21.5, y: 66}
+        - {x: 21.5, y: 66}
+        - {x: 130.5, y: 14}
+        - {x: 132.5, y: 11}
+        - {x: 132.5, y: -20}
+        - {x: 22.5, y: -66}
+      physicsShape:
+      - - {x: -45.5, y: 66}
+        - {x: -132.5, y: 9}
+        - {x: -132.5, y: -7}
+        - {x: -22.5, y: -66}
+        - {x: 24.5, y: -66}
+        - {x: 132.5, y: -9.999999}
+        - {x: 132.5, y: 20}
+        - {x: 18.5, y: 66}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f94a5022b5049cbb002f490a303613f
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_catbed_1
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 649
+        width: 118
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 15.5}
+        - {x: -57, y: 16.5}
+        - {x: -52, y: 22.5}
+        - {x: -42, y: 25.5}
+        - {x: -37, y: 25.5}
+        - {x: -23, y: 32.5}
+        - {x: 17, y: 32.5}
+        - {x: 59, y: 20.5}
+        - {x: 59, y: -17.5}
+        - {x: 22, y: -32.5}
+        - {x: -23, y: -32.5}
+        - {x: -53, y: -15.5}
+        - {x: -59, y: -4.5}
+        - {x: -59, y: 14.5}
+      physicsShape:
+      - - {x: 59, y: 3.5}
+        - {x: 58, y: 6.5}
+        - {x: 51, y: 6.5}
+        - {x: 43, y: 19.5}
+        - {x: 7, y: 31.5}
+        - {x: 1, y: 31.5}
+        - {x: -33, y: 19.5}
+        - {x: -51, y: 1.5}
+        - {x: -51, y: -0.5}
+        - {x: -49, y: -2.5}
+        - {x: -5, y: -23.5}
+        - {x: 6, y: -28.5}
+        - {x: 13, y: -28.5}
+        - {x: 14, y: -22.5}
+        - {x: 42, y: -6.5}
+        - {x: 59, y: -1.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9627c9e526c4446191f40ffd6d9bcef3
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1763.027
+        width: 236.9239
+        height: 256.9242
+      alignment: 9
+      pivot: {x: 0.5254852, y: 0.5156121}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 118.5381, y: -69.48886}
+        - {x: 110.538, y: -74.48886}
+        - {x: 44.53806, y: -103.4889}
+        - {x: 0.5380554, y: -128.4889}
+        - {x: -20.46194, y: -128.4889}
+        - {x: -28.46194, y: -118.4889}
+        - {x: -89.46194, y: -79.48886}
+        - {x: -105.4619, y: -85.48886}
+        - {x: -118.4619, y: -77.48886}
+        - {x: -118.4619, y: -18.48886}
+        - {x: -115.4619, y: 69.51114}
+        - {x: -51.46194, y: 117.5111}
+        - {x: -2.461945, y: 128.5111}
+        - {x: 15.53806, y: 128.5111}
+        - {x: 59.53806, y: 122.5111}
+        - {x: 113.5381, y: 79.51114}
+        - {x: 113.5381, y: -21.48886}
+        - {x: 118.5381, y: -33.48886}
+      physicsShape:
+      - - {x: 79.53805, y: -82.48886}
+        - {x: 87.53806, y: -76.48886}
+        - {x: 109.5381, y: -70.48886}
+        - {x: 117.5381, y: -66.48886}
+        - {x: 117.5381, y: -63.48886}
+        - {x: 113.538, y: -46.48886}
+        - {x: 118.5381, y: -39.48886}
+        - {x: 118.5381, y: -34.48886}
+        - {x: 110.538, y: -22.48886}
+        - {x: 110.538, y: 79.51114}
+        - {x: 104.538, y: 82.51114}
+        - {x: 99.53806, y: 84.51114}
+        - {x: 91.53805, y: 87.51114}
+        - {x: 74.53806, y: 106.5111}
+        - {x: 58.53805, y: 120.5111}
+        - {x: 21.53806, y: 126.5111}
+        - {x: 12.53806, y: 128.5111}
+        - {x: 4.538055, y: 128.5111}
+        - {x: -14.46194, y: 118.5111}
+        - {x: -29.46194, y: 118.5111}
+        - {x: -50.46194, y: 114.5111}
+        - {x: -70.46194, y: 98.51114}
+        - {x: -91.46194, y: 78.51114}
+        - {x: -108.4619, y: 73.51114}
+        - {x: -113.4619, y: 68.51114}
+        - {x: -113.4619, y: 14.51114}
+        - {x: -118.4619, y: -34.48886}
+        - {x: -118.4619, y: -51.48886}
+        - {x: -112.4619, y: -65.48886}
+        - {x: -118.4619, y: -69.48885}
+        - {x: -118.4619, y: -77.48886}
+        - {x: -104.4619, y: -81.48885}
+        - {x: -95.46194, y: -80.48886}
+        - {x: -91.46194, y: -77.48886}
+        - {x: -20.46194, y: -113.4889}
+        - {x: -22.46194, y: -121.4889}
+        - {x: -10.46194, y: -128.4889}
+        - {x: -5.461944, y: -128.4889}
+        - {x: 11.53806, y: -117.4889}
+        - {x: 28.53806, y: -110.4889}
+        - {x: 57.53806, y: -93.48886}
+      - - {x: -94.46194, y: -2.488861}
+        - {x: -97.46194, y: 13.51114}
+        - {x: -90.46194, y: 23.51114}
+        - {x: -75.46194, y: 27.51114}
+        - {x: -63.46194, y: 15.51114}
+        - {x: -56.46194, y: 11.51114}
+        - {x: -28.46194, y: 0.5111389}
+        - {x: -35.46194, y: -10.48886}
+        - {x: -63.46194, y: -20.48886}
+        - {x: -80.46194, y: -24.48886}
+        - {x: -90.46194, y: -34.48886}
+      - - {x: 72.53806, y: 9.511139}
+        - {x: 57.53806, y: 15.51114}
+        - {x: 48.53806, y: 18.51114}
+        - {x: 43.53806, y: 19.51114}
+        - {x: 40.53806, y: 19.51114}
+        - {x: 24.53806, y: 17.51114}
+        - {x: 11.53806, y: 15.51114}
+        - {x: 25.53806, y: 12.51114}
+        - {x: 30.53805, y: 12.51114}
+        - {x: 35.53806, y: 14.51114}
+        - {x: 42.53805, y: 21.51114}
+        - {x: 62.53806, y: 22.51114}
+        - {x: 78.53806, y: 38.51114}
+        - {x: 95.53806, y: 26.51114}
+        - {x: 92.53806, y: 5.511139}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd30559d54648489a87344df9e316ae
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_hatstand_3
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 213
+        width: 50
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -64}
+        - {x: -25, y: -63}
+        - {x: -25, y: 64}
+        - {x: 25, y: 64}
+        - {x: 25, y: -64}
+      physicsShape:
+      - - {x: 9.999999, y: -60}
+        - {x: 17, y: -60}
+        - {x: 20, y: -59}
+        - {x: 20, y: -37}
+        - {x: 8, y: -20}
+        - {x: 9.999999, y: -3}
+        - {x: 9.999999, y: 9.999999}
+        - {x: 4, y: 28}
+        - {x: 8, y: 30}
+        - {x: 13, y: 32}
+        - {x: 18, y: 43}
+        - {x: 18, y: 64}
+        - {x: 5, y: 64}
+        - {x: -2, y: 60}
+        - {x: -4, y: 56}
+        - {x: -9.999999, y: 64}
+        - {x: -19, y: 64}
+        - {x: -18, y: 45}
+        - {x: -15, y: 33}
+        - {x: -7, y: 28}
+        - {x: -12, y: 9.999999}
+        - {x: -12, y: -3}
+        - {x: -8, y: -5}
+        - {x: -8, y: -14}
+        - {x: -17, y: -34}
+        - {x: -22, y: -37}
+        - {x: -22, y: -41}
+        - {x: -18, y: -45}
+        - {x: -22, y: -55}
+        - {x: -22, y: -59}
+        - {x: -19, y: -60}
+        - {x: -11, y: -60}
+        - {x: -5, y: -47}
+        - {x: 2, y: -39}
+        - {x: 7, y: -57}
+      - - {x: -11, y: 49}
+        - {x: -9, y: 47}
+        - {x: -11, y: 46}
+        - {x: -9.999999, y: 47}
+      - - {x: 7, y: 47}
+        - {x: 8, y: 48}
+        - {x: 8, y: 47}
+        - {x: 9, y: 46}
+        - {x: 7, y: 48}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db65e59f18642bc966ea39149b5df55
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_teacarpet_2
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1187
+        width: 186
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52, y: -48}
+        - {x: -93, y: -48}
+        - {x: -93, y: 9}
+        - {x: -70, y: 34}
+        - {x: -25, y: 48}
+        - {x: 89, y: 48}
+        - {x: 93, y: 42}
+        - {x: 93, y: -26}
+        - {x: 78, y: -45}
+      physicsShape:
+      - - {x: 79, y: -11}
+        - {x: 89, y: 2}
+        - {x: 91, y: 11}
+        - {x: 91, y: 26}
+        - {x: 79.99999, y: 38}
+        - {x: 66.99999, y: 43}
+        - {x: 55, y: 47}
+        - {x: 16, y: 47}
+        - {x: -4, y: 44}
+        - {x: -30, y: 38}
+        - {x: -42, y: 35}
+        - {x: -66.99999, y: 21}
+        - {x: -85, y: 5}
+        - {x: -91.99999, y: -8}
+        - {x: -91.99999, y: -24}
+        - {x: -83, y: -37}
+        - {x: -69, y: -42}
+        - {x: -58, y: -46}
+        - {x: -9.999999, y: -46}
+        - {x: 19, y: -41}
+        - {x: 44, y: -32}
+        - {x: 61, y: -25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e41598a22d4e0aa6bdf5c0c170ac22
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_catbowl_3
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 975
+        width: 34
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -14.5}
+        - {x: -17, y: 14.5}
+        - {x: 17, y: 14.5}
+        - {x: 17, y: -14.5}
+      physicsShape:
+      - - {x: 1, y: 14.5}
+        - {x: -17, y: 5.5}
+        - {x: -17, y: 0.5}
+        - {x: -8, y: -13.5}
+        - {x: 9.999999, y: -13.5}
+        - {x: 17, y: -9.5}
+        - {x: 17, y: 7.5}
+        - {x: 14, y: 14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7988ac962bef4b8f89337215157fcad8
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hqb_4
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 576
+        width: 66
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: -39.5}
+        - {x: -33, y: -9.5}
+        - {x: -33, y: 39.5}
+        - {x: -27, y: 39.5}
+        - {x: 15, y: 23.5}
+        - {x: 33, y: 8.5}
+        - {x: 33, y: -39.5}
+      physicsShape:
+      - - {x: -31, y: 37.5}
+        - {x: -33, y: 37.5}
+        - {x: -33, y: -8.5}
+        - {x: 29, y: -39.5}
+        - {x: 33, y: -39.5}
+        - {x: 33, y: 5.5}
+        - {x: -16, y: 31.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf13c8a654746a78af1caff58cc4db5
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ws_chuang_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1496
+        width: 265
+        height: 263
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -117.5, y: -88.5}
+        - {x: -132.5, y: -70.5}
+        - {x: -132.5, y: -35.5}
+        - {x: -122.5, y: -5.5}
+        - {x: -114.5, y: 41.5}
+        - {x: -108.5, y: 49.5}
+        - {x: -55.5, y: 68.5}
+        - {x: -44.5, y: 114.5}
+        - {x: -17.5, y: 131.5}
+        - {x: 55.5, y: 131.5}
+        - {x: 85.5, y: 95.5}
+        - {x: 90.5, y: 68.5}
+        - {x: 130.5, y: 35.5}
+        - {x: 132.5, y: 9.5}
+        - {x: 132.5, y: -67.5}
+        - {x: 84.5, y: -95.5}
+        - {x: 8.5, y: -131.5}
+        - {x: -21.5, y: -131.5}
+        - {x: -33.5, y: -128.5}
+      physicsShape:
+      - - {x: 59.5, y: -87.5}
+        - {x: 68.5, y: -88.5}
+        - {x: 88.5, y: -76.5}
+        - {x: 98.49999, y: -69.5}
+        - {x: 114.5, y: -69.5}
+        - {x: 126.5, y: -65.5}
+        - {x: 128.5, y: -61.5}
+        - {x: 128.5, y: -50.5}
+        - {x: 124.5, y: -24.5}
+        - {x: 122.5, y: 4.5}
+        - {x: 120.5, y: 30.5}
+        - {x: 118.5, y: 35.5}
+        - {x: 116.5, y: 38.5}
+        - {x: 107.5, y: 39.5}
+        - {x: 98.49999, y: 36.5}
+        - {x: 91.5, y: 45.5}
+        - {x: 82.5, y: 62.5}
+        - {x: 80.5, y: 94.5}
+        - {x: 66.5, y: 116.5}
+        - {x: 56.5, y: 125.5}
+        - {x: 45.5, y: 131.5}
+        - {x: 20.5, y: 131.5}
+        - {x: 12.5, y: 129.5}
+        - {x: 9.5, y: 131.5}
+        - {x: -11.5, y: 131.5}
+        - {x: -27.5, y: 121.5}
+        - {x: -37.5, y: 110.5}
+        - {x: -48.5, y: 91.5}
+        - {x: -51.5, y: 69.5}
+        - {x: -48.5, y: 62.5}
+        - {x: -57.5, y: 52.5}
+        - {x: -80.5, y: 42.5}
+        - {x: -91.5, y: 41.5}
+        - {x: -98.49999, y: 47.5}
+        - {x: -108.5, y: 48.5}
+        - {x: -113.5, y: 41.5}
+        - {x: -118.5, y: 9.5}
+        - {x: -121.5, y: -8.5}
+        - {x: -119.5, y: -25.5}
+        - {x: -125.5, y: -57.5}
+        - {x: -125.5, y: -70.5}
+        - {x: -114.5, y: -77.5}
+        - {x: -100.5, y: -76.5}
+        - {x: -94.5, y: -73.49999}
+        - {x: -21.5, y: -110.5}
+        - {x: -24.5, y: -117.5}
+        - {x: -16.5, y: -126.5}
+        - {x: 3.5, y: -126.5}
+        - {x: 18.5, y: -124.5}
+        - {x: 24.5, y: -112.5}
+        - {x: 29.5, y: -106.5}
+        - {x: 52.5, y: -97.5}
+      - - {x: -93.5, y: -29.5}
+        - {x: -92.49999, y: 22.5}
+        - {x: -92.49999, y: 26.5}
+        - {x: -94.5, y: 28.5}
+        - {x: -90.5, y: 24.5}
+        - {x: -90.5, y: 19.5}
+        - {x: -58.5, y: 14.5}
+        - {x: -35.5, y: 32.5}
+        - {x: -28.5, y: 46.5}
+        - {x: -11.5, y: 48.5}
+        - {x: -7.5, y: 17.5}
+        - {x: -32.5, y: 1.5}
+        - {x: -60.5, y: -11.5}
+        - {x: -72.5, y: -20.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635d1125bb5943b38d30868e22550bfe
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panzi1
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 413
+        width: 41
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -13}
+        - {x: -20.5, y: 13}
+        - {x: 20.5, y: 13}
+        - {x: 20.5, y: -13}
+      physicsShape:
+      - - {x: -10.5, y: 12}
+        - {x: -17.5, y: 7}
+        - {x: -17.5, y: -4}
+        - {x: -16.5, y: -9}
+        - {x: 11.5, y: -9}
+        - {x: 18.5, y: -4}
+        - {x: 18.5, y: 6}
+        - {x: 11.5, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b349384b72147b29a2c4879b9e9c9e7
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuobu1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 923
+        width: 421
+        height: 228
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -161.5, y: -114}
+        - {x: -210.5, y: -114}
+        - {x: -210.5, y: -59}
+        - {x: 30.5, y: 114}
+        - {x: 200.5, y: 114}
+        - {x: 210.5, y: 108}
+        - {x: 210.5, y: 87}
+        - {x: -79.5, y: -77}
+      physicsShape:
+      - - {x: 208.5, y: 97.99999}
+        - {x: 173.5, y: 113}
+        - {x: 164.5, y: 113}
+        - {x: -209.5, y: -72.99999}
+        - {x: -209.5, y: -93}
+        - {x: -203.5, y: -110}
+        - {x: -192.5, y: -112}
+        - {x: -167.5, y: -112}
+        - {x: -135.5, y: -82}
+        - {x: 206.5, y: 87}
+        - {x: 208.5, y: 89}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c733edb3a5a04f27a7dcade07d10d609
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_nighttable_3
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1188
+        width: 60
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -30.5}
+        - {x: -30, y: -26.5}
+        - {x: -30, y: 19.5}
+        - {x: -16, y: 30.5}
+        - {x: 5, y: 30.5}
+        - {x: 29, y: 20.5}
+        - {x: 30, y: 2.5}
+        - {x: 30, y: -23.5}
+        - {x: 21, y: -30.5}
+      physicsShape:
+      - - {x: 29, y: 17.5}
+        - {x: 5, y: 30.5}
+        - {x: -8, y: 30.5}
+        - {x: -25, y: 23.5}
+        - {x: -25, y: -8.5}
+        - {x: -24, y: -17.5}
+        - {x: -2, y: -24.5}
+        - {x: 1, y: -29.5}
+        - {x: 11, y: -29.5}
+        - {x: 24, y: -22.5}
+        - {x: 27, y: -18.5}
+        - {x: 29, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa597e5e92f455d8e56b728f330b8b5
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_bedcarpet_2
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 460
+        width: 336
+        height: 171
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -85.5}
+        - {x: -168, y: -15.5}
+        - {x: -168, y: -3.5}
+        - {x: -167, y: -1.5}
+        - {x: 10, y: 85.5}
+        - {x: 23, y: 85.5}
+        - {x: 71, y: 63.5}
+        - {x: 168, y: 13.5}
+        - {x: 168, y: 2.5}
+        - {x: 133, y: -16.5}
+        - {x: -10, y: -85.5}
+      physicsShape:
+      - - {x: 22, y: 83.5}
+        - {x: 15, y: 83.5}
+        - {x: -29, y: 64.5}
+        - {x: -167, y: -6.5}
+        - {x: -167, y: -8.5}
+        - {x: -166, y: -12.5}
+        - {x: -24, y: -83.5}
+        - {x: -14, y: -83.5}
+        - {x: 15, y: -71.5}
+        - {x: 165, y: 3.5}
+        - {x: 166, y: 6.5}
+        - {x: 166, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde69f5825b044bfa4d2541439c7d87b
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_table_2
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 322
+        width: 113
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5143741, y: 0.6624264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -36.5}
+        - {x: -56.5, y: -5.5}
+        - {x: -56.5, y: 36.5}
+        - {x: 14.5, y: 36.5}
+        - {x: 53.5, y: 9.5}
+        - {x: 56.5, y: 2.5}
+        - {x: 56.5, y: -32.5}
+        - {x: 44.5, y: -36.5}
+      physicsShape:
+      - - {x: 52.5, y: 8.5}
+        - {x: -1.5, y: 36.5}
+        - {x: -43.5, y: 36.5}
+        - {x: -46.5, y: 26.5}
+        - {x: -46.5, y: -3.499999}
+        - {x: -43.5, y: -7.5}
+        - {x: -36.5, y: -13.5}
+        - {x: -31.5, y: -2.5}
+        - {x: 7.5, y: -23.5}
+        - {x: 13.5, y: -36.5}
+        - {x: 21.5, y: -36.5}
+        - {x: 50.5, y: -22.5}
+        - {x: 52.5, y: -7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c90167be034f29a5c1eb027d1ff7d0
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danshu
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1333
+        width: 42
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -18}
+        - {x: -21, y: -7}
+        - {x: -21, y: 17}
+        - {x: -18, y: 18}
+        - {x: 11, y: 18}
+        - {x: 19, y: 12}
+        - {x: 21, y: 4}
+        - {x: 21, y: -14}
+        - {x: 15, y: -18}
+      physicsShape:
+      - - {x: -12, y: 11}
+        - {x: -20, y: 7}
+        - {x: -20, y: 1}
+        - {x: -19, y: 0}
+        - {x: -7, y: -9}
+        - {x: 1, y: -9}
+        - {x: 12, y: -5}
+        - {x: 12, y: 1}
+        - {x: 2, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742569e569f14577bb4da557d011ce44
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_wardrobe_2
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1356
+        width: 125
+        height: 194
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.5, y: -89}
+        - {x: -62.5, y: -70}
+        - {x: -62.5, y: 58}
+        - {x: -26.5, y: 97}
+        - {x: 46.5, y: 97}
+        - {x: 62.5, y: 86}
+        - {x: 62.5, y: -24}
+        - {x: 59.5, y: -80}
+        - {x: -1.5, y: -97}
+        - {x: -55.5, y: -97}
+      physicsShape:
+      - - {x: 53.5, y: -58}
+        - {x: 53.5, y: -47}
+        - {x: 49.5, y: -45}
+        - {x: 51.5, y: 11}
+        - {x: 49.5, y: 62}
+        - {x: 53.5, y: 65}
+        - {x: 52.5, y: 84}
+        - {x: 39.5, y: 97}
+        - {x: -4.5, y: 97}
+        - {x: -20.5, y: 94}
+        - {x: -56.5, y: 66}
+        - {x: -56.5, y: 28}
+        - {x: -54.5, y: -14}
+        - {x: -52.5, y: -66}
+        - {x: -56.5, y: -68}
+        - {x: -56.5, y: -82}
+        - {x: -37.5, y: -91}
+        - {x: -26.5, y: -95}
+        - {x: -17.5, y: -95}
+        - {x: 0.5, y: -81}
+        - {x: 36.5, y: -63}
+        - {x: 45.5, y: -63}
+      - - {x: -24.5, y: 77}
+        - {x: -22.5, y: 76}
+        - {x: -25.5, y: 75}
+        - {x: -25.5, y: 76}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8305bd9bccd44ba6a2fc45d219c0d2a4
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_cabinet_3
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 995
+        width: 118
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: -56}
+        - {x: -59, y: -53}
+        - {x: -59, y: 22}
+        - {x: 8, y: 56}
+        - {x: 47, y: 56}
+        - {x: 59, y: 45}
+        - {x: 59, y: -22}
+        - {x: 15, y: -56}
+      physicsShape:
+      - - {x: 52, y: -24}
+        - {x: 59, y: -18}
+        - {x: 59, y: -3}
+        - {x: 58, y: 24}
+        - {x: 59, y: 27}
+        - {x: 59, y: 36}
+        - {x: 55, y: 40}
+        - {x: 34, y: 52}
+        - {x: 23, y: 55}
+        - {x: -46, y: 21}
+        - {x: -53, y: 11}
+        - {x: -53, y: 3}
+        - {x: -52, y: 1}
+        - {x: -53, y: -16}
+        - {x: -53, y: -42}
+        - {x: -21, y: -55}
+        - {x: -14, y: -55}
+        - {x: -9, y: -51}
+        - {x: -9.999999, y: -42}
+        - {x: 39, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096ef5c1017b4e2dbbfbc9854de6af12
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_bedchair_3
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 422
+        width: 99
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4899381, y: 0.5874144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: -15}
+        - {x: -49.5, y: -1}
+        - {x: -49.5, y: 27}
+        - {x: -40.5, y: 35}
+        - {x: -12.5, y: 35}
+        - {x: 37.5, y: 12}
+        - {x: 49.5, y: 5}
+        - {x: 49.5, y: -32}
+        - {x: 43.5, y: -35}
+        - {x: 10.5, y: -35}
+      physicsShape:
+      - - {x: -11.5, y: 30}
+        - {x: -13.5, y: 35}
+        - {x: -34.5, y: 35}
+        - {x: -46.5, y: 31}
+        - {x: -46.5, y: 12}
+        - {x: -35.5, y: -7}
+        - {x: 15.5, y: -26}
+        - {x: 18.5, y: -33}
+        - {x: 33.5, y: -33}
+        - {x: 49.5, y: -17}
+        - {x: 49.5, y: 3}
+        - {x: 36.5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c321392f1df84bf892ad0a9a1adc94a6
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuobu2-2
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 809
+        width: 224
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: 17}
+        - {x: 106, y: 19}
+        - {x: 106, y: 22}
+        - {x: 108, y: 24}
+        - {x: 112, y: 24}
+        - {x: 112, y: 17}
+      - - {x: -103, y: -52}
+        - {x: -112, y: -40}
+        - {x: -112, y: 10}
+        - {x: -85, y: 52}
+        - {x: 75, y: 52}
+        - {x: 75, y: -34}
+        - {x: -5, y: -52}
+      physicsShape:
+      - - {x: 72, y: 20}
+        - {x: 23, y: 47}
+        - {x: 11, y: 50}
+        - {x: 2, y: 50}
+        - {x: -104, y: -1}
+        - {x: -106, y: -3}
+        - {x: -106, y: -12}
+        - {x: -105, y: -14}
+        - {x: -56, y: -39}
+        - {x: -44, y: -43}
+        - {x: -37, y: -45}
+        - {x: -27, y: -45}
+        - {x: 19, y: -18}
+        - {x: 57, y: -3}
+        - {x: 72, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2766fbdfa0f74faaafd737727e789cad
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_bed_3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1676
+        width: 236
+        height: 277
+      alignment: 9
+      pivot: {x: 0.5224594, y: 0.3316112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 120.5}
+        - {x: -0.9999995, y: 138.5}
+        - {x: 34, y: 138.5}
+        - {x: 66, y: 127.5}
+        - {x: 111, y: 102.5}
+        - {x: 117, y: 66.5}
+        - {x: 118, y: 55.5}
+        - {x: 118, y: -67.5}
+        - {x: 63, y: -97.5}
+        - {x: 69, y: -97.5}
+        - {x: 70, y: -98.5}
+        - {x: 70, y: -101.5}
+        - {x: 49, y: -118.5}
+        - {x: 33, y: -128.5}
+        - {x: 14, y: -138.5}
+        - {x: -7, y: -138.5}
+        - {x: -7, y: -132.5}
+        - {x: -6, y: -131.5}
+        - {x: -18, y: -131.5}
+        - {x: -73, y: -109.5}
+        - {x: -118, y: -88.5}
+        - {x: -118, y: -46.5}
+        - {x: -109, y: -40.5}
+        - {x: -111, y: 77.5}
+      - - {x: -36, y: -134.5}
+        - {x: -38, y: -131.5}
+        - {x: -38, y: -129.5}
+        - {x: -36, y: -127.5}
+        - {x: -26, y: -131.5}
+        - {x: -25, y: -134.5}
+        - {x: -27, y: -136.5}
+        - {x: -31, y: -136.5}
+      physicsShape:
+      - - {x: 107, y: -68.5}
+        - {x: 118, y: -63.5}
+        - {x: 118, y: -55.5}
+        - {x: 115, y: -41.5}
+        - {x: 118, y: -36.5}
+        - {x: 118, y: -26.5}
+        - {x: 111, y: -17.5}
+        - {x: 112, y: 30.5}
+        - {x: 112, y: 88.5}
+        - {x: 105, y: 92.5}
+        - {x: 95, y: 95.5}
+        - {x: 84, y: 108.5}
+        - {x: 65, y: 126.5}
+        - {x: 44, y: 127.5}
+        - {x: 36, y: 123.5}
+        - {x: 26, y: 131.5}
+        - {x: 23, y: 132.5}
+        - {x: 18, y: 132.5}
+        - {x: 2, y: 122.5}
+        - {x: -19, y: 124.5}
+        - {x: -42, y: 117.5}
+        - {x: -65, y: 99.49998}
+        - {x: -83, y: 80.5}
+        - {x: -96, y: 75.5}
+        - {x: -102, y: 72.49999}
+        - {x: -107, y: 67.5}
+        - {x: -107, y: -36.5}
+        - {x: -114, y: -46.5}
+        - {x: -114, y: -53.5}
+        - {x: -109, y: -72.5}
+        - {x: -114, y: -76.5}
+        - {x: -114, y: -80.5}
+        - {x: -103, y: -87.5}
+        - {x: -86, y: -83.5}
+        - {x: -26, y: -111.5}
+        - {x: -25, y: -122.5}
+        - {x: -18, y: -127.5}
+        - {x: -12, y: -127.5}
+        - {x: -2, y: -122.5}
+        - {x: 67, y: -84.5}
+        - {x: 83, y: -79.5}
+        - {x: 89, y: -71.5}
+      - - {x: -86, y: -21.5}
+        - {x: -87.99999, y: -2.5}
+        - {x: -91, y: 12.5}
+        - {x: -81.99999, y: 30.5}
+        - {x: -67, y: 26.49999}
+        - {x: -59, y: 17.5}
+        - {x: -48, y: 16.5}
+        - {x: -34, y: 6.499996}
+        - {x: -23, y: -10.5}
+        - {x: -51, y: -25.5}
+        - {x: -59, y: -21.5}
+      - - {x: 84, y: -9.5}
+        - {x: 81, y: 4.5}
+        - {x: 72, y: 12.5}
+        - {x: 64, y: 18.5}
+        - {x: 49, y: 23.5}
+        - {x: 43, y: 20.5}
+        - {x: 36, y: 15.5}
+        - {x: 37, y: 21.5}
+        - {x: 47, y: 33.5}
+        - {x: 60, y: 31.5}
+        - {x: 73, y: 45.49999}
+        - {x: 75, y: 51.49999}
+        - {x: 95, y: 13.5}
+      - - {x: 1, y: 5.499996}
+        - {x: 0, y: 5.499996}
+        - {x: 3, y: 2.499996}
+        - {x: 5, y: 2.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bb176500b54fe0949762961bc10760
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_teatable_2
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 111
+        width: 78
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5028748, y: 0.7648771}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: -40}
+        - {x: -39, y: -37}
+        - {x: -39, y: 29}
+        - {x: -32, y: 40}
+        - {x: 39, y: 40}
+        - {x: 39, y: -40}
+      physicsShape:
+      - - {x: 27, y: -3.999998}
+        - {x: 39, y: 9}
+        - {x: 39, y: 25}
+        - {x: 29, y: 37}
+        - {x: 15, y: 40}
+        - {x: -15, y: 40}
+        - {x: -26, y: 38}
+        - {x: -37, y: 33}
+        - {x: -39, y: 26}
+        - {x: -39, y: 7}
+        - {x: -31, y: -1}
+        - {x: -19, y: -25}
+        - {x: -16, y: -30}
+        - {x: -10, y: -34}
+        - {x: 12, y: -34}
+        - {x: 20, y: -27}
+        - {x: 17, y: -14}
+        - {x: 14, y: -6.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bff901d6ba248de85c453c89cd633e7
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ws_chuang_1_1
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1253
+        width: 33
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -48}
+        - {x: -16.5, y: -47}
+        - {x: -16.5, y: 4}
+        - {x: -11.5, y: 39}
+        - {x: -7.5, y: 48}
+        - {x: 13.5, y: 48}
+        - {x: 16.5, y: 24}
+        - {x: 16.5, y: -48}
+      physicsShape:
+      - - {x: 12.5, y: 41}
+        - {x: 7.5, y: 48}
+        - {x: -3.5, y: 48}
+        - {x: -7.5, y: 45}
+        - {x: -11.5, y: 20}
+        - {x: -16.5, y: -41}
+        - {x: -14.5, y: -43}
+        - {x: -6.5, y: -47}
+        - {x: -3.5, y: -48}
+        - {x: 6.5, y: -48}
+        - {x: 16.5, y: -40}
+        - {x: 16.5, y: -26}
+        - {x: 15.5, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90e6d95750743f8b921511c8c479ed7
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_nighttable_2
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 345
+        width: 65
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -25}
+        - {x: -32.5, y: -11}
+        - {x: -32.5, y: 18}
+        - {x: -29.5, y: 27}
+        - {x: -10.5, y: 32}
+        - {x: 24.5, y: 32}
+        - {x: 30.5, y: 17}
+        - {x: 32.5, y: 6}
+        - {x: 32.5, y: -25}
+        - {x: 13.5, y: -32}
+        - {x: -11.5, y: -32}
+      physicsShape:
+      - - {x: 16.5, y: 32}
+        - {x: -4.5, y: 32}
+        - {x: -22.5, y: 25}
+        - {x: -24.5, y: 13}
+        - {x: -24.5, y: -20}
+        - {x: 2.5, y: -32}
+        - {x: 8.5, y: -32}
+        - {x: 28.5, y: -22}
+        - {x: 28.5, y: 18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1482e76a1eda464faf8b21b9bcc17273
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hua
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 321
+        width: 64
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: -24.5}
+        - {x: 23, y: -39.5}
+        - {x: -16, y: -39.5}
+        - {x: -32, y: -33.5}
+        - {x: -32, y: 18.5}
+        - {x: -15, y: 39.5}
+        - {x: -12, y: 39.5}
+        - {x: -7, y: 35.5}
+        - {x: 0, y: 29.5}
+        - {x: -2, y: 31.5}
+        - {x: -4, y: 37.5}
+        - {x: -1, y: 39.5}
+        - {x: 15, y: 39.5}
+        - {x: 31, y: 22.5}
+        - {x: 32, y: 8.5}
+        - {x: 32, y: -5.5}
+        - {x: 32, y: -11.5}
+      physicsShape:
+      - - {x: 9.999999, y: 34.5}
+        - {x: -17, y: 34.5}
+        - {x: -21, y: 33.5}
+        - {x: -25, y: 12.5}
+        - {x: -18, y: 12.5}
+        - {x: -14, y: 13.5}
+        - {x: -16, y: 13.5}
+        - {x: -21, y: 7.5}
+        - {x: -31, y: 0.5}
+        - {x: -31, y: -14.5}
+        - {x: -29, y: -23.5}
+        - {x: -21, y: -28.5}
+        - {x: -18, y: -26.5}
+        - {x: -16, y: -24.5}
+        - {x: -16, y: -22.5}
+        - {x: -19, y: -18.5}
+        - {x: -16, y: -0.5}
+        - {x: -16, y: -23.5}
+        - {x: -14, y: -26.5}
+        - {x: 2, y: -35.5}
+        - {x: 15, y: -35.5}
+        - {x: 18, y: -28.5}
+        - {x: 22, y: -18.5}
+        - {x: 22, y: 31.5}
+      - - {x: 20, y: -17.5}
+        - {x: 12, y: -17.5}
+        - {x: 9.999999, y: -20.5}
+        - {x: 9.999999, y: -25.5}
+        - {x: 21, y: -25.5}
+        - {x: 24, y: -23.5}
+        - {x: 24, y: -19.5}
+      - - {x: -9.999999, y: 15.5}
+        - {x: -9.999999, y: 14.5}
+        - {x: -7, y: 18.5}
+        - {x: -8, y: 22.5}
+        - {x: -9, y: 13.5}
+        - {x: -7, y: 10.5}
+        - {x: -6, y: 11.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d02b30c596f4653bfdb239f4c7a0f88
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panzi3
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 410
+        width: 69
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: -15}
+        - {x: -34.5, y: 15}
+        - {x: 34.5, y: 15}
+        - {x: 34.5, y: -15}
+      physicsShape:
+      - - {x: 24.5, y: -3}
+        - {x: 11.5, y: -3}
+        - {x: 11.5, y: -13}
+        - {x: 27.5, y: -13}
+        - {x: 27.5, y: -7}
+        - {x: 26.5, y: -4}
+      - - {x: -14.5, y: 11}
+        - {x: -22.5, y: 11}
+        - {x: -30.5, y: 6}
+        - {x: -30.5, y: -8}
+        - {x: -27.5, y: -9}
+        - {x: 1.5, y: -9}
+        - {x: 2.5, y: -7}
+        - {x: 5.5, y: -3}
+        - {x: 5.5, y: 4}
+      - - {x: 6.5, y: 13}
+        - {x: 6.5, y: 6}
+        - {x: 12.5, y: 0}
+        - {x: 33.5, y: 0}
+        - {x: 33.5, y: 8}
+        - {x: 26.5, y: 13}
+      - - {x: -2.5, y: 13}
+        - {x: -2.5, y: 4}
+        - {x: 0.5, y: 3}
+        - {x: 5.5, y: 3}
+        - {x: 6.5, y: 5}
+        - {x: 6.5, y: 9.999999}
+        - {x: 1.5, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75ba19f38f741e0a6edd5ceb25b0ba7
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_fireplace_2
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 131
+        width: 135
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.5, y: -64.5}
+        - {x: -67.5, y: -61.5}
+        - {x: -67.5, y: 36.5}
+        - {x: 14.5, y: 68.5}
+        - {x: 23.5, y: 71.5}
+        - {x: 45.5, y: 71.5}
+        - {x: 67.5, y: 55.5}
+        - {x: 67.5, y: -32.5}
+        - {x: -12.5, y: -71.5}
+        - {x: -37.5, y: -71.5}
+      physicsShape:
+      - - {x: 41.5, y: 67.5}
+        - {x: 33.5, y: 67.5}
+        - {x: -56.5, y: 21.5}
+        - {x: -56.5, y: 16.5}
+        - {x: -52.5, y: 10.5}
+        - {x: -59.5, y: -32.5}
+        - {x: -59.5, y: -57.5}
+        - {x: -33.5, y: -69.5}
+        - {x: -25.5, y: -69.5}
+        - {x: 66.5, y: -29.5}
+        - {x: 66.5, y: -13.5}
+        - {x: 62.5, y: -4.5}
+        - {x: 66.5, y: 39.5}
+        - {x: 66.5, y: 56.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b267df5c962545888625f3fdc911f235
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_teacarpet_3
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 794
+        width: 186
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -89, y: -45.5}
+        - {x: -93, y: -33.5}
+        - {x: -93, y: 8.5}
+        - {x: -81, y: 25.5}
+        - {x: -39, y: 48.5}
+        - {x: 82, y: 48.5}
+        - {x: 93, y: 46.5}
+        - {x: 93, y: -21.5}
+        - {x: 40, y: -48.5}
+        - {x: -79, y: -48.5}
+      physicsShape:
+      - - {x: 88, y: -0.5}
+        - {x: 91.99999, y: 8.5}
+        - {x: 91.99999, y: 22.5}
+        - {x: 91, y: 29.5}
+        - {x: 77, y: 40.5}
+        - {x: 64, y: 44.5}
+        - {x: 45, y: 47.5}
+        - {x: 23, y: 47.5}
+        - {x: 4, y: 45.5}
+        - {x: -21, y: 41.5}
+        - {x: -43, y: 34.5}
+        - {x: -61, y: 24.5}
+        - {x: -71, y: 17.5}
+        - {x: -88, y: -0.5}
+        - {x: -91, y: -9.5}
+        - {x: -91, y: -24.5}
+        - {x: -81, y: -37.5}
+        - {x: -68, y: -42.5}
+        - {x: -61, y: -44.5}
+        - {x: -52, y: -46.5}
+        - {x: -8, y: -46.5}
+        - {x: 20, y: -41.5}
+        - {x: 52, y: -29.5}
+        - {x: 70, y: -19.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a993e579b54006860664ef9699e57c
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_cushionB_1
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 447
+        width: 55
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -17}
+        - {x: -27.5, y: -12}
+        - {x: -27.5, y: 15}
+        - {x: -25.5, y: 17}
+        - {x: 27.5, y: 17}
+        - {x: 27.5, y: -15}
+        - {x: 19.5, y: -17}
+      physicsShape:
+      - - {x: -18.5, y: 16}
+        - {x: -24.5, y: 6}
+        - {x: -24.5, y: -11}
+        - {x: -22.5, y: -14}
+        - {x: 23.5, y: -14}
+        - {x: 23.5, y: 15}
+        - {x: 18.5, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1e882886e544e1b32e47c7248aa4ef
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_cabinet_2
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1287
+        width: 105
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.5, y: -52}
+        - {x: -52.5, y: -43}
+        - {x: -52.5, y: 18}
+        - {x: 11.5, y: 52}
+        - {x: 35.5, y: 52}
+        - {x: 52.5, y: 38}
+        - {x: 52.5, y: -28}
+        - {x: 5.5, y: -52}
+      physicsShape:
+      - - {x: 52.5, y: 36}
+        - {x: 35.5, y: 50}
+        - {x: 25.5, y: 50}
+        - {x: -49.5, y: 15}
+        - {x: -49.5, y: -33}
+        - {x: -47.5, y: -46}
+        - {x: -39.5, y: -51}
+        - {x: -28.5, y: -52}
+        - {x: -2.5, y: -52}
+        - {x: 41.5, y: -24}
+        - {x: 48.5, y: -28}
+        - {x: 52.5, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724575f0a8f94083975d422877f9cbb4
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_teacarpet_1
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 895
+        width: 186
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: -48}
+        - {x: -93, y: -48}
+        - {x: -93, y: 17}
+        - {x: -20, y: 48}
+        - {x: 93, y: 48}
+        - {x: 93, y: -15}
+      physicsShape:
+      - - {x: 68, y: -20}
+        - {x: 84, y: -5}
+        - {x: 91, y: 6}
+        - {x: 91, y: 22}
+        - {x: 90, y: 30}
+        - {x: 78, y: 38}
+        - {x: 65, y: 44}
+        - {x: 55, y: 46}
+        - {x: 5, y: 46}
+        - {x: -28, y: 40}
+        - {x: -61, y: 25}
+        - {x: -70, y: 18}
+        - {x: -87, y: 1}
+        - {x: -91, y: -6}
+        - {x: -91, y: -23}
+        - {x: -89, y: -31}
+        - {x: -82, y: -36}
+        - {x: -66.99999, y: -44}
+        - {x: -52, y: -47}
+        - {x: -21, y: -47}
+        - {x: 2, y: -44}
+        - {x: 21, y: -41}
+        - {x: 46, y: -33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e75c7c766ef48de91b8fe0c5893ce5d
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_armchairA_3
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1706
+        width: 84
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5919937, y: 0.5166541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: -36.5}
+        - {x: -42, y: -30.5}
+        - {x: -42, y: 43.5}
+        - {x: -9, y: 43.5}
+        - {x: 39, y: 18.5}
+        - {x: 42, y: 4.5}
+        - {x: 42, y: -38.5}
+        - {x: 36, y: -43.5}
+        - {x: -13, y: -43.5}
+      physicsShape:
+      - - {x: 38, y: 9.5}
+        - {x: 36, y: 13.5}
+        - {x: 26, y: 17.5}
+        - {x: 19, y: 12.5}
+        - {x: -10, y: 43.5}
+        - {x: -37, y: 43.5}
+        - {x: -40, y: 39.5}
+        - {x: -40, y: 29.5}
+        - {x: -37, y: 16.5}
+        - {x: -35, y: -21.5}
+        - {x: -33, y: -24.5}
+        - {x: -29, y: -25.5}
+        - {x: -24, y: -22.5}
+        - {x: -25, y: -6.5}
+        - {x: 0, y: -19.5}
+        - {x: 0, y: -40.5}
+        - {x: 2, y: -42.5}
+        - {x: 8, y: -42.5}
+        - {x: 12, y: -40.5}
+        - {x: 12, y: -23.5}
+        - {x: 33, y: -29.5}
+        - {x: 38, y: -29.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bf9ec895474b7a9c53f8d5a3a0c765
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_bedchair_1
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 321
+        width: 113
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5531839, y: 0.6624264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: -14}
+        - {x: -56.5, y: -3.000001}
+        - {x: -56.5, y: 30}
+        - {x: -49.5, y: 40}
+        - {x: -8.500001, y: 40}
+        - {x: -5.5, y: 39}
+        - {x: 56.5, y: 7}
+        - {x: 56.5, y: -34}
+        - {x: 42.5, y: -40}
+        - {x: 20.5, y: -40}
+      physicsShape:
+      - - {x: 55.5, y: -26}
+        - {x: 55.5, y: -2}
+        - {x: 54.5, y: 2.000001}
+        - {x: -13.5, y: 38}
+        - {x: -24.5, y: 38}
+        - {x: -41.5, y: 29}
+        - {x: -46.5, y: 25}
+        - {x: -46.5, y: -4}
+        - {x: -36.5, y: -9}
+        - {x: -29.5, y: 4}
+        - {x: -4.5, y: -7.999998}
+        - {x: 24.5, y: -19}
+        - {x: 24.5, y: -37}
+        - {x: 27.5, y: -38}
+        - {x: 30.5, y: -38}
+        - {x: 31.5, y: -36}
+        - {x: 32.5, y: -16}
+        - {x: 48.5, y: -28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe05c7eb3ae41148216a88eccff6ffd
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuihu1
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 496
+        width: 72
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -38}
+        - {x: -36, y: -11}
+        - {x: -36, y: 29}
+        - {x: -33, y: 37}
+        - {x: -30, y: 38}
+        - {x: 36, y: 38}
+        - {x: 36, y: -26}
+        - {x: 28, y: -38}
+      physicsShape:
+      - - {x: 35, y: 22}
+        - {x: 35, y: 35}
+        - {x: 34, y: 38}
+        - {x: 6, y: 38}
+        - {x: -12, y: 34}
+        - {x: -25, y: 29}
+        - {x: -35, y: 22}
+        - {x: -35, y: 3}
+        - {x: -18, y: -12}
+        - {x: -9.999999, y: -31}
+        - {x: -3, y: -32}
+        - {x: 16, y: -32}
+        - {x: 20, y: -30}
+        - {x: 32, y: -9}
+        - {x: 31, y: 16}
+      - - {x: -26, y: 9}
+        - {x: -25, y: 17}
+        - {x: -19, y: 15}
+        - {x: -22, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543942ad1e6f4ef1aaa9dfdd137c2ec3
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panzi4
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1272
+        width: 86
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -28.5}
+        - {x: -43, y: -15.5}
+        - {x: -43, y: 28.5}
+        - {x: 37, y: 28.5}
+        - {x: 43, y: 16.5}
+        - {x: 43, y: -10.5}
+        - {x: 21, y: -27.5}
+        - {x: 14, y: -28.5}
+      physicsShape:
+      - - {x: 28, y: 20.5}
+        - {x: 14, y: 25.5}
+        - {x: -19, y: 25.5}
+        - {x: -35, y: 10.5}
+        - {x: -35, y: -4.5}
+        - {x: -23, y: -16.5}
+        - {x: -17, y: -17.5}
+        - {x: 19, y: -17.5}
+        - {x: 35, y: -8.5}
+        - {x: 38, y: 2.5}
+        - {x: 38, y: 11.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e6638d6a474049a3a87fa25f3af858
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banquet_table
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1676
+        width: 304
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -117, y: -96}
+        - {x: -152, y: -74}
+        - {x: -152, y: -13}
+        - {x: -52, y: 42}
+        - {x: 67, y: 96}
+        - {x: 99, y: 96}
+        - {x: 152, y: 74}
+        - {x: 152, y: 15}
+        - {x: 147, y: 11}
+        - {x: 46, y: -43}
+        - {x: -69, y: -96}
+      physicsShape:
+      - - {x: 142, y: 20}
+        - {x: 139, y: 28}
+        - {x: 132, y: 34}
+        - {x: 152, y: 54}
+        - {x: 152, y: 68}
+        - {x: 100, y: 96}
+        - {x: 71, y: 96}
+        - {x: -152, y: -15}
+        - {x: -152, y: -31}
+        - {x: -131, y: -49}
+        - {x: -144, y: -64}
+        - {x: -88, y: -91}
+        - {x: -68, y: -91}
+        - {x: -82, y: -70}
+        - {x: 5, y: -23}
+        - {x: 133, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b664f9efc854cec94df6b1449c099e3
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throne_pedestal_3
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 917
+        width: 85
+        height: 257
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -120.5}
+        - {x: -42.5, y: 16.5}
+        - {x: -42.5, y: 128.5}
+        - {x: -29.5, y: 128.5}
+        - {x: 42.5, y: 95.5}
+        - {x: 42.5, y: -124.5}
+        - {x: 36.5, y: -128.5}
+        - {x: -7.5, y: -128.5}
+        - {x: -10.5, y: -127.5}
+      physicsShape:
+      - - {x: 38.5, y: 60.5}
+        - {x: 42.5, y: 71.5}
+        - {x: 42.5, y: 86.5}
+        - {x: 41.5, y: 90.5}
+        - {x: -39.5, y: 128.5}
+        - {x: -42.5, y: 128.5}
+        - {x: -42.5, y: 100.5}
+        - {x: -36.5, y: 96.5}
+        - {x: -6.5, y: 61.5}
+        - {x: -8.5, y: -78.5}
+        - {x: -17.5, y: -103.5}
+        - {x: -25.5, y: -122.5}
+        - {x: -8.5, y: -127.5}
+        - {x: 41.5, y: -127.5}
+        - {x: 42.5, y: -122.5}
+        - {x: 42.5, y: -99.5}
+        - {x: 35.5, y: -78.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cea5584013a4b69a04a02c55525792f
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_bed_1
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1388
+        width: 247
+        height: 248
+      alignment: 9
+      pivot: {x: 0.528748, y: 0.359738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110.5, y: -98}
+        - {x: -123.5, y: -79}
+        - {x: -123.5, y: -10}
+        - {x: -102.5, y: 20}
+        - {x: -28.5, y: 12}
+        - {x: -61.5, y: 109}
+        - {x: 2.5, y: 124}
+        - {x: 19.5, y: 124}
+        - {x: 24.5, y: 111}
+        - {x: 114.5, y: 77}
+        - {x: 123.5, y: 78}
+        - {x: 123.5, y: -56}
+        - {x: 109.5, y: -88}
+        - {x: 6.5, y: -124}
+        - {x: -28.5, y: -124}
+        - {x: -94.5, y: -90}
+      physicsShape:
+      - - {x: 86.5, y: -75}
+        - {x: 118.5, y: -57}
+        - {x: 121.5, y: -54}
+        - {x: 120.5, y: 34.99999}
+        - {x: 123.5, y: 39}
+        - {x: 123.5, y: 71}
+        - {x: 119.5, y: 73}
+        - {x: 113.5, y: 74}
+        - {x: 103.5, y: 71}
+        - {x: 21.5, y: 110}
+        - {x: 21.5, y: 115}
+        - {x: 18.5, y: 124}
+        - {x: 4.5, y: 124}
+        - {x: 2.5, y: 123}
+        - {x: 3.5, y: 110}
+        - {x: -26.5, y: 95.99998}
+        - {x: -30.5, y: 106}
+        - {x: -44.5, y: 100}
+        - {x: -42.5, y: 66.99999}
+        - {x: -32.5, y: 44}
+        - {x: -15.5, y: 23}
+        - {x: -3.5, y: 19}
+        - {x: -19.5, y: 4.999996}
+        - {x: -40.5, y: -5.000002}
+        - {x: -84.5, y: -26}
+        - {x: -100.5, y: -32}
+        - {x: -96.49999, y: -15}
+        - {x: -98.49999, y: -2}
+        - {x: -102.5, y: 2}
+        - {x: -108.5, y: 4}
+        - {x: -113.5, y: -4}
+        - {x: -113.5, y: -19}
+        - {x: -108.5, y: -33}
+        - {x: -116.5, y: -37}
+        - {x: -116.5, y: -68}
+        - {x: -106.5, y: -74}
+        - {x: -92.5, y: -72}
+        - {x: -89.49999, y: -69}
+        - {x: -77.49999, y: -72}
+        - {x: -15.5, y: -104}
+        - {x: -19.5, y: -113}
+        - {x: -17.5, y: -119}
+        - {x: -9.5, y: -121}
+        - {x: -3.5, y: -121}
+        - {x: 1.5, y: -119}
+        - {x: 16.5, y: -110}
+        - {x: 29.5, y: -104}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc628b4492947bcbb13a862189f2665
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_stool
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 189
+        width: 86
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -48}
+        - {x: -43, y: -19}
+        - {x: -43, y: 38}
+        - {x: -36, y: 45}
+        - {x: -26, y: 48}
+        - {x: 43, y: 48}
+        - {x: 43, y: -48}
+      physicsShape:
+      - - {x: 20, y: -33}
+        - {x: 22, y: -17}
+        - {x: 39, y: -15}
+        - {x: 42, y: -9.999999}
+        - {x: 42, y: -6}
+        - {x: 32, y: -3}
+        - {x: 18, y: -5}
+        - {x: 17, y: 12}
+        - {x: 16, y: 32}
+        - {x: 20, y: 41}
+        - {x: -15, y: 41}
+        - {x: -25, y: 34}
+        - {x: -25, y: 0}
+        - {x: -2, y: -40}
+        - {x: 3, y: -45}
+        - {x: 34, y: -45}
+        - {x: 42, y: -43}
+        - {x: 42, y: -34}
+        - {x: 39, y: -30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869d4b3d67ac4205bcf6c34cee592f1a
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuobu2
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1132
+        width: 112
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -16}
+        - {x: -56, y: -10}
+        - {x: -56, y: 14}
+        - {x: -13, y: 26}
+        - {x: 22, y: 26}
+        - {x: 38, y: 11}
+        - {x: 38, y: 0}
+        - {x: 32, y: -10}
+        - {x: -3, y: -26}
+        - {x: -36, y: -26}
+      - - {x: 54, y: 7}
+        - {x: 52, y: 9}
+        - {x: 52, y: 11}
+        - {x: 54, y: 13}
+        - {x: 56, y: 13}
+        - {x: 56, y: 7}
+      physicsShape:
+      - - {x: 5, y: 26}
+        - {x: 2, y: 26}
+        - {x: -54, y: 0}
+        - {x: -54, y: -5}
+        - {x: -53, y: -9}
+        - {x: -20, y: -24}
+        - {x: -14, y: -24}
+        - {x: -12, y: -23}
+        - {x: 35, y: 0}
+        - {x: 37, y: 4}
+        - {x: 37, y: 9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8301a8425ac484d92ca28edd4c61bb7
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlt_daditan_1
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 460
+        width: 462
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -115, y: -115.5}
+        - {x: -231, y: -57.5}
+        - {x: -231, y: -44.5}
+        - {x: -191, y: -27.5}
+        - {x: -77, y: 29.5}
+        - {x: 31, y: 82.5}
+        - {x: 99, y: 115.5}
+        - {x: 111, y: 115.5}
+        - {x: 130, y: 106.5}
+        - {x: 189, y: 76.5}
+        - {x: 229, y: 57.5}
+        - {x: 231, y: 56.5}
+        - {x: 231, y: 43.5}
+        - {x: 223, y: 41.5}
+        - {x: -49, y: -93.5}
+        - {x: -96, y: -115.5}
+      physicsShape:
+      - - {x: 100, y: 115.5}
+        - {x: -224, y: -44.5}
+        - {x: -229, y: -44.5}
+        - {x: -229, y: -53.5}
+        - {x: -132, y: -113.5}
+        - {x: -89, y: -113.5}
+        - {x: 228, y: 49.5}
+        - {x: 228, y: 53.5}
+        - {x: 226, y: 58.5}
+        - {x: 110, y: 114.5}
+        - {x: 104, y: 115.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d1b37e6516474f9994ff3703340d7a
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shui
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 405
+        width: 43
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -9}
+        - {x: -21.5, y: 9}
+        - {x: 21.5, y: 9}
+        - {x: 21.5, y: -9}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b496e3b0c44e34bba818eedde1c5c9
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ws_chuang_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1388
+        width: 260
+        height: 284
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -68}
+        - {x: 70, y: -98}
+        - {x: 76, y: -98}
+        - {x: 77, y: -99}
+        - {x: 77, y: -102}
+        - {x: 48, y: -125}
+        - {x: 32, y: -132}
+        - {x: 10, y: -142}
+        - {x: -4, y: -142}
+        - {x: -7, y: -140}
+        - {x: -7, y: -136}
+        - {x: -4, y: -132}
+        - {x: -8, y: -133}
+        - {x: -31, y: -133}
+        - {x: -29, y: -134}
+        - {x: -29, y: -140}
+        - {x: -38, y: -140}
+        - {x: -41, y: -135}
+        - {x: -41, y: -130}
+        - {x: -38, y: -130}
+        - {x: -34, y: -132}
+        - {x: -73, y: -108}
+        - {x: -78, y: -104}
+        - {x: -78, y: -108}
+        - {x: -102, y: -108}
+        - {x: -107, y: -98}
+        - {x: -107, y: -87}
+        - {x: -103, y: -87}
+        - {x: -107, y: -85}
+        - {x: -109, y: -87}
+        - {x: -120, y: -86}
+        - {x: -130, y: -78}
+        - {x: -130, y: -18}
+        - {x: -121, y: 79}
+        - {x: -58, y: 139}
+        - {x: -46, y: 142}
+        - {x: 96, y: 142}
+        - {x: 130, y: 82}
+        - {x: 130, y: 12}
+        - {x: 130, y: 3}
+      physicsShape:
+      - - {x: 33, y: -101}
+        - {x: 56, y: -89}
+        - {x: 85, y: -75}
+        - {x: 91, y: -69}
+        - {x: 104, y: -63}
+        - {x: 115, y: -66.99999}
+        - {x: 125, y: -61}
+        - {x: 125, y: -59}
+        - {x: 119, y: -40}
+        - {x: 125, y: -36}
+        - {x: 125, y: -29}
+        - {x: 118, y: -11}
+        - {x: 116, y: 4}
+        - {x: 117, y: 33}
+        - {x: 117, y: 90}
+        - {x: 115, y: 94}
+        - {x: 103, y: 98.99999}
+        - {x: 96, y: 98.99999}
+        - {x: 87, y: 111}
+        - {x: 75, y: 122}
+        - {x: 62, y: 134}
+        - {x: 39, y: 137}
+        - {x: 25, y: 135}
+        - {x: 18, y: 142}
+        - {x: 5, y: 142}
+        - {x: -9, y: 132}
+        - {x: -19, y: 134}
+        - {x: -32, y: 133}
+        - {x: -53, y: 127}
+        - {x: -55, y: 124}
+        - {x: -72.99999, y: 112}
+        - {x: -96, y: 91}
+        - {x: -115, y: 83}
+        - {x: -120, y: 79}
+        - {x: -120, y: 49}
+        - {x: -119, y: 22}
+        - {x: -127, y: -39}
+        - {x: -127, y: -43}
+        - {x: -120, y: -57}
+        - {x: -127, y: -66.99999}
+        - {x: -125, y: -72.99999}
+        - {x: -114, y: -78}
+        - {x: -104, y: -75}
+        - {x: -90, y: -75}
+        - {x: -25, y: -121}
+        - {x: -15, y: -127}
+        - {x: -7, y: -127}
+        - {x: 1, y: -122}
+        - {x: 6, y: -114}
+        - {x: 25, y: -106}
+      - - {x: -96, y: -28}
+        - {x: -97, y: -20}
+        - {x: -97.99999, y: -13}
+        - {x: -100, y: 4}
+        - {x: -91, y: 37}
+        - {x: -62, y: 20}
+        - {x: -47, y: 21}
+        - {x: -29, y: -1}
+        - {x: -82, y: -21}
+        - {x: -85, y: -27}
+        - {x: -96, y: -33}
+      - - {x: 77, y: 20}
+        - {x: 50, y: 30}
+        - {x: 44, y: 29}
+        - {x: 39, y: 27}
+        - {x: 34, y: 21}
+        - {x: 37, y: 23}
+        - {x: 44, y: 30}
+        - {x: 61, y: 34}
+        - {x: 68, y: 38}
+        - {x: 84, y: 50}
+        - {x: 95, y: 43}
+        - {x: 97.99999, y: 14}
+        - {x: 93, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73117571a7d446bdb7619c502bbc9491
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_smallrug_2
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 685
+        width: 208
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: -52.5}
+        - {x: -104, y: -20.5}
+        - {x: -104, y: 34.5}
+        - {x: -99, y: 40.5}
+        - {x: -55, y: 52.5}
+        - {x: 3, y: 52.5}
+        - {x: 61, y: 46.5}
+        - {x: 104, y: 20.5}
+        - {x: 104, y: -32.5}
+        - {x: 73, y: -52.5}
+      physicsShape:
+      - - {x: 104, y: -13.5}
+        - {x: 104, y: 12.5}
+        - {x: 96, y: 23.5}
+        - {x: 79.99999, y: 32.5}
+        - {x: 60, y: 38.5}
+        - {x: 45, y: 37.5}
+        - {x: 33, y: 44.5}
+        - {x: 26, y: 48.5}
+        - {x: 14, y: 46.5}
+        - {x: 3, y: 44.5}
+        - {x: -9.999999, y: 52.5}
+        - {x: -44, y: 52.5}
+        - {x: -57, y: 47.5}
+        - {x: -66.99999, y: 43.5}
+        - {x: -85.99999, y: 34.5}
+        - {x: -101, y: 22.5}
+        - {x: -104, y: 16.5}
+        - {x: -104, y: 4.5}
+        - {x: -100, y: -1.5}
+        - {x: -85, y: -2.5}
+        - {x: -93, y: -9.5}
+        - {x: -95, y: -12.5}
+        - {x: -79.99999, y: -23.5}
+        - {x: -72, y: -29.5}
+        - {x: -63, y: -39.5}
+        - {x: -48, y: -47.5}
+        - {x: -31, y: -52.5}
+        - {x: 42, y: -52.5}
+        - {x: 68, y: -44.5}
+        - {x: 91.99999, y: -30.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16c769d0bb94ae79a11ea75dd7dacbb
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazhu2
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 131
+        width: 33
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: -31}
+        - {x: -16.5, y: -31}
+        - {x: -16.5, y: 31}
+        - {x: 4.5, y: 31}
+        - {x: 16.5, y: 25}
+        - {x: 16.5, y: -22}
+      physicsShape:
+      - - {x: 11.5, y: 20}
+        - {x: 7.5, y: 18}
+        - {x: 5.5, y: 16}
+        - {x: 5.5, y: 5}
+        - {x: 5.5, y: 15}
+        - {x: 4.5, y: 20}
+        - {x: 4.5, y: 31}
+        - {x: -14.5, y: 31}
+        - {x: -16.5, y: 30}
+        - {x: -16.5, y: 1}
+        - {x: -10.5, y: -26}
+        - {x: -6.5, y: -31}
+        - {x: 5.5, y: -31}
+        - {x: 10.5, y: -22}
+        - {x: 16.5, y: -9}
+        - {x: 16.5, y: 9}
+      - - {x: -4.5, y: 9}
+        - {x: -7.5, y: 6}
+        - {x: -6.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7954301f9f44a38cbd73f639fb9b62
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shigaoxiang
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 886
+        width: 26
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -26}
+        - {x: -13, y: 26}
+        - {x: 13, y: 26}
+        - {x: 13, y: -26}
+      physicsShape:
+      - - {x: 3, y: 26}
+        - {x: -9.999999, y: 26}
+        - {x: -13, y: 21}
+        - {x: -13, y: -17}
+        - {x: -9, y: -22}
+        - {x: 8, y: -22}
+        - {x: 11, y: -9.999999}
+        - {x: 11, y: 14}
+        - {x: 9, y: 23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707084cdbbb040619e4423204eee0031
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuibei2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1957
+        width: 14
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -10}
+        - {x: -7, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -10}
+      physicsShape:
+      - - {x: -2, y: 9}
+        - {x: -6, y: 8}
+        - {x: -6, y: -7}
+        - {x: -5, y: -9}
+        - {x: 4, y: -9}
+        - {x: 7, y: -5}
+        - {x: 7, y: 6}
+        - {x: 6, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5833f277d6415bb732970b19bb99f7
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_bigrug_3
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 0
+        width: 254
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: -53.5}
+        - {x: -127, y: -16.5}
+        - {x: -127, y: 42.5}
+        - {x: -118, y: 48.5}
+        - {x: -90, y: 63.5}
+        - {x: 21, y: 63.5}
+        - {x: 80, y: 56.5}
+        - {x: 127, y: 11.5}
+        - {x: 127, y: -38.5}
+        - {x: 121, y: -54.5}
+        - {x: 101, y: -63.5}
+        - {x: -37, y: -63.5}
+      physicsShape:
+      - - {x: 125, y: -34.5}
+        - {x: 127, y: -28.5}
+        - {x: 127, y: -5.5}
+        - {x: 119, y: 11.5}
+        - {x: 102, y: 27.5}
+        - {x: 76, y: 41.5}
+        - {x: 58, y: 50.5}
+        - {x: 31, y: 58.5}
+        - {x: 5, y: 63.5}
+        - {x: -61, y: 63.5}
+        - {x: -68, y: 62.5}
+        - {x: -78, y: 60.5}
+        - {x: -95, y: 56.5}
+        - {x: -113, y: 45.5}
+        - {x: -123, y: 35.5}
+        - {x: -127, y: 26.5}
+        - {x: -127, y: 3.5}
+        - {x: -123, y: -6.5}
+        - {x: -106, y: -23.5}
+        - {x: -83, y: -39.5}
+        - {x: -58, y: -50.5}
+        - {x: -31, y: -58.5}
+        - {x: -11, y: -61.5}
+        - {x: 2, y: -63.5}
+        - {x: 61, y: -63.5}
+        - {x: 78, y: -61.5}
+        - {x: 95, y: -56.5}
+        - {x: 112, y: -46.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dc6827682b4f91b1dd008c08e70afa
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_candlestick_3
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 886
+        width: 26
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -20.5}
+        - {x: -13, y: 20.5}
+        - {x: 13, y: 20.5}
+        - {x: 13, y: -20.5}
+      physicsShape:
+      - - {x: 8, y: 20.5}
+        - {x: 3, y: 20.5}
+        - {x: -3, y: 13.5}
+        - {x: -3, y: 11.5}
+        - {x: -6, y: 16.5}
+        - {x: -9, y: 15.5}
+        - {x: -11, y: 1.5}
+        - {x: -13, y: -3.5}
+        - {x: -13, y: -12.5}
+        - {x: -6, y: -18.5}
+        - {x: 6, y: -18.5}
+        - {x: 12, y: -12.5}
+        - {x: 12, y: 0.5}
+        - {x: 11, y: 13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555abad278b74d9e937275e0ad23f482
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_cushionA_3
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1813
+        width: 58
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -18}
+        - {x: -29, y: -16}
+        - {x: -29, y: 13}
+        - {x: -19, y: 18}
+        - {x: 20, y: 18}
+        - {x: 29, y: 6}
+        - {x: 29, y: -9}
+        - {x: 22, y: -18}
+      physicsShape:
+      - - {x: 14, y: 17}
+        - {x: -9.999999, y: 17}
+        - {x: -27, y: 12}
+        - {x: -27, y: -3}
+        - {x: -23, y: -9}
+        - {x: -11, y: -15}
+        - {x: -7, y: -16}
+        - {x: 12, y: -16}
+        - {x: 28, y: -9}
+        - {x: 28, y: 1}
+        - {x: 20, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8957374bd3164af99d8c6a83d5f88560
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_cushionB_2
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1069
+        width: 70
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -20.5}
+        - {x: -35, y: -15.5}
+        - {x: -35, y: 17.5}
+        - {x: -28, y: 20.5}
+        - {x: 30, y: 20.5}
+        - {x: 35, y: 12.5}
+        - {x: 35, y: -10.5}
+        - {x: 24, y: -20.5}
+      physicsShape:
+      - - {x: 25, y: -0.5}
+        - {x: 20, y: 12.5}
+        - {x: -6, y: 14.5}
+        - {x: -15, y: 14.5}
+        - {x: -27, y: 5.5}
+        - {x: -31, y: 1.5}
+        - {x: -31, y: -5.5}
+        - {x: -29, y: -6.5}
+        - {x: -7, y: -15.5}
+        - {x: 0, y: -15.5}
+        - {x: 7, y: -10.5}
+        - {x: 24, y: -9.5}
+        - {x: 25, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6369a078cd4e408ddd9ba4d4b9bf4c
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_carpet
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1083
+        width: 198
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: -50}
+        - {x: -99, y: -17}
+        - {x: -99, y: -8}
+        - {x: 7, y: 50}
+        - {x: 35, y: 50}
+        - {x: 99, y: 26}
+        - {x: 99, y: 2}
+        - {x: -14, y: -50}
+      physicsShape:
+      - - {x: 9.999999, y: 50}
+        - {x: -97.99999, y: -8}
+        - {x: -97.99999, y: -12}
+        - {x: -95, y: -15}
+        - {x: -30, y: -49}
+        - {x: -20, y: -49}
+        - {x: 98.99999, y: 7}
+        - {x: 98.99999, y: 26}
+        - {x: 35, y: 50}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7891292d1924778ae90bb236f6ea3ce
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_smallrug_1
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 685
+        width: 208
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: -52.5}
+        - {x: -104, y: -14.5}
+        - {x: -104, y: 44.5}
+        - {x: -78, y: 52.5}
+        - {x: 65, y: 52.5}
+        - {x: 95, y: 36.5}
+        - {x: 104, y: 10.5}
+        - {x: 104, y: -38.5}
+        - {x: 90, y: -52.5}
+      physicsShape:
+      - - {x: 101, y: -26.5}
+        - {x: 104, y: -21.5}
+        - {x: 104, y: 6.5}
+        - {x: 88, y: 23.5}
+        - {x: 59, y: 40.5}
+        - {x: 45, y: 45.5}
+        - {x: 21, y: 50.5}
+        - {x: 12, y: 52.5}
+        - {x: -49, y: 52.5}
+        - {x: -57, y: 51.5}
+        - {x: -83, y: 42.5}
+        - {x: -102, y: 26.5}
+        - {x: -104, y: 20.5}
+        - {x: -104, y: -0.5}
+        - {x: -98.99999, y: -11.5}
+        - {x: -87, y: -24.5}
+        - {x: -70, y: -35.5}
+        - {x: -51, y: -43.5}
+        - {x: -27, y: -50.5}
+        - {x: -12, y: -52.5}
+        - {x: 46, y: -52.5}
+        - {x: 57, y: -51.5}
+        - {x: 74, y: -46.5}
+        - {x: 91, y: -37.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c722a7a7635947099f0d5d8f31556f05
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_armchairA_2
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 639
+        width: 70
+        height: 92
+      alignment: 9
+      pivot: {x: 0.4617991, y: 0.4973576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -46}
+        - {x: -35, y: -46}
+        - {x: -35, y: 30}
+        - {x: -33, y: 43}
+        - {x: -28, y: 46}
+        - {x: 1, y: 46}
+        - {x: 35, y: -4}
+        - {x: 35, y: -38}
+      physicsShape:
+      - - {x: 21, y: -33}
+        - {x: 21, y: 11}
+        - {x: 18, y: 13}
+        - {x: 2, y: 19}
+        - {x: -13, y: 46}
+        - {x: -21, y: 46}
+        - {x: -33, y: 39}
+        - {x: -34, y: 19}
+        - {x: -34, y: -21}
+        - {x: -33, y: -29}
+        - {x: -30, y: -32}
+        - {x: -27, y: -32}
+        - {x: -10, y: -27}
+        - {x: -8, y: -44}
+        - {x: 3, y: -44}
+        - {x: 5, y: -26}
+        - {x: 10, y: -34}
+        - {x: 18, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3316842c616541e3b96eade565348443
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_dresser_3
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 272
+        width: 143
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: -64}
+        - {x: -71.5, y: -41}
+        - {x: -71.5, y: 41}
+        - {x: -18.5, y: 83}
+        - {x: 40.5, y: 83}
+        - {x: 62.5, y: 43}
+        - {x: 71.5, y: -6}
+        - {x: 71.5, y: -72}
+        - {x: 45.5, y: -83}
+        - {x: -13.5, y: -83}
+      physicsShape:
+      - - {x: 65.5, y: -47}
+        - {x: 63.5, y: -25}
+        - {x: 65.5, y: -20}
+        - {x: 65.5, y: -14}
+        - {x: 48.5, y: -6}
+        - {x: 48.5, y: 28}
+        - {x: 51.5, y: 42}
+        - {x: 26.5, y: 79}
+        - {x: 18.5, y: 83}
+        - {x: -1.5, y: 83}
+        - {x: -19.5, y: 77}
+        - {x: -24.5, y: 41}
+        - {x: -69.5, y: 17}
+        - {x: -69.5, y: 9.999999}
+        - {x: -67.5, y: 4}
+        - {x: -69.5, y: -16}
+        - {x: -69.5, y: -37}
+        - {x: -63.5, y: -38}
+        - {x: -44.5, y: -48}
+        - {x: -40.5, y: -49}
+        - {x: -35.5, y: -41}
+        - {x: -11.5, y: -33}
+        - {x: 6.5, y: -38}
+        - {x: 1.5, y: -61}
+        - {x: 2.5, y: -75}
+        - {x: 24.5, y: -77}
+        - {x: 25.5, y: -83}
+        - {x: 33.5, y: -83}
+        - {x: 57.5, y: -65}
+        - {x: 65.5, y: -70}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23dfd39875d4cb2b5e2078ca2b90e9b
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_bigrug_1
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 136
+        width: 250
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: -66}
+        - {x: -125, y: -21}
+        - {x: -125, y: 35}
+        - {x: -73, y: 66}
+        - {x: 29, y: 66}
+        - {x: 125, y: -1}
+        - {x: 125, y: -48}
+        - {x: 92, y: -66}
+      physicsShape:
+      - - {x: 100, y: -45}
+        - {x: 112, y: -42}
+        - {x: 119, y: -35}
+        - {x: 119, y: -30}
+        - {x: 125, y: -27}
+        - {x: 125, y: -16}
+        - {x: 119, y: -8}
+        - {x: 117, y: 0}
+        - {x: 100, y: 15}
+        - {x: 85, y: 18}
+        - {x: 81, y: 24}
+        - {x: 57, y: 38}
+        - {x: 46, y: 42}
+        - {x: 15, y: 60}
+        - {x: 1, y: 66}
+        - {x: -30, y: 66}
+        - {x: -40, y: 64}
+        - {x: -54, y: 58}
+        - {x: -65, y: 58}
+        - {x: -95, y: 46}
+        - {x: -111, y: 38}
+        - {x: -116, y: 36}
+        - {x: -121, y: 29}
+        - {x: -125, y: 23}
+        - {x: -125, y: 12}
+        - {x: -118, y: 2}
+        - {x: -109, y: 1}
+        - {x: -109, y: -6}
+        - {x: -104, y: -12}
+        - {x: -98.99999, y: -13}
+        - {x: -91.99999, y: -13}
+        - {x: -85, y: -22}
+        - {x: -77, y: -29}
+        - {x: -61, y: -40}
+        - {x: -41, y: -47}
+        - {x: -29, y: -51}
+        - {x: -12, y: -63}
+        - {x: 0, y: -62}
+        - {x: 2, y: -58}
+        - {x: 25, y: -60}
+        - {x: 31, y: -66}
+        - {x: 41, y: -66}
+        - {x: 49, y: -64}
+        - {x: 68, y: -59}
+        - {x: 77, y: -51}
+        - {x: 89, y: -51}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62f5055c96b4f3c81728094dc0fc612
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throne_pedestal_4
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 695
+        width: 429
+        height: 224
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -180.5, y: 28}
+        - {x: -182.5, y: 30}
+        - {x: -182.5, y: 36}
+        - {x: -179.5, y: 44}
+        - {x: -178.5, y: 48}
+        - {x: -174.5, y: 61}
+        - {x: -137.5, y: 85}
+        - {x: -99.5, y: 112}
+        - {x: -63.5, y: 112}
+        - {x: 72.5, y: 46}
+        - {x: 205.5, y: -23}
+        - {x: 214.5, y: -33}
+        - {x: 214.5, y: -41}
+        - {x: 168.5, y: -75}
+        - {x: 100.5, y: -86}
+        - {x: 61.5, y: -90}
+        - {x: -44.5, y: -88}
+        - {x: -92.5, y: -112}
+        - {x: -177.5, y: -112}
+        - {x: -214.5, y: -89}
+        - {x: -214.5, y: -49}
+        - {x: -181.5, y: -15}
+        - {x: -181.5, y: -3}
+        - {x: -182.5, y: -3}
+        - {x: -182.5, y: 10}
+        - {x: -181.5, y: 10}
+        - {x: -181.5, y: 24}
+      physicsShape:
+      - - {x: 53.5, y: -82}
+        - {x: 65.5, y: -81}
+        - {x: 83.5, y: -79.99999}
+        - {x: 136.5, y: -69}
+        - {x: 170.5, y: -54}
+        - {x: 191.5, y: -46}
+        - {x: 205.5, y: -37}
+        - {x: 205.5, y: -25}
+        - {x: 167.5, y: -5}
+        - {x: 116.5, y: 19}
+        - {x: 117.5, y: 21}
+        - {x: 78.5, y: 41}
+        - {x: 11.5, y: 72}
+        - {x: 7.5, y: 72.99999}
+        - {x: -69.5, y: 112}
+        - {x: -78.5, y: 112}
+        - {x: -97.5, y: 103}
+        - {x: -110.5, y: 96}
+        - {x: -129.5, y: 85}
+        - {x: -154.5, y: 63}
+        - {x: -163.5, y: 48}
+        - {x: -168.5, y: 32}
+        - {x: -169.5, y: 9.999999}
+        - {x: -164.5, y: -8}
+        - {x: -157.5, y: -21}
+        - {x: -206.5, y: -44}
+        - {x: -213.5, y: -55}
+        - {x: -213.5, y: -66.99999}
+        - {x: -210.5, y: -77}
+        - {x: -192.5, y: -91.99999}
+        - {x: -176.5, y: -97.99999}
+        - {x: -167.5, y: -102}
+        - {x: -148.5, y: -106}
+        - {x: -121.5, y: -106}
+        - {x: -107.5, y: -105}
+        - {x: -98.49999, y: -102}
+        - {x: -44.5, y: -77}
+        - {x: -8.5, y: -82}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b96bb018d144b2cb5b2ab294e72f510
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuihu2
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 345
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -19}
+        - {x: -18, y: -5}
+        - {x: -18, y: 18}
+        - {x: -9, y: 19}
+        - {x: 18, y: 19}
+        - {x: 18, y: -4}
+        - {x: 17, y: -15}
+        - {x: 12, y: -19}
+      physicsShape:
+      - - {x: -5, y: 19}
+        - {x: -18, y: 12}
+        - {x: -18, y: -2}
+        - {x: -3, y: -18}
+        - {x: 12, y: -18}
+        - {x: 18, y: -2}
+        - {x: 18, y: 18}
+        - {x: 17, y: 19}
+      - - {x: -12, y: 6}
+        - {x: -11, y: 7}
+        - {x: -12, y: 6}
+        - {x: -12, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22eff0da030464bbd5061e3b62efd5d
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_fireplace_1
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 278
+        width: 134
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: -70}
+        - {x: -67, y: -64}
+        - {x: -67, y: 37}
+        - {x: -13, y: 70}
+        - {x: 59, y: 70}
+        - {x: 67, y: 51}
+        - {x: 67, y: -35}
+        - {x: 4, y: -70}
+      physicsShape:
+      - - {x: 66, y: 54}
+        - {x: 44, y: 65}
+        - {x: 30, y: 65}
+        - {x: -57, y: 26}
+        - {x: -59, y: 23}
+        - {x: -59, y: 9}
+        - {x: -52, y: -1}
+        - {x: -59, y: -34}
+        - {x: -59, y: -55}
+        - {x: -27, y: -68}
+        - {x: -18, y: -68}
+        - {x: 66, y: -24}
+        - {x: 66.99999, y: -23}
+        - {x: 66.99999, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f7afbfa97d40e297251198c1064d6a
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chabei
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 847
+        width: 32
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -14}
+        - {x: -16, y: 14}
+        - {x: 16, y: 14}
+        - {x: 16, y: -14}
+      physicsShape:
+      - - {x: -1, y: 9.999999}
+        - {x: -9, y: 8}
+        - {x: -14, y: 2}
+        - {x: -14, y: -6}
+        - {x: -12, y: -9.999999}
+        - {x: 2, y: -9.999999}
+        - {x: 7, y: -9}
+        - {x: 7, y: 4}
+        - {x: 2, y: 9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cdb760ed6044a99d34fd35a72533f9
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_catbowl_2
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 405
+        width: 34
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -14.5}
+        - {x: -17, y: 14.5}
+        - {x: 17, y: 14.5}
+        - {x: 17, y: -14.5}
+      physicsShape:
+      - - {x: 1, y: 14.5}
+        - {x: -17, y: 5.5}
+        - {x: -17, y: 0.5}
+        - {x: -8, y: -13.5}
+        - {x: 9.999999, y: -13.5}
+        - {x: 17, y: -9.5}
+        - {x: 17, y: 7.5}
+        - {x: 14, y: 14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ce47a42393418b9f251feb9c84539b
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_armchairB_1
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 0
+        width: 65
+        height: 107
+      alignment: 9
+      pivot: {x: 0.4623365, y: 0.3525888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -43.5}
+        - {x: -32.5, y: -38.5}
+        - {x: -32.5, y: 1.5}
+        - {x: -17.5, y: 40.5}
+        - {x: -15.5, y: 51.5}
+        - {x: -8.5, y: 53.5}
+        - {x: 31.5, y: 53.5}
+        - {x: 32.5, y: 49.5}
+        - {x: 32.5, y: -48.5}
+        - {x: 26.5, y: -53.5}
+        - {x: -9.5, y: -53.5}
+      physicsShape:
+      - - {x: 32.5, y: -19.5}
+        - {x: 32.5, y: -10.5}
+        - {x: 29.5, y: 2.5}
+        - {x: 32.5, y: 15.5}
+        - {x: 32.5, y: 42.5}
+        - {x: 24.5, y: 53.5}
+        - {x: -1.5, y: 53.5}
+        - {x: -18.5, y: 38.5}
+        - {x: -11.5, y: 9.5}
+        - {x: -32.5, y: -2.5}
+        - {x: -32.5, y: -16.5}
+        - {x: -29.5, y: -32.5}
+        - {x: -24.5, y: -40.5}
+        - {x: -20.5, y: -39.5}
+        - {x: -16.5, y: -35.5}
+        - {x: -0.5000001, y: -39.5}
+        - {x: -0.5000001, y: -51.5}
+        - {x: 1.5, y: -52.5}
+        - {x: 8.5, y: -52.5}
+        - {x: 15.5, y: -42.5}
+        - {x: 23.5, y: -44.5}
+        - {x: 28.5, y: -36.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf0b839dbbd4e118e61771881358f26
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beizi1
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 847
+        width: 14
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -13.5}
+        - {x: -7, y: 13.5}
+        - {x: 7, y: 13.5}
+        - {x: 7, y: -13.5}
+      physicsShape:
+      - - {x: 7, y: 13.5}
+        - {x: -4, y: 13.5}
+        - {x: -7, y: 12.5}
+        - {x: -7, y: -8.5}
+        - {x: -3, y: -12.5}
+        - {x: 3, y: -12.5}
+        - {x: 6, y: -9.5}
+        - {x: 7, y: -4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf085cb96d3c4485905eb38c5489be95
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chaju3
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 923
+        width: 62
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -24}
+        - {x: -31, y: -16}
+        - {x: -31, y: 11}
+        - {x: -11, y: 24}
+        - {x: 19, y: 24}
+        - {x: 31, y: 20}
+        - {x: 31, y: -22}
+        - {x: 25, y: -24}
+      physicsShape:
+      - - {x: 14, y: 24}
+        - {x: -4, y: 24}
+        - {x: -12, y: 13}
+        - {x: -28, y: 9}
+        - {x: -31, y: 7}
+        - {x: -31, y: -7}
+        - {x: -27, y: -14}
+        - {x: -2, y: -22}
+        - {x: 8, y: -22}
+        - {x: 27, y: -20}
+        - {x: 29, y: -14}
+        - {x: 29, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b35e2d402a420dbf33de157d7e8a23
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throne_pedestal_2
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 794
+        width: 84
+        height: 230
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: -115}
+        - {x: -42, y: -112}
+        - {x: -42, y: 114}
+        - {x: -41, y: 115}
+        - {x: -8, y: 115}
+        - {x: 42, y: 94}
+        - {x: 42, y: 37}
+        - {x: 26, y: -112}
+        - {x: 12, y: -115}
+      physicsShape:
+      - - {x: 42, y: 89}
+        - {x: -1, y: 115}
+        - {x: -29, y: 115}
+        - {x: -42, y: 109}
+        - {x: -42, y: 91.99999}
+        - {x: -40, y: 84}
+        - {x: -33, y: 76}
+        - {x: -39, y: -66}
+        - {x: -42, y: -74}
+        - {x: -42, y: -114}
+        - {x: -38, y: -115}
+        - {x: 15, y: -115}
+        - {x: 21, y: -105}
+        - {x: 9.999999, y: -64}
+        - {x: 42, y: 58}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441462876b134f3cbcee16829f7aacb2
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_dressingmirror_3
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 189
+        width: 67
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: -64.5}
+        - {x: -33.5, y: -64.5}
+        - {x: -33.5, y: 29.5}
+        - {x: -28.5, y: 55.5}
+        - {x: -10.5, y: 64.5}
+        - {x: 15.5, y: 64.5}
+        - {x: 33.5, y: 53.5}
+      physicsShape:
+      - - {x: 23.5, y: -56.5}
+        - {x: 28.5, y: -56.5}
+        - {x: 30.5, y: -55.5}
+        - {x: 31.5, y: -46.5}
+        - {x: 31.5, y: 21.5}
+        - {x: 26.5, y: 23.5}
+        - {x: 25.5, y: 50.5}
+        - {x: 15.5, y: 61.5}
+        - {x: 9.5, y: 64.5}
+        - {x: -9.5, y: 64.5}
+        - {x: -28.5, y: 51.5}
+        - {x: -31.5, y: 27.5}
+        - {x: -31.5, y: -55.5}
+        - {x: -29.5, y: -56.5}
+        - {x: -23.5, y: -56.5}
+        - {x: -22.5, y: -54.5}
+        - {x: -20.5, y: -34.5}
+        - {x: 21.5, y: -37.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f1a3407b7d4b2ca9549131603c62fd
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_bedchair_2
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 559
+        width: 115
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5905563, y: 0.6210928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: -43}
+        - {x: -57.5, y: -33}
+        - {x: -57.5, y: 19}
+        - {x: -32.5, y: 43}
+        - {x: 24.5, y: 43}
+        - {x: 57.5, y: 19}
+        - {x: 57.5, y: -43}
+      physicsShape:
+      - - {x: 53.5, y: -34}
+        - {x: 54.5, y: -31}
+        - {x: 57.5, y: -18}
+        - {x: 57.5, y: 8}
+        - {x: 52.5, y: 14}
+        - {x: 45.5, y: 17}
+        - {x: 23.5, y: 39}
+        - {x: -2.5, y: 40}
+        - {x: -4.499999, y: 43}
+        - {x: -30.5, y: 43}
+        - {x: -35.5, y: 37}
+        - {x: -38.5, y: 26}
+        - {x: -38.5, y: 13}
+        - {x: -34.5, y: -8}
+        - {x: -32.5, y: -10}
+        - {x: -28.5, y: -9}
+        - {x: -26.5, y: 4}
+        - {x: -1.5, y: -11}
+        - {x: 27.5, y: -22}
+        - {x: 30.5, y: -42}
+        - {x: 35.5, y: -42}
+        - {x: 37.5, y: -41}
+        - {x: 42.5, y: -24}
+        - {x: 48.5, y: -21}
+        - {x: 47.5, y: -32}
+      - - {x: 23.5, y: 15}
+        - {x: 40.5, y: 6}
+        - {x: 41.5, y: 5}
+        - {x: 41.5, y: 6}
+      - - {x: -0.5, y: 28}
+        - {x: -2.5, y: 30}
+        - {x: 11.5, y: 24}
+        - {x: 13.5, y: 21}
+      - - {x: -24.5, y: 30}
+        - {x: -24.5, y: 32}
+        - {x: -18.5, y: 35}
+        - {x: -14.5, y: 32}
+        - {x: -12.5, y: 31}
+        - {x: -14.5, y: 32}
+        - {x: -18.5, y: 33}
+        - {x: -25.5, y: 29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abb662df3274f4b8d0497e5b2776e4b
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_wardrobe_1
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 499
+        width: 129
+        height: 182
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: -91}
+        - {x: -64.5, y: -91}
+        - {x: -64.5, y: 71}
+        - {x: -17.5, y: 91}
+        - {x: 34.5, y: 91}
+        - {x: 64.5, y: 80}
+        - {x: 64.5, y: -59}
+      physicsShape:
+      - - {x: 57.5, y: 61}
+        - {x: 58.5, y: 64}
+        - {x: 58.5, y: 83}
+        - {x: 33.5, y: 91}
+        - {x: -5.5, y: 91}
+        - {x: -21.5, y: 90}
+        - {x: -55.5, y: 60}
+        - {x: -55.5, y: 45}
+        - {x: -53.5, y: 42}
+        - {x: -55.5, y: -8}
+        - {x: -55.5, y: -72}
+        - {x: -27.5, y: -87}
+        - {x: -13.5, y: -87}
+        - {x: -1.5, y: -85}
+        - {x: 58.5, y: -51}
+        - {x: 58.5, y: -42}
+        - {x: 56.5, y: -28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2891026c74a34ace93ab133643e981cf
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tsg_dashugui_2
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 0
+        width: 97
+        height: 209
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: -75.5}
+        - {x: -48.5, y: -70.5}
+        - {x: -48.5, y: 103.5}
+        - {x: -45.5, y: 104.5}
+        - {x: -25.5, y: 104.5}
+        - {x: 48.5, y: 65.5}
+        - {x: 48.5, y: -104.5}
+        - {x: 32.5, y: -104.5}
+      physicsShape:
+      - - {x: -48.5, y: 103.5}
+        - {x: -48.5, y: -70.5}
+        - {x: 27.5, y: -104.5}
+        - {x: 48.5, y: -104.5}
+        - {x: 48.5, y: 61.5}
+        - {x: -35.5, y: 103.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31a79bc602f41dab06410850257cc38
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shu1
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 846
+        width: 38
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -18}
+        - {x: -19, y: -16}
+        - {x: -19, y: 12}
+        - {x: -11, y: 18}
+        - {x: 15, y: 18}
+        - {x: 19, y: 8}
+        - {x: 19, y: -8}
+        - {x: 5, y: -18}
+      physicsShape:
+      - - {x: 11, y: 16}
+        - {x: 2, y: 17}
+        - {x: -8, y: 17}
+        - {x: -17, y: 8}
+        - {x: -17, y: -11}
+        - {x: -11, y: -15}
+        - {x: -4, y: -15}
+        - {x: 16, y: -3}
+        - {x: 16, y: 3}
+        - {x: 13, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf56da109ca4e27b32a4a1a4b31e8a6
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_bathtub
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1155
+        width: 377
+        height: 229
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -184.5, y: -19.5}
+        - {x: -188.5, y: -13.5}
+        - {x: -188.5, y: 49.5}
+        - {x: -142.5, y: 93.5}
+        - {x: -83.5, y: 101.5}
+        - {x: -75.5, y: 102.5}
+        - {x: -74.5, y: 98.5}
+        - {x: -76.5, y: 93.5}
+        - {x: -66.5, y: 100.5}
+        - {x: -69.5, y: 101.5}
+        - {x: -69.5, y: 103.5}
+        - {x: -67.5, y: 114.5}
+        - {x: -24.5, y: 114.5}
+        - {x: 181.5, y: 24.5}
+        - {x: 188.5, y: 13.5}
+        - {x: 188.5, y: -67.5}
+        - {x: 156.5, y: -82.5}
+        - {x: 131.5, y: -100.5}
+        - {x: 119.5, y: -100.5}
+        - {x: 90.5, y: -114.5}
+        - {x: -32.5, y: -114.5}
+        - {x: -140.5, y: -53.5}
+      physicsShape:
+      - - {x: 183.5, y: -50.5}
+        - {x: 185.5, y: -15.5}
+        - {x: 185.5, y: -5.5}
+        - {x: 182.5, y: -2.5}
+        - {x: 99.5, y: 39.5}
+        - {x: 89.5, y: 44.5}
+        - {x: -3.5, y: 89.5}
+        - {x: -26.5, y: 100.5}
+        - {x: -38.5, y: 100.5}
+        - {x: -151.5, y: 44.5}
+        - {x: -158.5, y: 35.5}
+        - {x: -158.5, y: 18.5}
+        - {x: -153.5, y: -12.5}
+        - {x: -144.5, y: -28.5}
+        - {x: -145.5, y: -40.5}
+        - {x: -139.5, y: -44.5}
+        - {x: -53.5, y: -87.5}
+        - {x: -14.5, y: -108.5}
+        - {x: 11.5, y: -101.5}
+        - {x: 36.5, y: -111.5}
+        - {x: 58.5, y: -111.5}
+        - {x: 65.5, y: -109.5}
+        - {x: 126.5, y: -80.5}
+        - {x: 179.5, y: -53.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1666559abe444539464e3b319cf81ad
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_candlestick_2
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 197
+        width: 29
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: -21.5}
+        - {x: -14.5, y: 21.5}
+        - {x: 14.5, y: 21.5}
+        - {x: 14.5, y: -21.5}
+      physicsShape:
+      - - {x: 13.5, y: 14.5}
+        - {x: 2.5, y: 21.5}
+        - {x: -10.5, y: 21.5}
+        - {x: -13.5, y: 20.5}
+        - {x: -13.5, y: 1.5}
+        - {x: -5.5, y: -7.5}
+        - {x: -10.5, y: -18.5}
+        - {x: -5.5, y: -19.5}
+        - {x: 6.5, y: -19.5}
+        - {x: 9.5, y: -16.5}
+        - {x: 5.5, y: -6.5}
+        - {x: 13.5, y: -2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a5755f1f6e4f609f9c6f00a3705986
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_bigrug_2
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 192
+        width: 241
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: -62.5}
+        - {x: -120.5, y: -43.5}
+        - {x: -120.5, y: 48.5}
+        - {x: -111.5, y: 62.5}
+        - {x: 33.5, y: 62.5}
+        - {x: 113.5, y: 10.5}
+        - {x: 120.5, y: -13.5}
+        - {x: 120.5, y: -28.5}
+        - {x: 72.5, y: -56.5}
+        - {x: 66.5, y: -62.5}
+      physicsShape:
+      - - {x: 46.5, y: -58.5}
+        - {x: 71.5, y: -54.5}
+        - {x: 83.5, y: -48.5}
+        - {x: 111.5, y: -30.5}
+        - {x: 120.5, y: -26.5}
+        - {x: 120.5, y: -17.5}
+        - {x: 112.5, y: -8.5}
+        - {x: 115.5, y: -1.5}
+        - {x: 109.5, y: 13.5}
+        - {x: 98.49999, y: 12.5}
+        - {x: 87.5, y: 17.5}
+        - {x: 75.5, y: 17.5}
+        - {x: 62.5, y: 26.5}
+        - {x: 56.5, y: 37.5}
+        - {x: 51.5, y: 39.5}
+        - {x: 42.5, y: 44.5}
+        - {x: 26.5, y: 45.5}
+        - {x: 29.5, y: 55.5}
+        - {x: 10.5, y: 62.5}
+        - {x: -14.5, y: 58.5}
+        - {x: -21.5, y: 59.5}
+        - {x: -46.5, y: 60.5}
+        - {x: -46.5, y: 62.5}
+        - {x: -75.5, y: 62.5}
+        - {x: -77.5, y: 60.5}
+        - {x: -97.5, y: 59.5}
+        - {x: -105.5, y: 51.5}
+        - {x: -103.5, y: 45.5}
+        - {x: -98.49999, y: 40.5}
+        - {x: -117.5, y: 22.5}
+        - {x: -120.5, y: 12.5}
+        - {x: -120.5, y: -10.5}
+        - {x: -116.5, y: -19.5}
+        - {x: -104.5, y: -30.5}
+        - {x: -92.49999, y: -36.5}
+        - {x: -87.5, y: -38.5}
+        - {x: -71.5, y: -44.5}
+        - {x: -69.5, y: -50.5}
+        - {x: -55.5, y: -50.5}
+        - {x: -46.5, y: -57.5}
+        - {x: -32.5, y: -62.5}
+        - {x: -5.5, y: -62.5}
+        - {x: 2.5, y: -61.5}
+        - {x: 4.5, y: -62.5}
+        - {x: 30.5, y: -62.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bb899e79e845a88a4d3ade576c1ea6
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_armchairA_1
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 718
+        width: 66
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5411695, y: 0.4471022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -31}
+        - {x: -33, y: -21}
+        - {x: -33, y: 45}
+        - {x: -10, y: 45}
+        - {x: 17, y: 28}
+        - {x: 33, y: 13}
+        - {x: 33, y: -33}
+        - {x: 29, y: -45}
+        - {x: -8, y: -45}
+      physicsShape:
+      - - {x: 33, y: 1}
+        - {x: 12, y: 5}
+        - {x: 14, y: 13}
+        - {x: 16, y: 27}
+        - {x: 7, y: 32}
+        - {x: -15, y: 45}
+        - {x: -31, y: 45}
+        - {x: -33, y: 44}
+        - {x: -33, y: 3}
+        - {x: -26, y: -32}
+        - {x: -20, y: -31}
+        - {x: -16, y: -27}
+        - {x: 0, y: -42}
+        - {x: 3, y: -44}
+        - {x: 9, y: -44}
+        - {x: 16, y: -34}
+        - {x: 27, y: -39}
+        - {x: 33, y: -21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a52091f3a464d0fbb7173b3ec71c6ab
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_cushionA_1
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 776
+        width: 55
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -17}
+        - {x: -27.5, y: -12}
+        - {x: -27.5, y: 15}
+        - {x: -25.5, y: 17}
+        - {x: 27.5, y: 17}
+        - {x: 27.5, y: -15}
+        - {x: 19.5, y: -17}
+      physicsShape:
+      - - {x: -12.5, y: 15}
+        - {x: -21.5, y: 6}
+        - {x: -21.5, y: -8}
+        - {x: -13.5, y: -15}
+        - {x: 14.5, y: -15}
+        - {x: 24.5, y: -8}
+        - {x: 24.5, y: 4}
+        - {x: 20.5, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53eecbd25c64a8fbbe13c9172bbc20b
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_stool_3
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 399
+        width: 50
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5488716, y: 0.7678793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -22}
+        - {x: -25, y: -13}
+        - {x: -25, y: 9}
+        - {x: -10, y: 22}
+        - {x: 25, y: 22}
+        - {x: 25, y: -21}
+        - {x: 18, y: -22}
+      physicsShape:
+      - - {x: 10, y: 22}
+        - {x: -6, y: 22}
+        - {x: -20, y: 14}
+        - {x: -21, y: 7}
+        - {x: -21, y: -17}
+        - {x: -8, y: -19}
+        - {x: -6, y: -22}
+        - {x: 9, y: -22}
+        - {x: 14, y: -19}
+        - {x: 25, y: -21}
+        - {x: 25, y: 8}
+        - {x: 21, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d68eb605264519baf23a6eb8c59880
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuibei1
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 975
+        width: 30
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -20.5}
+        - {x: -15, y: 20.5}
+        - {x: 15, y: 20.5}
+        - {x: 15, y: -20.5}
+      physicsShape:
+      - - {x: -5, y: 17.5}
+        - {x: -9.999999, y: 13.5}
+        - {x: -9.999999, y: -13.5}
+        - {x: -7, y: -14.5}
+        - {x: 13, y: -14.5}
+        - {x: 13, y: 17.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04da2ac1fb1d45878ff6561f7e74c347
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_cattoy
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 814
+        width: 26
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -11}
+        - {x: -13, y: 11}
+        - {x: 13, y: 11}
+        - {x: 13, y: -11}
+      physicsShape:
+      - - {x: 6, y: 11}
+        - {x: -8, y: 11}
+        - {x: -13, y: 4}
+        - {x: -13, y: -7}
+        - {x: 6, y: -7}
+        - {x: 9, y: 1}
+        - {x: 9, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4a8f7150174debbbb55b92dba36d41
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_cabinet_1
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 442
+        width: 117
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: -56.5}
+        - {x: -58.5, y: -46.5}
+        - {x: -58.5, y: 21.5}
+        - {x: 4.5, y: 56.5}
+        - {x: 45.5, y: 56.5}
+        - {x: 51.5, y: 54.5}
+        - {x: 58.5, y: 47.5}
+        - {x: 58.5, y: -21.5}
+        - {x: -2.5, y: -56.5}
+      physicsShape:
+      - - {x: 44.5, y: -13.5}
+        - {x: 57.5, y: -19.5}
+        - {x: 58.5, y: -15.5}
+        - {x: 57.5, y: -6.5}
+        - {x: 50.5, y: 10.5}
+        - {x: 58.5, y: 30.5}
+        - {x: 58.5, y: 36.5}
+        - {x: 51.5, y: 49.5}
+        - {x: 29.5, y: 56.5}
+        - {x: 18.5, y: 56.5}
+        - {x: -49.5, y: 25.5}
+        - {x: -56.5, y: 10.5}
+        - {x: -56.5, y: 8.5}
+        - {x: -48.5, y: 3.5}
+        - {x: -56.5, y: -29.5}
+        - {x: -56.5, y: -42.5}
+        - {x: -50.5, y: -43.5}
+        - {x: -26.5, y: -41.5}
+        - {x: -26.5, y: -55.5}
+        - {x: -24.5, y: -56.5}
+        - {x: -16.5, y: -56.5}
+        - {x: -6.5, y: -42.5}
+        - {x: 11.5, y: -27.5}
+        - {x: 31.5, y: -26.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7a9b0d4d0449fa9d415ea686bdedf5
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_dressingmirror_2
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1523
+        width: 60
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -65}
+        - {x: -30, y: -44}
+        - {x: -30, y: 43}
+        - {x: -16, y: 65}
+        - {x: 19, y: 65}
+        - {x: 30, y: 43}
+        - {x: 30, y: -56}
+        - {x: 15, y: -65}
+      physicsShape:
+      - - {x: 15, y: -34}
+        - {x: 28, y: -7}
+        - {x: 30, y: 4}
+        - {x: 30, y: 26}
+        - {x: 26, y: 26}
+        - {x: 26, y: 48}
+        - {x: 16, y: 63}
+        - {x: 11, y: 65}
+        - {x: -7, y: 65}
+        - {x: -11, y: 64}
+        - {x: -14, y: 62}
+        - {x: -20, y: 47}
+        - {x: -20, y: 46}
+        - {x: -27, y: 27}
+        - {x: -28, y: 24}
+        - {x: -28, y: 15}
+        - {x: -22, y: -14}
+        - {x: -16, y: -23}
+        - {x: -8, y: -31}
+        - {x: -21, y: -42}
+        - {x: -23, y: -47}
+        - {x: -23, y: -51}
+        - {x: -6, y: -48}
+        - {x: -3, y: -43}
+        - {x: -2, y: -60}
+        - {x: 7, y: -60}
+        - {x: 14, y: -48}
+        - {x: 25, y: -51}
+        - {x: 28, y: -44}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7b4c8a2b7e4395b1d79bb5ece936f2
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panzi2
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 496
+        width: 57
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -12.5}
+        - {x: -28.5, y: 12.5}
+        - {x: 28.5, y: 12.5}
+        - {x: 28.5, y: -12.5}
+      physicsShape:
+      - - {x: -23.5, y: 12.5}
+        - {x: -24.5, y: 10.5}
+        - {x: -24.5, y: -1.5}
+        - {x: -22.5, y: -7.5}
+        - {x: -20.5, y: -8.5}
+        - {x: 7.5, y: -8.5}
+        - {x: 11.5, y: -7.5}
+        - {x: 11.5, y: 9.5}
+        - {x: 4.5, y: 12.5}
+      - - {x: 17.5, y: 10.5}
+        - {x: 12.5, y: 3.5}
+        - {x: 12.5, y: -1.5}
+        - {x: 14.5, y: -2.5}
+        - {x: 25.5, y: -2.5}
+        - {x: 28.5, y: -1.5}
+        - {x: 28.5, y: 6.5}
+        - {x: 22.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f06c3c049b402491710006d981ab1a
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_bed_2
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 923
+        width: 248
+        height: 255
+      alignment: 9
+      pivot: {x: 0.5373724, y: 0.3462263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -114, y: -92.5}
+        - {x: -124, y: -67.5}
+        - {x: -124, y: -39.5}
+        - {x: -110, y: -32.5}
+        - {x: -103, y: 42.5}
+        - {x: -96, y: 49.5}
+        - {x: -57, y: 48.5}
+        - {x: -49, y: 93.50001}
+        - {x: -22, y: 127.5}
+        - {x: 61, y: 127.5}
+        - {x: 80, y: 109.5}
+        - {x: 93, y: 59.5}
+        - {x: 123, y: 36.5}
+        - {x: 124, y: 25.5}
+        - {x: 124, y: -70.5}
+        - {x: 43, y: -108.5}
+        - {x: 20, y: -121.5}
+        - {x: 0, y: -127.5}
+        - {x: -23, y: -127.5}
+      physicsShape:
+      - - {x: 69, y: -87.5}
+        - {x: 95, y: -72.5}
+        - {x: 117, y: -71.5}
+        - {x: 124, y: -68.5}
+        - {x: 124, y: -44.5}
+        - {x: 122, y: -29.5}
+        - {x: 120, y: 0.4999962}
+        - {x: 117, y: 34.5}
+        - {x: 108, y: 37.5}
+        - {x: 98, y: 33.5}
+        - {x: 91, y: 42.5}
+        - {x: 82, y: 67.5}
+        - {x: 85, y: 68.5}
+        - {x: 85, y: 77.49999}
+        - {x: 83, y: 90.50001}
+        - {x: 72, y: 110.5}
+        - {x: 58, y: 123.5}
+        - {x: 49, y: 127.5}
+        - {x: 26, y: 127.5}
+        - {x: 20, y: 122.5}
+        - {x: 13, y: 127.5}
+        - {x: -5.999999, y: 127.5}
+        - {x: -19, y: 121.5}
+        - {x: -30, y: 110.5}
+        - {x: -37, y: 100.5}
+        - {x: -45, y: 84.5}
+        - {x: -45, y: 67.5}
+        - {x: -39, y: 65.49999}
+        - {x: -51, y: 45.5}
+        - {x: -68, y: 37.5}
+        - {x: -86, y: 46.5}
+        - {x: -99, y: 41.5}
+        - {x: -103, y: 14.5}
+        - {x: -105, y: -10.5}
+        - {x: -105, y: -33.5}
+        - {x: -110, y: -66.5}
+        - {x: -110, y: -72.5}
+        - {x: -101, y: -80.5}
+        - {x: -86, y: -80.5}
+        - {x: -82, y: -77.5}
+        - {x: -20, y: -107.5}
+        - {x: -19, y: -117.5}
+        - {x: -10, y: -124.5}
+        - {x: 3, y: -124.5}
+        - {x: 21, y: -120.5}
+        - {x: 31, y: -107.5}
+        - {x: 48, y: -97.5}
+      - - {x: -80, y: -28.5}
+        - {x: -64, y: 15.5}
+        - {x: -50, y: 15.5}
+        - {x: -37, y: 16.5}
+        - {x: -15, y: 48.5}
+        - {x: -5, y: 47.5}
+        - {x: -2, y: 47.5}
+        - {x: -1, y: 48.5}
+        - {x: -2, y: 47.5}
+        - {x: 0, y: 44.5}
+        - {x: -5, y: 5.5}
+        - {x: -25, y: -2.5}
+        - {x: -56, y: -18.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f29169f0f944b1ea38912fd6023c03e
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beizi2
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 443
+        width: 27
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: -8}
+        - {x: -13.5, y: 8}
+        - {x: 13.5, y: 8}
+        - {x: 13.5, y: -8}
+      physicsShape:
+      - - {x: -10.5, y: 8}
+        - {x: -11.5, y: 4}
+        - {x: -11.5, y: -4}
+        - {x: -8.5, y: -7}
+        - {x: 12.5, y: -7}
+        - {x: 13.5, y: -6}
+        - {x: 13.5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794a36f22dd6457da2bf451bfdf6b22a
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_teatable_1
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 321
+        width: 117
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5287479, y: 0.6879612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: -42.5}
+        - {x: -58.5, y: -21.5}
+        - {x: -58.5, y: 18.5}
+        - {x: -51.5, y: 40.5}
+        - {x: -44.5, y: 42.5}
+        - {x: 30.5, y: 42.5}
+        - {x: 58.5, y: 21.5}
+        - {x: 58.5, y: -22.5}
+        - {x: 25.5, y: -42.5}
+      physicsShape:
+      - - {x: 56.5, y: -16.5}
+        - {x: 57.5, y: -6.5}
+        - {x: 57.5, y: 17.5}
+        - {x: 55.5, y: 20.5}
+        - {x: 7.5, y: 42.5}
+        - {x: -7.5, y: 42.5}
+        - {x: -48.5, y: 20.5}
+        - {x: -50.5, y: 17.5}
+        - {x: -50.5, y: 9.5}
+        - {x: -48.5, y: -15.5}
+        - {x: -45.5, y: -18.5}
+        - {x: -41.5, y: -18.5}
+        - {x: -37.5, y: -13.5}
+        - {x: -37.5, y: -5.5}
+        - {x: -24.5, y: -10.5}
+        - {x: -10.5, y: -14.5}
+        - {x: -1.5, y: -40.5}
+        - {x: 0.5, y: -42.5}
+        - {x: 6.5, y: -42.5}
+        - {x: 13.5, y: -16.5}
+        - {x: 28.5, y: -12.5}
+        - {x: 52.5, y: -19.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb046622e32d471babcf6d1c587878b9
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throne_pedestal_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1155
+        width: 278
+        height: 337
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -134, y: -55.5}
+        - {x: -139, y: -52.5}
+        - {x: -139, y: -33.5}
+        - {x: -136, y: -12.5}
+        - {x: -130, y: -9.5}
+        - {x: -130, y: 116.5}
+        - {x: -139, y: 121.5}
+        - {x: -139, y: 168.5}
+        - {x: -131, y: 168.5}
+        - {x: 106, y: 52.5}
+        - {x: 139, y: 34.5}
+        - {x: 139, y: -30.5}
+        - {x: 137, y: -107.5}
+        - {x: 139, y: -128.5}
+        - {x: 139, y: -162.5}
+        - {x: 130, y: -168.5}
+        - {x: 90, y: -168.5}
+        - {x: 75, y: -158.5}
+        - {x: 76, y: -125.5}
+        - {x: -30, y: -75.5}
+        - {x: -62, y: -58.5}
+        - {x: -84, y: -60.5}
+        - {x: -120, y: -64.5}
+      physicsShape:
+      - - {x: 130, y: -119.5}
+        - {x: 139, y: -2.5}
+        - {x: 139, y: 34.5}
+        - {x: 115, y: 48.5}
+        - {x: 112, y: 45.5}
+        - {x: 11, y: 96.5}
+        - {x: -135, y: 168.5}
+        - {x: -139, y: 168.5}
+        - {x: -139, y: 130.5}
+        - {x: -135, y: 118.5}
+        - {x: -129, y: 117.5}
+        - {x: -129, y: -9.5}
+        - {x: -132, y: -13.5}
+        - {x: -139, y: -33.5}
+        - {x: -139, y: -49.5}
+        - {x: -122, y: -60.5}
+        - {x: -102, y: -59.5}
+        - {x: -90, y: -57.5}
+        - {x: -75, y: -44.5}
+        - {x: -65, y: -53.5}
+        - {x: -24, y: -74.5}
+        - {x: 4, y: -88.5}
+        - {x: 26, y: -97.5}
+        - {x: 53, y: -111.5}
+        - {x: 77, y: -122.5}
+        - {x: 81, y: -138.5}
+        - {x: 79.99999, y: -154.5}
+        - {x: 84, y: -162.5}
+        - {x: 100, y: -167.5}
+        - {x: 124, y: -167.5}
+        - {x: 139, y: -158.5}
+        - {x: 139, y: -140.5}
+        - {x: 136, y: -124.5}
+      - - {x: 85.99999, y: -4.5}
+        - {x: 58, y: 19.5}
+        - {x: 46, y: 48.5}
+        - {x: 83, y: 30.5}
+        - {x: 83, y: 14.5}
+      - - {x: -88, y: 81.5}
+        - {x: -88, y: 115.5}
+        - {x: -46, y: 94.5}
+        - {x: -49, y: 70.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d743d62fe94a81a812f2b3d6fbab63
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7EFF\u82B1\u74F6"
+      rect:
+        serializedVersion: 2
+        x: 1019.076
+        y: 794
+        width: 38.92388
+        height: 49
+      alignment: 9
+      pivot: {x: 0.4861766, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.53806, y: -24.5}
+        - {x: -19.53806, y: -7.5}
+        - {x: -19.53806, y: 8.5}
+        - {x: -17.53806, y: 24.5}
+        - {x: 10.46194, y: 24.5}
+        - {x: 12.46194, y: 22.5}
+        - {x: 19.46194, y: 11.5}
+        - {x: 19.46194, y: -18.5}
+        - {x: 9.461941, y: -24.5}
+      physicsShape:
+      - - {x: 14.46194, y: 6.5}
+        - {x: 5.461941, y: 22.5}
+        - {x: -2.538059, y: 22.5}
+        - {x: -6.538059, y: 21.5}
+        - {x: -17.53806, y: 16.5}
+        - {x: -14.53806, y: 10.5}
+        - {x: -17.53806, y: 1.5}
+        - {x: -17.53806, y: -6.5}
+        - {x: -8.538059, y: -22.5}
+        - {x: 4.46194, y: -22.5}
+        - {x: 13.46194, y: -12.5}
+        - {x: 15.46194, y: -9.5}
+        - {x: 15.46194, y: -2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7afd211a5ad45bd93ca86cc5ca7afdb
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tsg_dashugui_1
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 272
+        width: 125
+        height: 223
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: -73.5}
+        - {x: -62.5, y: -67.5}
+        - {x: -62.5, y: 111.5}
+        - {x: 13.5, y: 111.5}
+        - {x: 62.5, y: 60.5}
+        - {x: 62.5, y: -110.5}
+        - {x: 61.5, y: -111.5}
+        - {x: 30.5, y: -111.5}
+      physicsShape:
+      - - {x: 62.5, y: 59.5}
+        - {x: 18.5, y: 99.5}
+        - {x: 1.5, y: 111.5}
+        - {x: -58.5, y: 111.5}
+        - {x: -62.5, y: 108.5}
+        - {x: -62.5, y: -62.5}
+        - {x: -53.5, y: -67.5}
+        - {x: -37.5, y: -64.5}
+        - {x: 27.5, y: -104.5}
+        - {x: 32.5, y: -111.5}
+        - {x: 55.5, y: -111.5}
+        - {x: 62.5, y: -109.5}
+        - {x: 62.5, y: -94.5}
+        - {x: 60.5, y: 34.5}
+        - {x: 62.5, y: 41.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9f04c9a5ce446bbc169c2a751fdbb6
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_hatstand_1
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 995
+        width: 51
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -66.5}
+        - {x: -25.5, y: -66.5}
+        - {x: -25.5, y: 63.5}
+        - {x: -19.5, y: 66.5}
+        - {x: 25.5, y: 66.5}
+      physicsShape:
+      - - {x: 18.5, y: -63.5}
+        - {x: 19.5, y: -61.5}
+        - {x: 19.5, y: -56.5}
+        - {x: 20.5, y: -52.5}
+        - {x: 20.5, y: -38.5}
+        - {x: 13.5, y: -23.5}
+        - {x: 5.5, y: -19.5}
+        - {x: 4.5, y: 27.5}
+        - {x: 20.5, y: 49.5}
+        - {x: 20.5, y: 59.5}
+        - {x: 19.5, y: 63.5}
+        - {x: 12.5, y: 64.5}
+        - {x: 10.5, y: 66.5}
+        - {x: -16.5, y: 66.5}
+        - {x: -22.5, y: 57.5}
+        - {x: -22.5, y: 46.5}
+        - {x: -6.5, y: 27.5}
+        - {x: -6.5, y: -19.5}
+        - {x: -14.5, y: -23.5}
+        - {x: -21.5, y: -40.5}
+        - {x: -20.5, y: -46.5}
+        - {x: -15.5, y: -48.5}
+        - {x: -13.5, y: -46.5}
+        - {x: -17.5, y: -50.5}
+        - {x: -21.5, y: -57.5}
+        - {x: -20.5, y: -63.5}
+        - {x: -15.5, y: -63.5}
+        - {x: -12.5, y: -62.5}
+        - {x: 4.5, y: -50.5}
+        - {x: 11.5, y: -62.5}
+        - {x: 13.5, y: -63.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0fb68945a24b0484125a57c511f583
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_teatable_3
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1523
+        width: 79
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5186862, y: 0.7579514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: -40.5}
+        - {x: -39.5, y: -40.5}
+        - {x: -39.5, y: 40.5}
+        - {x: 30.5, y: 40.5}
+        - {x: 39.5, y: 34.5}
+        - {x: 39.5, y: -23.5}
+      physicsShape:
+      - - {x: 39.5, y: 28.5}
+        - {x: 26.5, y: 40.5}
+        - {x: -19.5, y: 40.5}
+        - {x: -33.5, y: 35.5}
+        - {x: -39.5, y: 26.5}
+        - {x: -39.5, y: 9.5}
+        - {x: -26.5, y: -2.499998}
+        - {x: -28.5, y: -11.5}
+        - {x: -32.5, y: -24.5}
+        - {x: -13.5, y: -27.5}
+        - {x: 4.5, y: -39.5}
+        - {x: 6.5, y: -40.5}
+        - {x: 13.5, y: -40.5}
+        - {x: 26.5, y: -18.5}
+        - {x: 32.5, y: 3.5}
+        - {x: 39.5, y: 11.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb49afcfe3a841feaf9fa33347e06a68
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ws_baijian_2
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 794
+        width: 39
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -19.5}
+        - {x: -19.5, y: -16.5}
+        - {x: -19.5, y: 1.5}
+        - {x: -11.5, y: 19.5}
+        - {x: 14.5, y: 19.5}
+        - {x: 19.5, y: 17.5}
+        - {x: 19.5, y: -14.5}
+        - {x: 4.5, y: -19.5}
+      physicsShape:
+      - - {x: -7.5, y: 19.5}
+        - {x: -13.5, y: 12.5}
+        - {x: -13.5, y: -12.5}
+        - {x: -4.5, y: -18.5}
+        - {x: 0.5, y: -18.5}
+        - {x: 17.5, y: -9.5}
+        - {x: 17.5, y: 16.5}
+        - {x: 9.5, y: 19.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0e44f5a5424f75b0f1b08576e1ecfa
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_armchairB_3
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1554
+        width: 83
+        height: 107
+      alignment: 9
+      pivot: {x: 0.4801286, y: 0.411368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: -39.5}
+        - {x: -41.5, y: -28.5}
+        - {x: -41.5, y: 2.5}
+        - {x: -37.5, y: 12.5}
+        - {x: -40.5, y: 14.5}
+        - {x: -37.5, y: 21.5}
+        - {x: -10.5, y: 53.5}
+        - {x: 35.5, y: 53.5}
+        - {x: 41.5, y: 50.5}
+        - {x: 41.5, y: -43.5}
+        - {x: 19.5, y: -53.5}
+        - {x: -9.5, y: -53.5}
+      physicsShape:
+      - - {x: 39.5, y: -36.5}
+        - {x: 38.5, y: -17.5}
+        - {x: 41.5, y: 4.5}
+        - {x: 41.5, y: 36.5}
+        - {x: 33.5, y: 48.5}
+        - {x: 28.5, y: 53.5}
+        - {x: 0.5, y: 53.5}
+        - {x: -3.5, y: 45.5}
+        - {x: -6.5, y: 26.5}
+        - {x: -32.5, y: 12.5}
+        - {x: -34.5, y: -8.5}
+        - {x: -35.5, y: -26.5}
+        - {x: -35.5, y: -31.5}
+        - {x: -33.5, y: -32.5}
+        - {x: -30.5, y: -32.5}
+        - {x: -26.5, y: -28.5}
+        - {x: -7.5, y: -34.5}
+        - {x: 4.5, y: -51.5}
+        - {x: 12.5, y: -51.5}
+        - {x: 15.5, y: -32.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 32.5, y: -41.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9d45be3b0a4893929a1eb59a2b9f95
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_catbowl_1
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 635
+        width: 34
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -14.5}
+        - {x: -17, y: 14.5}
+        - {x: 17, y: 14.5}
+        - {x: 17, y: -14.5}
+      physicsShape:
+      - - {x: 1, y: 14.5}
+        - {x: -17, y: 5.5}
+        - {x: -17, y: 0.5}
+        - {x: -8, y: -13.5}
+        - {x: 9.999999, y: -13.5}
+        - {x: 17, y: -9.5}
+        - {x: 17, y: 7.5}
+        - {x: 14, y: 14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a41d3ed8ea4b6e9201884e901defa0
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_wardrobe_3
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 0
+        width: 112
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: -92.5}
+        - {x: -56, y: -92.5}
+        - {x: -56, y: 82.5}
+        - {x: -32, y: 92.5}
+        - {x: 51, y: 92.5}
+        - {x: 56, y: 86.5}
+        - {x: 56, y: -66.5}
+      physicsShape:
+      - - {x: 51, y: 1.5}
+        - {x: 53, y: 39.5}
+        - {x: 56, y: 57.5}
+        - {x: 56, y: 79.49999}
+        - {x: 51, y: 81.5}
+        - {x: 32, y: 92.49999}
+        - {x: 17, y: 92.49999}
+        - {x: 13, y: 90.5}
+        - {x: 3, y: 80.5}
+        - {x: -33, y: 63.5}
+        - {x: -47, y: 61.5}
+        - {x: -56, y: 58.5}
+        - {x: -56, y: 41.5}
+        - {x: -55, y: 38.5}
+        - {x: -51, y: 35.5}
+        - {x: -51, y: -41.5}
+        - {x: -54, y: -55.5}
+        - {x: -54, y: -80.5}
+        - {x: -50, y: -84.5}
+        - {x: -43, y: -82.5}
+        - {x: -30, y: -92.49999}
+        - {x: -14, y: -92.49999}
+        - {x: -7, y: -83.5}
+        - {x: 24, y: -67.5}
+        - {x: 55, y: -60.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f031e7f5de54493fa7f75cf55f5fcfb8
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_nighttable_1
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 659
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -33}
+        - {x: -33, y: -15}
+        - {x: -33, y: 25}
+        - {x: -14, y: 33}
+        - {x: 5, y: 33}
+        - {x: 32, y: 18}
+        - {x: 33, y: 5}
+        - {x: 33, y: -21}
+        - {x: 9, y: -33}
+      physicsShape:
+      - - {x: 28, y: 20}
+        - {x: 0, y: 33}
+        - {x: -9.999999, y: 33}
+        - {x: -32, y: 22}
+        - {x: -32, y: -9}
+        - {x: -30, y: -17}
+        - {x: -25, y: -13}
+        - {x: -21, y: -8}
+        - {x: -9.999999, y: -4}
+        - {x: -1, y: -22}
+        - {x: 1, y: -30}
+        - {x: 7, y: -30}
+        - {x: 8, y: -29}
+        - {x: 13, y: -2}
+        - {x: 17, y: -18}
+        - {x: 28, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfac97109c994751b37cc85343f17c0f
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_candlestick_1
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1188
+        width: 22
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -20.5}
+        - {x: -11, y: 20.5}
+        - {x: 11, y: 20.5}
+        - {x: 11, y: -20.5}
+      physicsShape:
+      - - {x: 9.999999, y: 15.5}
+        - {x: 3, y: 20.5}
+        - {x: -9, y: 20.5}
+        - {x: -11, y: 15.5}
+        - {x: -11, y: -12.5}
+        - {x: -9, y: -18.5}
+        - {x: 5, y: -18.5}
+        - {x: 9, y: -16.5}
+        - {x: 8, y: -10.5}
+        - {x: 9.999999, y: 0.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3314434498514e2caea5152afa35d527
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_table_1
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 559
+        width: 116
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5229985, y: 0.6585996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -1.999999}
+        - {x: -58, y: 4}
+        - {x: -58, y: 19}
+        - {x: -56, y: 24}
+        - {x: -17, y: 38}
+        - {x: 13, y: 38}
+        - {x: 58, y: 21}
+        - {x: 58, y: -25}
+        - {x: 51, y: -38}
+        - {x: 14, y: -38}
+        - {x: -43, y: -11}
+      physicsShape:
+      - - {x: 58, y: 6}
+        - {x: -3, y: 36}
+        - {x: -11, y: 36}
+        - {x: -38, y: 22}
+        - {x: -44, y: 14}
+        - {x: -44, y: 1}
+        - {x: -41, y: -8}
+        - {x: -34, y: -12}
+        - {x: -31, y: 4}
+        - {x: 16, y: -35}
+        - {x: 21, y: -37}
+        - {x: 26, y: -37}
+        - {x: 26, y: -35}
+        - {x: 30, y: -21}
+        - {x: 58, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc885c79af44e2694fd9276c1384496
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_cushionA_2
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 735
+        width: 69
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: -18.5}
+        - {x: -34.5, y: -8.5}
+        - {x: -34.5, y: 9.5}
+        - {x: -30.5, y: 18.5}
+        - {x: 24.5, y: 18.5}
+        - {x: 34.5, y: 13.5}
+        - {x: 34.5, y: -3.5}
+        - {x: 25.5, y: -18.5}
+      physicsShape:
+      - - {x: 27.5, y: 2.5}
+        - {x: 8.5, y: 13.5}
+        - {x: -5.5, y: 13.5}
+        - {x: -26.5, y: 10.5}
+        - {x: -27.5, y: 4.5}
+        - {x: -27.5, y: -3.5}
+        - {x: -25.5, y: -12.5}
+        - {x: -22.5, y: -15.5}
+        - {x: -5.5, y: -13.5}
+        - {x: 9.5, y: -16.5}
+        - {x: 14.5, y: -16.5}
+        - {x: 15.5, y: -15.5}
+        - {x: 22.5, y: -2.5}
+        - {x: 27.5, y: -2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501ffa9ff0a949908724f896f6c6d24b
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huapinghuang
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 496
+        width: 36
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -26}
+        - {x: -18, y: -19}
+        - {x: -18, y: 23}
+        - {x: -17, y: 26}
+        - {x: 11, y: 26}
+        - {x: 18, y: 23}
+        - {x: 18, y: -18}
+        - {x: 16, y: -26}
+      physicsShape:
+      - - {x: 7, y: 26}
+        - {x: -2, y: 26}
+        - {x: -6, y: 24}
+        - {x: -15, y: 18}
+        - {x: -18, y: 14}
+        - {x: -18, y: -1}
+        - {x: -14, y: -4}
+        - {x: -9.999999, y: -6}
+        - {x: -5, y: -22}
+        - {x: -4, y: -24}
+        - {x: 3, y: -24}
+        - {x: 9, y: -22}
+        - {x: 18, y: -8}
+        - {x: 18, y: 8}
+        - {x: 13, y: 18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f70766166aa4ef49217b8044dde3a10
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_hatstand_2
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1471
+        width: 38
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -65.5}
+        - {x: -19, y: -65.5}
+        - {x: -19, y: 65.5}
+        - {x: 19, y: 65.5}
+      physicsShape:
+      - - {x: 15, y: -58.5}
+        - {x: 15, y: -42.5}
+        - {x: 14, y: -39.5}
+        - {x: 8, y: -38.5}
+        - {x: 8, y: -17.5}
+        - {x: 5, y: -18.5}
+        - {x: 5, y: 24.5}
+        - {x: 19, y: 48.5}
+        - {x: 19, y: 64.5}
+        - {x: 13, y: 65.5}
+        - {x: 0, y: 65.5}
+        - {x: -5, y: 58.5}
+        - {x: -11, y: 65.5}
+        - {x: -17, y: 62.5}
+        - {x: -19, y: 59.5}
+        - {x: -19, y: 45.5}
+        - {x: -18, y: 41.5}
+        - {x: -13, y: 34.5}
+        - {x: -5, y: 30.5}
+        - {x: -8, y: -40.5}
+        - {x: -11, y: -40.5}
+        - {x: -15, y: -42.5}
+        - {x: -15, y: -59.5}
+        - {x: -14, y: -61.5}
+        - {x: -4, y: -61.5}
+        - {x: 2, y: -58.5}
+        - {x: 6, y: -60.5}
+        - {x: 9, y: -61.5}
+        - {x: 13, y: -61.5}
+      - - {x: -13, y: 48.5}
+        - {x: -13, y: 51.5}
+        - {x: -14, y: 51.5}
+        - {x: -9, y: 46.5}
+        - {x: -11, y: 48.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77be9c3002a4cceaac1842f53dec2b5
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_catbed_3
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 422
+        width: 89
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: -35}
+        - {x: -44.5, y: -35}
+        - {x: -44.5, y: 18}
+        - {x: -43.5, y: 24}
+        - {x: -24.5, y: 35}
+        - {x: 40.5, y: 35}
+        - {x: 44.5, y: 25}
+      physicsShape:
+      - - {x: 43.5, y: -1}
+        - {x: 43.5, y: 9.999999}
+        - {x: 39.5, y: 17}
+        - {x: 31.5, y: 25}
+        - {x: 22.5, y: 31}
+        - {x: -14.5, y: 31}
+        - {x: -36.5, y: 14}
+        - {x: -37.5, y: 9}
+        - {x: -37.5, y: -14}
+        - {x: -27.5, y: -26}
+        - {x: -14.5, y: -31}
+        - {x: 20.5, y: -31}
+        - {x: 37.5, y: -21}
+        - {x: 41.5, y: -11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c0622d63d14ec5b01a7e9fd9ba7a21
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9879\u94FE"
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 846
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -9}
+        - {x: -9, y: 9}
+        - {x: 9, y: 9}
+        - {x: 9, y: -9}
+      physicsShape:
+      - - {x: -9, y: 8}
+        - {x: -9, y: -7}
+        - {x: -3, y: -9}
+        - {x: 6, y: -9}
+        - {x: 9, y: -5}
+        - {x: 9, y: 2}
+        - {x: 7, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdb68af7b6b4cfdbab4ea18e8b80aa7
+      internalID: -5231028466531345890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_stool_1
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 995
+        width: 50
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5114992, y: 0.8058301}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -23.5}
+        - {x: -25, y: -20.5}
+        - {x: -25, y: 10.5}
+        - {x: -18, y: 23.5}
+        - {x: 17, y: 23.5}
+        - {x: 25, y: 21.5}
+        - {x: 25, y: -20.5}
+        - {x: 24, y: -23.5}
+      physicsShape:
+      - - {x: -12, y: 23.5}
+        - {x: -21, y: 16.5}
+        - {x: -21, y: 0.5}
+        - {x: -19, y: -9.5}
+        - {x: -16, y: -12.5}
+        - {x: -14, y: -12.5}
+        - {x: -11, y: -17.5}
+        - {x: 21, y: -17.5}
+        - {x: 21, y: 16.5}
+        - {x: 11, y: 23.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3794eddf1645c99f160d1555c039f6
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_catbed_2
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1395
+        width: 104
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: -36}
+        - {x: -52, y: -29}
+        - {x: -52, y: 31}
+        - {x: -38, y: 36}
+        - {x: 43, y: 36}
+        - {x: 52, y: 17}
+        - {x: 52, y: -20}
+        - {x: 41, y: -35}
+        - {x: 40, y: -36}
+      physicsShape:
+      - - {x: 48, y: -7}
+        - {x: 39, y: -5}
+        - {x: 40, y: 6}
+        - {x: 37, y: 20}
+        - {x: 32, y: 27}
+        - {x: 18, y: 35}
+        - {x: 15, y: 36}
+        - {x: -14, y: 36}
+        - {x: -20, y: 35}
+        - {x: -31, y: 23}
+        - {x: -38, y: 13}
+        - {x: -37, y: 6}
+        - {x: -35, y: -4}
+        - {x: -43, y: -8}
+        - {x: -43, y: -14}
+        - {x: -9, y: -29}
+        - {x: 0, y: -34}
+        - {x: 4, y: -35}
+        - {x: 7, y: -35}
+        - {x: 9.999999, y: -33}
+        - {x: 39, y: -18}
+        - {x: 48, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e71aced9a6c47238e524149ae30aad3
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_washbasin
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 635
+        width: 142
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: -85}
+        - {x: -71, y: -81}
+        - {x: -71, y: 64}
+        - {x: -42, y: 85}
+        - {x: -7, y: 85}
+        - {x: 71, y: 30}
+        - {x: 71, y: -67}
+        - {x: 55, y: -85}
+      physicsShape:
+      - - {x: 37, y: -43}
+        - {x: 62, y: -43}
+        - {x: 66.99999, y: -39}
+        - {x: 66.99999, y: -32}
+        - {x: 69, y: -17}
+        - {x: 69, y: 4}
+        - {x: 66, y: 9.999999}
+        - {x: 57, y: 22}
+        - {x: 43, y: 28}
+        - {x: 16, y: 31}
+        - {x: -5, y: 22}
+        - {x: -1, y: 46}
+        - {x: 2, y: 66}
+        - {x: -1, y: 72}
+        - {x: -8, y: 81}
+        - {x: -11, y: 84}
+        - {x: -20, y: 84}
+        - {x: -26, y: 82}
+        - {x: -44, y: 64}
+        - {x: -59, y: 18}
+        - {x: -56, y: 16}
+        - {x: -27, y: 14}
+        - {x: -9, y: 18}
+        - {x: -54, y: -2}
+        - {x: -64, y: -9.999999}
+        - {x: -66, y: -22}
+        - {x: -66, y: -33}
+        - {x: -64, y: -39}
+        - {x: -65, y: -63}
+        - {x: -56, y: -69}
+        - {x: -50, y: -58}
+        - {x: -30, y: -68}
+        - {x: -30, y: -82}
+        - {x: -25, y: -84}
+        - {x: -18, y: -84}
+        - {x: -16, y: -83}
+        - {x: -12, y: -66.99999}
+        - {x: 22, y: -57}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24b8102d78549ac9ce4312bfeaa43d4
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hall_stair
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 354
+        height: 433
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 172, y: -16.5}
+        - {x: 170, y: -14.5}
+        - {x: 170, y: -57.5}
+        - {x: 174, y: -59.5}
+        - {x: 173, y: -89.5}
+        - {x: 167, y: -94.5}
+        - {x: 117, y: -114.5}
+        - {x: 58, y: -143.5}
+        - {x: 62, y: -143.5}
+        - {x: 62, y: -148.5}
+        - {x: 55, y: -151.5}
+        - {x: 52, y: -151.5}
+        - {x: 51, y: -148.5}
+        - {x: 52, y: -146.5}
+        - {x: -39, y: -191.5}
+        - {x: -46, y: -197.5}
+        - {x: -75, y: -216.5}
+        - {x: -92, y: -216.5}
+        - {x: -122, y: -191.5}
+        - {x: -150, y: -179.5}
+        - {x: -173, y: -182.5}
+        - {x: -177, y: -180.5}
+        - {x: -177, y: -118.5}
+        - {x: -169, y: -94.5}
+        - {x: -163, y: -86.5}
+        - {x: -125, y: -56.5}
+        - {x: -87, y: -12.5}
+        - {x: -44, y: 44.5}
+        - {x: -9, y: 88.5}
+        - {x: -24, y: 100.5}
+        - {x: -24, y: 103.5}
+        - {x: 47, y: 190.5}
+        - {x: 73, y: 216.5}
+        - {x: 108, y: 216.5}
+        - {x: 132, y: 212.5}
+        - {x: 153, y: 201.5}
+        - {x: 177, y: 176.5}
+        - {x: 177, y: 88.5}
+        - {x: 173, y: 79.5}
+        - {x: 170, y: 77.5}
+        - {x: 170, y: 47.5}
+        - {x: 173, y: 48.5}
+        - {x: 176, y: 47.5}
+        - {x: 176, y: -9.5}
+        - {x: 175, y: -15.5}
+      - - {x: 34, y: -160.5}
+        - {x: 32, y: -157.5}
+        - {x: 36, y: -154.5}
+        - {x: 39, y: -155.5}
+        - {x: 39, y: -158.5}
+      - - {x: 74, y: -141.5}
+        - {x: 72, y: -138.5}
+        - {x: 107, y: -120.5}
+        - {x: 110, y: -120.5}
+        - {x: 111, y: -123.5}
+        - {x: 80, y: -139.5}
+      - - {x: 114, y: -122.5}
+        - {x: 112, y: -119.5}
+        - {x: 122, y: -113.5}
+        - {x: 125, y: -114.5}
+        - {x: 125, y: -117.5}
+      physicsShape:
+      - - {x: -28, y: -181.5}
+        - {x: -21, y: -178.5}
+        - {x: 61, y: -136.5}
+        - {x: 63, y: -136.5}
+        - {x: 152, y: -91.5}
+        - {x: 164, y: -91.5}
+        - {x: 170, y: -88.5}
+        - {x: 169, y: -61.5}
+        - {x: 166, y: -60.5}
+        - {x: 166, y: 85.49999}
+        - {x: 173, y: 88.5}
+        - {x: 173, y: 111.5}
+        - {x: 171, y: 120.5}
+        - {x: 166, y: 126.5}
+        - {x: 168, y: 148.5}
+        - {x: 172, y: 158.5}
+        - {x: 168, y: 176.5}
+        - {x: 159, y: 182.5}
+        - {x: 152, y: 181.5}
+        - {x: 146, y: 173.5}
+        - {x: 143, y: 163.5}
+        - {x: 144, y: 155.5}
+        - {x: 128, y: 132.5}
+        - {x: 104, y: 144.5}
+        - {x: 97, y: 147.5}
+        - {x: 97.99999, y: 155.5}
+        - {x: 93, y: 163.5}
+        - {x: 95, y: 176.5}
+        - {x: 94, y: 186.5}
+        - {x: 100, y: 196.5}
+        - {x: 97, y: 211.5}
+        - {x: 91, y: 216.5}
+        - {x: 79.99999, y: 216.5}
+        - {x: 77, y: 215.5}
+        - {x: 75, y: 213.5}
+        - {x: 70, y: 193.5}
+        - {x: 72, y: 190.5}
+        - {x: 54, y: 169.5}
+        - {x: 34, y: 141.5}
+        - {x: -21, y: 71.5}
+        - {x: -68, y: 11.5}
+        - {x: -126, y: -62.5}
+        - {x: -148, y: -89.5}
+        - {x: -160, y: -86.5}
+        - {x: -166, y: -91.5}
+        - {x: -170, y: -106.5}
+        - {x: -170, y: -112.5}
+        - {x: -166, y: -123.5}
+        - {x: -165, y: -135.5}
+        - {x: -163, y: -147.5}
+        - {x: -168, y: -150.5}
+        - {x: -170, y: -158.5}
+        - {x: -170, y: -170.5}
+        - {x: -162, y: -175.5}
+        - {x: -150, y: -174.5}
+        - {x: -146, y: -172.5}
+        - {x: -143, y: -169.5}
+        - {x: -127, y: -175.5}
+        - {x: -95, y: -191.5}
+        - {x: -96, y: -206.5}
+        - {x: -89, y: -211.5}
+        - {x: -75, y: -211.5}
+        - {x: -71, y: -209.5}
+        - {x: -48, y: -194.5}
+        - {x: -47, y: -190.5}
+      - - {x: -147, y: -139.5}
+        - {x: -146, y: -138.5}
+        - {x: -144, y: -132.5}
+        - {x: -146, y: -142.5}
+        - {x: -148, y: -144.5}
+        - {x: -147, y: -144.5}
+      - - {x: -130, y: -121.5}
+        - {x: -130, y: -117.5}
+        - {x: -125, y: -89.5}
+        - {x: -125, y: -88.5}
+        - {x: -122, y: -85.49999}
+        - {x: -123, y: -84.5}
+        - {x: -124, y: -91.5}
+        - {x: -125, y: -92.49999}
+        - {x: -125, y: -101.5}
+        - {x: -127, y: -119.5}
+        - {x: -131, y: -122.5}
+      - - {x: -112, y: -93.5}
+        - {x: -107, y: -66.5}
+        - {x: -107, y: -65.5}
+        - {x: -103, y: -61.5}
+        - {x: -104, y: -60.5}
+        - {x: -105, y: -67.5}
+        - {x: -106, y: -68.5}
+        - {x: -108, y: -72.5}
+        - {x: -110, y: -97.5}
+        - {x: -113, y: -99.5}
+        - {x: -112, y: -99.5}
+      - - {x: -93, y: -75.5}
+        - {x: -93, y: -70.5}
+        - {x: -89, y: -43.5}
+        - {x: -89, y: -42.5}
+        - {x: -85.99999, y: -40.5}
+        - {x: -85, y: -38.5}
+        - {x: -85.99999, y: -38.5}
+        - {x: -87, y: -40.5}
+        - {x: -87, y: -45.5}
+        - {x: -89, y: -45.5}
+        - {x: -89, y: -72.5}
+        - {x: -94, y: -74.5}
+        - {x: -95, y: -76.5}
+        - {x: -94, y: -76.5}
+      - - {x: -75, y: -46.5}
+        - {x: -74, y: -31.5}
+        - {x: -71, y: -49.5}
+        - {x: -75, y: -52.5}
+      - - {x: -56, y: -23.5}
+        - {x: -57, y: -17.5}
+        - {x: -55, y: -7.5}
+        - {x: -49, y: 6.5}
+        - {x: -48, y: 8.5}
+        - {x: -49, y: 8.5}
+        - {x: -49, y: 4.5}
+        - {x: -50, y: 3.5}
+        - {x: -52, y: -0.5}
+        - {x: -52, y: -25.5}
+        - {x: -57, y: -27.5}
+        - {x: -58, y: -30.5}
+        - {x: -56, y: -29.5}
+      - - {x: -38, y: 1.5}
+        - {x: -33, y: -1.5}
+        - {x: -38, y: -4.5}
+      - - {x: -20, y: 34.5}
+        - {x: -19, y: 35.5}
+        - {x: -18, y: 40.5}
+        - {x: -14, y: 52.5}
+        - {x: -14, y: 53.5}
+        - {x: -9.999999, y: 57.5}
+        - {x: -11, y: 58.5}
+        - {x: -12, y: 51.5}
+        - {x: -14, y: 51.5}
+        - {x: -15, y: 42.5}
+        - {x: -15, y: 22.5}
+        - {x: -19, y: 19.5}
+      - - {x: 0, y: 47.5}
+        - {x: 2, y: 66.5}
+        - {x: 1, y: 72.5}
+        - {x: 4, y: 75.5}
+        - {x: 4, y: 76.5}
+        - {x: 7, y: 78.5}
+        - {x: 7, y: 80.5}
+        - {x: 6, y: 77.5}
+        - {x: 5, y: 76.5}
+        - {x: 3, y: 72.5}
+        - {x: 4, y: 60.5}
+        - {x: 3, y: 46.5}
+        - {x: -1, y: 43.5}
+        - {x: 0, y: 43.5}
+      - - {x: 16, y: 82.5}
+        - {x: 17, y: 82.5}
+        - {x: 21, y: 97.5}
+        - {x: 21, y: 98.49999}
+        - {x: 25, y: 101.5}
+        - {x: 25, y: 103.5}
+        - {x: 24, y: 99.5}
+        - {x: 21, y: 95.5}
+        - {x: 17, y: 69.5}
+        - {x: 16, y: 67.5}
+        - {x: 17, y: 67.5}
+      - - {x: 36, y: 96.5}
+        - {x: 42, y: 124.5}
+        - {x: 42, y: 125.5}
+        - {x: 42, y: 112.5}
+        - {x: 36, y: 94.5}
+        - {x: 35, y: 92.49999}
+        - {x: 36, y: 92.49999}
+      - - {x: 54, y: 125.5}
+        - {x: 57, y: 142.5}
+        - {x: 60, y: 147.5}
+        - {x: 60, y: 148.5}
+        - {x: 63, y: 151.5}
+        - {x: 62, y: 153.5}
+        - {x: 60, y: 146.5}
+        - {x: 59, y: 145.5}
+        - {x: 58, y: 140.5}
+        - {x: 58, y: 120.5}
+        - {x: 54, y: 117.5}
+        - {x: 55, y: 117.5}
+      - - {x: 146, y: 127.5}
+        - {x: 149, y: 132.5}
+        - {x: 149, y: 125.5}
+        - {x: 148, y: 123.5}
+      - - {x: 72, y: 161.5}
+        - {x: 72.99999, y: 162.5}
+        - {x: 74, y: 165.5}
+        - {x: 77, y: 169.5}
+        - {x: 76, y: 169.5}
+        - {x: 76, y: 160.5}
+        - {x: 72.99999, y: 159.5}
+        - {x: 71, y: 157.5}
+        - {x: 70, y: 154.5}
+        - {x: 71, y: 141.5}
+        - {x: 72, y: 142.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445d887c9f29446480b24fe8c2004212
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u6247\u5B50"
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1114
+        width: 32
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -11}
+        - {x: -16, y: 11}
+        - {x: 16, y: 11}
+        - {x: 16, y: -11}
+      physicsShape:
+      - - {x: -2, y: 9.999999}
+        - {x: -16, y: -5}
+        - {x: -16, y: -11}
+        - {x: 11, y: -11}
+        - {x: 16, y: -8}
+        - {x: 16, y: 9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596e246d5cb1487a872f70c0a498de9c
+      internalID: 775125465928691106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_cushionB_3
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 635
+        width: 58
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -18}
+        - {x: -29, y: -13}
+        - {x: -29, y: 7}
+        - {x: -23, y: 18}
+        - {x: 13, y: 18}
+        - {x: 29, y: 6}
+        - {x: 29, y: -15}
+        - {x: 18, y: -18}
+      physicsShape:
+      - - {x: -5, y: 18}
+        - {x: -12, y: 16}
+        - {x: -27, y: 8}
+        - {x: -27, y: -2}
+        - {x: -23, y: -9.999999}
+        - {x: -14, y: -16}
+        - {x: 12, y: -16}
+        - {x: 29, y: -9}
+        - {x: 29, y: 4}
+        - {x: 9.999999, y: 18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03d9d0141d24082bad4171fa55382d6
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_dresser_2
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1356
+        width: 141
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.5, y: 81.5}
+        - {x: 70.5, y: 43.5}
+        - {x: 70.5, y: -45.5}
+        - {x: 62.5, y: -75.5}
+        - {x: 40.5, y: -81.5}
+        - {x: -5.5, y: -81.5}
+        - {x: -70.5, y: -44.5}
+        - {x: -70.5, y: 40.5}
+        - {x: -23.5, y: 81.5}
+      physicsShape:
+      - - {x: 50.5, y: -22.5}
+        - {x: 52.5, y: -18.5}
+        - {x: 52.5, y: -13.5}
+        - {x: 47.5, y: -0.5}
+        - {x: 43.5, y: 24.5}
+        - {x: 40.5, y: 28.5}
+        - {x: 27.5, y: 51.5}
+        - {x: 17.5, y: 73.49999}
+        - {x: 9.5, y: 81.5}
+        - {x: 1.5, y: 81.5}
+        - {x: -6.5, y: 78.5}
+        - {x: -10.5, y: 76.5}
+        - {x: -17.5, y: 65.5}
+        - {x: -32.5, y: 61.5}
+        - {x: -41.5, y: 33.5}
+        - {x: -42.5, y: 23.5}
+        - {x: -70.5, y: 11.5}
+        - {x: -70.5, y: 3.5}
+        - {x: -69.5, y: -0.5}
+        - {x: -67.5, y: -24.5}
+        - {x: -70.5, y: -29.5}
+        - {x: -70.5, y: -40.5}
+        - {x: -49.5, y: -51.5}
+        - {x: -42.5, y: -49.5}
+        - {x: -18.5, y: -34.5}
+        - {x: -4.5, y: -39.5}
+        - {x: -9.5, y: -58.5}
+        - {x: -9.5, y: -69.5}
+        - {x: 9.5, y: -79.49999}
+        - {x: 21.5, y: -79.49999}
+        - {x: 51.5, y: -62.5}
+        - {x: 51.5, y: -55.5}
+        - {x: 48.5, y: -51.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69756c0c9c04b07877b69329a8c381d
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throne
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1554
+        width: 88
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: -74}
+        - {x: -44, y: -74}
+        - {x: -44, y: 16}
+        - {x: -28, y: 74}
+        - {x: 44, y: 74}
+        - {x: 44, y: -72}
+      physicsShape:
+      - - {x: 35, y: -56}
+        - {x: 43, y: -25}
+        - {x: 35, y: 0}
+        - {x: 44, y: 24}
+        - {x: 44, y: 51}
+        - {x: 33, y: 69}
+        - {x: 30, y: 74}
+        - {x: 15, y: 74}
+        - {x: 2, y: 71}
+        - {x: -9, y: 58}
+        - {x: 0, y: 9}
+        - {x: -9, y: 8}
+        - {x: -39, y: -9}
+        - {x: -39, y: -15}
+        - {x: -38, y: -18}
+        - {x: -36, y: -33}
+        - {x: -36, y: -49}
+        - {x: -34, y: -51}
+        - {x: -9, y: -56}
+        - {x: 0, y: -57}
+        - {x: 2, y: -69}
+        - {x: 11, y: -69}
+        - {x: 26, y: -46}
+        - {x: 25, y: -56}
+        - {x: 32, y: -59}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe5013b6254410e8b4973ce62ec69df
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_stool_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1957
+        width: 55
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5100619, y: 0.8217806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: -25}
+        - {x: -27.5, y: -17}
+        - {x: -27.5, y: 9}
+        - {x: -16.5, y: 25}
+        - {x: 23.5, y: 25}
+        - {x: 27.5, y: 14}
+        - {x: 27.5, y: -25}
+      physicsShape:
+      - - {x: 25.5, y: -14}
+        - {x: 25.5, y: 21}
+        - {x: 22.5, y: 25}
+        - {x: -10.5, y: 25}
+        - {x: -12.5, y: 20}
+        - {x: -12.5, y: -14}
+        - {x: -5.5, y: -20}
+        - {x: 2.5, y: -22}
+        - {x: 7.5, y: -22}
+        - {x: 11.5, y: -15}
+        - {x: 10.5, y: -13}
+        - {x: 22.5, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9102628c75fa4a4986cabe5260fea7db
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_decrepit_bed
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 0
+        width: 257
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123.5, y: -50}
+        - {x: -128.5, y: -37}
+        - {x: -128.5, y: -1}
+        - {x: -115.5, y: 27}
+        - {x: -36.5, y: 51}
+        - {x: -6.5, y: 94}
+        - {x: 33.5, y: 94}
+        - {x: 98.5, y: 73}
+        - {x: 128.5, y: 37}
+        - {x: 128.5, y: -36}
+        - {x: 60.5, y: -80}
+        - {x: 23.5, y: -94}
+        - {x: -26.5, y: -94}
+        - {x: -30.5, y: -93}
+      physicsShape:
+      - - {x: 67.5, y: -60}
+        - {x: 81.5, y: -56}
+        - {x: 76.5, y: -45}
+        - {x: 101.5, y: -29}
+        - {x: 112.5, y: -36}
+        - {x: 122.5, y: -30}
+        - {x: 122.5, y: -27}
+        - {x: 121.5, y: -24}
+        - {x: 120.5, y: 36}
+        - {x: 114.5, y: 49}
+        - {x: 106.5, y: 43}
+        - {x: 105.5, y: 30}
+        - {x: 99.5, y: 28}
+        - {x: 88.5, y: 50}
+        - {x: 74.5, y: 64}
+        - {x: 48.5, y: 75}
+        - {x: 38.5, y: 74}
+        - {x: 26.5, y: 65}
+        - {x: 17.5, y: 94}
+        - {x: 4.5, y: 94}
+        - {x: -6.5, y: 44}
+        - {x: -25.5, y: 36}
+        - {x: -38.5, y: 30}
+        - {x: -59.5, y: 27}
+        - {x: -84.5, y: 12}
+        - {x: -96.5, y: 2}
+        - {x: -97.5, y: 25}
+        - {x: -107.5, y: 30}
+        - {x: -112.5, y: 17}
+        - {x: -112.5, y: -31}
+        - {x: -114.5, y: -33}
+        - {x: -114.5, y: -34}
+        - {x: -111.5, y: -38}
+        - {x: -106.5, y: -41}
+        - {x: -101.5, y: -40}
+        - {x: -12.5, y: -84}
+        - {x: -13.5, y: -85.99999}
+        - {x: -7.5, y: -90}
+        - {x: -0.5, y: -90}
+        - {x: 8.5, y: -85.99999}
+        - {x: 16.5, y: -78}
+        - {x: 27.5, y: -70}
+        - {x: 54.5, y: -66.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d8ad3cbdc6458fb1310d85b118cdbd
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_armchairB_2
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1706
+        width: 75
+        height: 103
+      alignment: 9
+      pivot: {x: 0.3856915, y: 0.4564011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: -51.5}
+        - {x: -37.5, y: -49.5}
+        - {x: -37.5, y: 10.5}
+        - {x: -21.5, y: 51.5}
+        - {x: 12.5, y: 51.5}
+        - {x: 31.5, y: 29.5}
+        - {x: 37.5, y: 5.5}
+        - {x: 37.5, y: -48.5}
+        - {x: 30.5, y: -51.5}
+      physicsShape:
+      - - {x: 17.5, y: -40.5}
+        - {x: 19.5, y: -33.5}
+        - {x: 19.5, y: 9.499999}
+        - {x: 18.5, y: 24.5}
+        - {x: 15.5, y: 32.5}
+        - {x: 5.5, y: 51.5}
+        - {x: -8.5, y: 51.5}
+        - {x: -22.5, y: 36.5}
+        - {x: -15.5, y: 19.5}
+        - {x: -34.5, y: 15.5}
+        - {x: -34.5, y: -35.5}
+        - {x: -26.5, y: -41.5}
+        - {x: -21.5, y: -20.5}
+        - {x: -10.5, y: -45.5}
+        - {x: -5.5, y: -47.5}
+        - {x: 0.5, y: -47.5}
+        - {x: 0.5, y: -45.5}
+        - {x: 7.5, y: -25.5}
+        - {x: 10.5, y: -43.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37e82a8cff9435bb8f060f5faf7d8d6
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ws_baijian_1
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1797
+        width: 24
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -25}
+        - {x: -12, y: 25}
+        - {x: 12, y: 25}
+        - {x: 12, y: -25}
+      physicsShape:
+      - - {x: 8, y: 25}
+        - {x: -8, y: 25}
+        - {x: -9.999999, y: 24}
+        - {x: -11, y: 19}
+        - {x: -11, y: -18}
+        - {x: -9.999999, y: -22}
+        - {x: -3, y: -24}
+        - {x: 7, y: -24}
+        - {x: 9.999999, y: -21}
+        - {x: 11, y: -8}
+        - {x: 11, y: 23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230813779487440ca142abb9114a7d35
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u68B3\u5B50"
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 131
+        width: 24
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -5}
+        - {x: -12, y: 5}
+        - {x: 12, y: 5}
+        - {x: 12, y: -5}
+      physicsShape:
+      - - {x: -12, y: -5}
+        - {x: 1, y: -5}
+        - {x: 12, y: -2}
+        - {x: 12, y: 5}
+        - {x: -11, y: 5}
+        - {x: -12, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6803fa1a7b401d8ae938726d49787c
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9999\u6C34"
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1028
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -11}
+        - {x: -7, y: 11}
+        - {x: 7, y: 11}
+        - {x: 7, y: -11}
+      physicsShape:
+      - - {x: -7, y: 9}
+        - {x: -7, y: -9.999999}
+        - {x: -6, y: -11}
+        - {x: 7, y: -11}
+        - {x: 7, y: -4}
+        - {x: 6, y: 8}
+        - {x: 4, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe367ca06083405b9c05c0439ce4c010
+      internalID: -6536250208520804245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuobu1-2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 842
+        height: 456
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -409, y: -208}
+        - {x: -421, y: -190}
+        - {x: -421, y: -152}
+        - {x: -417, y: -148}
+        - {x: -354, y: -117}
+        - {x: -163, y: -20}
+        - {x: -9, y: 56}
+        - {x: 105, y: 114}
+        - {x: 110, y: 115}
+        - {x: 210, y: 166}
+        - {x: 336, y: 228}
+        - {x: 348, y: 228}
+        - {x: 421, y: 194}
+        - {x: 421, y: 179}
+        - {x: 418, y: 175}
+        - {x: 322, y: 124}
+        - {x: 276, y: 104}
+        - {x: 197, y: 63}
+        - {x: 127, y: 29}
+        - {x: 103, y: 15}
+        - {x: -139, y: -102}
+        - {x: -171, y: -120}
+        - {x: -247, y: -157}
+        - {x: -311, y: -188}
+        - {x: -333, y: -221}
+        - {x: -337, y: -228}
+        - {x: -389, y: -228}
+      physicsShape:
+      - - {x: 353, y: 148}
+        - {x: 413, y: 176}
+        - {x: 416, y: 183}
+        - {x: 416, y: 188}
+        - {x: 414, y: 190}
+        - {x: 345, y: 225}
+        - {x: 340, y: 225}
+        - {x: -410, y: -150}
+        - {x: -415, y: -144}
+        - {x: -417, y: -155}
+        - {x: -417, y: -194}
+        - {x: -385, y: -223}
+        - {x: -343, y: -223}
+        - {x: -333, y: -220}
+        - {x: -339, y: -196}
+        - {x: -130, y: -93}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe967748d654b46b816d6969484fb9d
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 09f7d287952e4d74eabc6df39c69a94a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bedroom_dresser_3: 21300118
+      bedroom_fireplace_1: 21300126
+      bedroom_cabinet_1: 21300166
+      "\u6247\u5B50": 775125465928691106
+      ws_chuang_2: 21300094
+      bedroom_teatable_1: 21300176
+      ws_chuang_1: 21300028
+      bedroom_bigrug_2: 21300154
+      tsg_dashugui_1: 21300182
+      hall_stair: 21300218
+      bedroom_catbowl_1: 21300192
+      bedroom_nighttable_2: 21300056
+      ws_baijian_2: 21300188
+      chabei: 21300128
+      bedroom_armchairB_1: 21300132
+      bedroom_armchairB_2: 21300232
+      bathroom_carpet: 21300112
+      bedroom_cushionB_3: 21300222
+      zhuobu2-2: 21300048
+      shu1: 21300148
+      bedroom_dressingmirror_3: 21300140
+      ws_baijian_1: 21300234
+      bedroom_cabinet_2: 21300068
+      dlt_daditan_1: 21300090
+      bedroom_bedcarpet_1: 21300004
+      bedroom_cushionA_3: 21300108
+      chaju3: 21300136
+      bedroom_cushionB_2: 21300110
+      yuanzhuobu: 21300010
+      bedroom_wardrobe_3: 21300194
+      bedroom_hatstand_1: 21300184
+      bedroom_armchairA_1: 21300156
+      bedroom_dresser_2: 21300224
+      bedroom_cabinet_3: 21300044
+      bedroom_stool_1: 21300212
+      bedroom_bigrug_1: 21300120
+      panzi1: 21300030
+      banquet_table: 21300080
+      tsg_dashugui_2: 21300146
+      bedroom_dressingmirror_1: 21300006
+      bedroom_fireplace_3: 21300008
+      hua: 21300058
+      bedroom_table_1: 21300200
+      bedroom_bedchair_3: 21300046
+      shuibei2: 21300102
+      lazhu2: 21300098
+      bedroom_cushionA_1: 21300158
+      bedroom_cushionA_2: 21300202
+      bedroom_smallrug_1: 21300114
+      bedroom_nighttable_1: 21300196
+      22: 21300018
+      bedroom_armchairA_2: 21300116
+      "\u9999\u6C34": -6536250208520804245
+      bedroom_armchairB_3: 21300190
+      huapinghuang: 21300204
+      bedroom_fireplace_2: 21300062
+      bedroom_teatable_2: 21300052
+      bedroom_bedcarpet_3: 21300002
+      bedroom_nighttable_3: 21300034
+      bedroom_teacarpet_1: 21300070
+      "\u9879\u94FE": -5231028466531345890
+      bedroom_bed_3: 21300050
+      throne_pedestal_1: 21300178
+      bedroom_candlestick_3: 21300106
+      bedroom_bigrug_3: 21300104
+      "\u7EFF\u82B1\u74F6": 21300180
+      shui: 21300092
+      bedroom_bedchair_2: 21300142
+      throne_pedestal_2: 21300138
+      "\u68B3\u5B50": 21300210
+      danshu: 21300040
+      bedroom_bedcarpet_2: 21300036
+      hqb_4: 21300026
+      bedroom_stool_2: 21300228
+      panzi4: 21300078
+      bedroom_catbed_3: 21300208
+      beizi2: 21300174
+      beizi1: 21300134
+      bedroom_teatable_3: 21300186
+      throne: 21300226
+      bedroom_catbed_2: 21300214
+      bedroom_hatstand_3: 21300020
+      bedroom_teacarpet_2: 21300022
+      bedroom_dressingmirror_2: 21300168
+      bedroom_armchairA_3: 21300072
+      bedroom_cattoy: 21300164
+      bedroom_catbed_1: 21300016
+      bedroom_bed_2: 21300172
+      shuibei1: 21300162
+      bedroom_wardrobe_2: 21300042
+      panzi2: 21300170
+      zhuobu2: 21300088
+      bathroom_stool: 21300086
+      shuihu2: 21300124
+      zhuobu1-2: 21300240
+      bedroom_catbowl_3: 21300024
+      throne_pedestal_3: 21300082
+      ws_chuang_1_1: 21300054
+      bedroom_bed_1: 21300084
+      bedroom_smallrug_2: 21300096
+      bedroom_candlestick_1: 21300198
+      bedroom_hatstand_2: 21300206
+      bedroom_stool_3: 21300160
+      bedroom_teacarpet_3: 21300064
+      shuihu1: 21300076
+      bedroom_bedchair_1: 21300074
+      bedroom_table_3: 21300012
+      bedroom_cushionB_1: 21300066
+      panzi3: 21300060
+      bathroom_washbasin: 21300216
+      bedroom_catbowl_2: 21300130
+      bedroom_dresser_1: 21300000
+      zhuobu1: 21300032
+      shigaoxiang: 21300100
+      throne_pedestal_4: 21300122
+      bedroom_table_2: 21300038
+      general_decrepit_bed: 21300230
+      bathroom_bathtub: 21300150
+      bedroom_candlestick_2: 21300152
+      bedroom_smallrug_3: 21300014
+      bedroom_wardrobe_1: 21300144
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

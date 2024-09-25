@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cd4ad959c97af543a4477ff07fc9377, type: 3}
+  m_Name: alice_Atlas
+  m_EditorClassIdentifier:
+  atlasFile: {fileID: 4900000, guid: 4b444cc4893f76c49b202fb494ec2e5e, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 9b1b9533cc266e84ab6af80dd04bf934, type: 2}

@@ -1,0 +1,4248 @@
+fileFormatVersion: 2
+guid: c6fe078fc2f3fc84a8e01c54cfd29491
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: hu
+  - first:
+      213: 21300002
+    second: candle
+  - first:
+      213: 21300004
+    second: diningroom_fireplace_screen
+  - first:
+      213: 21300006
+    second: shiwu
+  - first:
+      213: 21300008
+    second: hua
+  - first:
+      213: 21300010
+    second: diningroom_chairA_1
+  - first:
+      213: 21300012
+    second: diningroom_sofaB_2
+  - first:
+      213: 21300014
+    second: guizi
+  - first:
+      213: 21300016
+    second: diningroom_armchairA_2
+  - first:
+      213: 21300018
+    second: guoqie
+  - first:
+      213: 21300020
+    second: canju_1
+  - first:
+      213: 21300022
+    second: diningroom_lograck_2M
+  - first:
+      213: 21300024
+    second: bange
+  - first:
+      213: 21300026
+    second: jiuping_green
+  - first:
+      213: 21300028
+    second: diningroom_diningcar_2
+  - first:
+      213: 21300030
+    second: ping
+  - first:
+      213: 21300032
+    second: diningroom_diningcar_1
+  - first:
+      213: 21300034
+    second: bread
+  - first:
+      213: 21300036
+    second: huiguanzi
+  - first:
+      213: 21300038
+    second: diningroom_armchairA_1
+  - first:
+      213: 21300040
+    second: diningroom_armchairA_3
+  - first:
+      213: 21300042
+    second: diningroom_sofaA_1
+  - first:
+      213: 21300044
+    second: diningroom_armchairB_1
+  - first:
+      213: 21300046
+    second: diningroom_sofaB_1
+  - first:
+      213: 21300048
+    second: diningroom_chairB_1
+  - first:
+      213: 21300050
+    second: diningroom_chairA_3
+  - first:
+      213: 21300052
+    second: diningroom_chairB_2
+  - first:
+      213: 21300054
+    second: diningroom_sofaA_3
+  - first:
+      213: 21300056
+    second: diningroom_dinnertable_2
+  - first:
+      213: 21300058
+    second: diningroom_lograck_2
+  - first:
+      213: 21300060
+    second: diningroom_dinnertable_1
+  - first:
+      213: 21300062
+    second: shuipen
+  - first:
+      213: 21300064
+    second: diningroom_dinnertable_3
+  - first:
+      213: 21300066
+    second: cup_alone
+  - first:
+      213: 21300068
+    second: diningroom_sofaA_2
+  - first:
+      213: 21300070
+    second: diningroom_bigcarpet_2
+  - first:
+      213: 21300072
+    second: guajian
+  - first:
+      213: 21300074
+    second: hongguanzi
+  - first:
+      213: 21300076
+    second: diningroom_bigcarpet_1
+  - first:
+      213: 21300078
+    second: dinner_table
+  - first:
+      213: 21300080
+    second: canju_2
+  - first:
+      213: 21300082
+    second: diningroom_lograck_3M
+  - first:
+      213: 21300084
+    second: panzi
+  - first:
+      213: 21300086
+    second: guopan
+  - first:
+      213: 21300088
+    second: diningroom_chairB_3
+  - first:
+      213: 21300090
+    second: jiupin_black
+  - first:
+      213: 21300092
+    second: diningroom_smallcarpet_1
+  - first:
+      213: 21300094
+    second: diningroom_armchairB_3
+  - first:
+      213: 21300096
+    second: bei
+  - first:
+      213: 21300098
+    second: Stand
+  - first:
+      213: 21300100
+    second: diningroom_lograck_1
+  - first:
+      213: 21300102
+    second: diningroom_armchairB_2
+  - first:
+      213: 21300104
+    second: diningroom_lograck_1M
+  - first:
+      213: 21300106
+    second: beizi
+  - first:
+      213: 21300108
+    second: zhuobu
+  - first:
+      213: 21300110
+    second: diningroom_sofaB_3
+  - first:
+      213: 21300112
+    second: diningroom_fireplace
+  - first:
+      213: 21300114
+    second: diningroom_bigcarpet_3
+  - first:
+      213: 21300116
+    second: xiaoguanzi
+  - first:
+      213: 21300118
+    second: diningroom_lograck_3
+  - first:
+      213: 21300120
+    second: dihu
+  - first:
+      213: 21300122
+    second: diningroom_diningcar_3
+  - first:
+      213: 21300124
+    second: chufanggui
+  - first:
+      213: 21300126
+    second: diningroom_smallcarpet_2
+  - first:
+      213: 21300128
+    second: zuishangceng
+  - first:
+      213: 21300130
+    second: diningroom_chairA_2
+  - first:
+      213: 21300132
+    second: xiaohuiguan
+  - first:
+      213: 21300134
+    second: kitchen_hearth
+  - first:
+      213: 21300136
+    second: guo
+  - first:
+      213: 21300138
+    second: diningroom_smallcarpet_3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hu
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1025
+        width: 22
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -8}
+        - {x: -11, y: 8}
+        - {x: 11, y: 8}
+        - {x: 11, y: -8}
+      physicsShape:
+      - - {x: -7, y: -8}
+        - {x: 6, y: -8}
+        - {x: 11, y: -5}
+        - {x: 11, y: 7}
+        - {x: 9.999999, y: 8}
+        - {x: -11, y: 8}
+        - {x: -11, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa8987f147a4266a801c15fcb170d5e
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1969
+        width: 12
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -12}
+        - {x: -6, y: 12}
+        - {x: 6, y: 12}
+        - {x: 6, y: -12}
+      physicsShape:
+      - - {x: -6, y: 12}
+        - {x: -6, y: -12}
+        - {x: 4, y: -12}
+        - {x: 4, y: 8}
+        - {x: 3, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696699c47b90499893b3c03db71c548f
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_fireplace_screen
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1499
+        width: 73
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -31}
+        - {x: -36.5, y: -5}
+        - {x: -36.5, y: 31}
+        - {x: -9.5, y: 31}
+        - {x: 15.5, y: 25}
+        - {x: 36.5, y: 7}
+        - {x: 36.5, y: -31}
+      physicsShape:
+      - - {x: -0.5, y: 26}
+        - {x: -21.5, y: 31}
+        - {x: -32.5, y: 31}
+        - {x: -30.5, y: 9.999999}
+        - {x: -34.5, y: 5}
+        - {x: -34.5, y: -3}
+        - {x: -11.5, y: -5}
+        - {x: 18.5, y: -20}
+        - {x: 17.5, y: -28}
+        - {x: 34.5, y: -28}
+        - {x: 34.5, y: -17}
+        - {x: 33.5, y: -15}
+        - {x: 30.5, y: 8}
+        - {x: 9.5, y: 19}
+      - - {x: 17.5, y: -8}
+        - {x: 22.5, y: -7}
+        - {x: 21.5, y: -7}
+        - {x: 18.5, y: -8}
+      - - {x: 12.5, y: 0}
+        - {x: 13.5, y: -1}
+        - {x: 10.5, y: -1}
+        - {x: 10.5, y: 0}
+      - - {x: -18.5, y: 11}
+        - {x: -23.5, y: 16}
+        - {x: -23.5, y: 14}
+        - {x: -22.5, y: 11}
+        - {x: -17.5, y: 8}
+      - - {x: -14.5, y: 14}
+        - {x: -14.5, y: 13}
+        - {x: -8.5, y: 8}
+        - {x: -9.5, y: 9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e285b966cbba4667afbe2e09388b829d
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shiwu
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1928
+        width: 58
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -8}
+        - {x: -29, y: -8}
+        - {x: -29, y: 14}
+        - {x: -18, y: 18}
+        - {x: 5, y: 18}
+        - {x: 29, y: 1}
+        - {x: 29, y: -6}
+        - {x: 28, y: -9}
+        - {x: 14, y: -18}
+        - {x: -21, y: -18}
+        - {x: -25, y: -6}
+      physicsShape:
+      - - {x: 11, y: 9}
+        - {x: -2, y: 18}
+        - {x: -19, y: 18}
+        - {x: -29, y: 14}
+        - {x: -29, y: -2}
+        - {x: -22, y: -13}
+        - {x: -19, y: -18}
+        - {x: 13, y: -18}
+        - {x: 24, y: -11}
+        - {x: 26, y: -8}
+        - {x: 26, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03190178710848738861c0dffbf28d5c
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hua
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 899
+        width: 79
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 30.5}
+        - {x: -25.5, y: 30.5}
+        - {x: -11.5, y: 30.5}
+        - {x: -1.5, y: 25.5}
+        - {x: -4.5, y: 27.5}
+        - {x: -3.5, y: 30.5}
+        - {x: 25.5, y: 30.5}
+        - {x: 35.5, y: 9.5}
+        - {x: 35.5, y: -9.5}
+        - {x: 39.5, y: -9.5}
+        - {x: 39.5, y: -19.5}
+        - {x: 35.5, y: -19.5}
+        - {x: 34.5, y: -19.5}
+        - {x: 34.5, y: -20.5}
+        - {x: 35.5, y: -19.5}
+        - {x: 38.5, y: -20.5}
+        - {x: 38.5, y: -23.5}
+        - {x: 35.5, y: -24.5}
+        - {x: 34.5, y: -22.5}
+        - {x: 33.5, y: -26.5}
+        - {x: 29.5, y: -24.5}
+        - {x: 24.5, y: -19.5}
+        - {x: 25.5, y: -21.5}
+        - {x: 27.5, y: -24.5}
+        - {x: 19.5, y: -30.5}
+        - {x: -14.5, y: -30.5}
+        - {x: -15.5, y: -29.5}
+        - {x: -20.5, y: -22.5}
+        - {x: -22.5, y: -18.5}
+        - {x: -23.5, y: -17.5}
+        - {x: -22.5, y: -19.5}
+        - {x: -21.5, y: -25.5}
+        - {x: -23.5, y: -27.5}
+        - {x: -27.5, y: -27.5}
+        - {x: -39.5, y: -14.5}
+        - {x: -39.5, y: 17.5}
+      physicsShape:
+      - - {x: 24.5, y: -15.5}
+        - {x: 27.5, y: -12.5}
+        - {x: 27.5, y: -9.5}
+        - {x: 26.5, y: -3.5}
+        - {x: 32.5, y: 6.5}
+        - {x: 32.5, y: 10.5}
+        - {x: 24.5, y: 15.5}
+        - {x: 17.5, y: 19.5}
+        - {x: 11.5, y: 29.5}
+        - {x: 3.5, y: 29.5}
+        - {x: -10.5, y: 24.5}
+        - {x: -22.5, y: 23.5}
+        - {x: -26.5, y: 21.5}
+        - {x: -23.5, y: 13.5}
+        - {x: -34.5, y: 12.5}
+        - {x: -37.5, y: 11.5}
+        - {x: -38.5, y: 9.5}
+        - {x: -38.5, y: -2.5}
+        - {x: -29.5, y: -13.5}
+        - {x: -21.5, y: -7.5}
+        - {x: -21.5, y: -15.5}
+        - {x: -13.5, y: -22.5}
+        - {x: -5.5, y: -22.5}
+        - {x: 2.5, y: -21.5}
+        - {x: 8.5, y: -19.5}
+        - {x: 12.5, y: -14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa90adf459c24b659ca110fc779a329b
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_chairA_1
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1914
+        width: 75
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: -52.5}
+        - {x: -29.5, y: -50.5}
+        - {x: -37.5, y: -50.5}
+        - {x: -37.5, y: 8.5}
+        - {x: -11.5, y: 52.5}
+        - {x: 24.5, y: 52.5}
+        - {x: 36.5, y: 8.5}
+        - {x: 37.5, y: 0.5}
+        - {x: 37.5, y: -26.5}
+        - {x: 10.5, y: -50.5}
+        - {x: -16.5, y: -50.5}
+        - {x: -15.5, y: -51.5}
+        - {x: -15.5, y: -52.5}
+      physicsShape:
+      - - {x: 27.5, y: -20.5}
+        - {x: 27.5, y: -16.5}
+        - {x: 21.5, y: 8.5}
+        - {x: 27.5, y: 22.5}
+        - {x: 27.5, y: 39.5}
+        - {x: 19.5, y: 52.5}
+        - {x: -7.5, y: 52.5}
+        - {x: -11.5, y: 44.5}
+        - {x: -11.5, y: 11.5}
+        - {x: -30.5, y: 2.5}
+        - {x: -33.5, y: -1.5}
+        - {x: -35.5, y: -8.5}
+        - {x: -35.5, y: -25.5}
+        - {x: -31.5, y: -39.5}
+        - {x: -23.5, y: -34.5}
+        - {x: -23.5, y: -16.5}
+        - {x: -9.5, y: -27.5}
+        - {x: -7.5, y: -45.5}
+        - {x: -6.5, y: -47.5}
+        - {x: -3.5, y: -47.5}
+        - {x: -0.5, y: -46.5}
+        - {x: 10.5, y: -19.5}
+        - {x: 10.5, y: -34.5}
+        - {x: 17.5, y: -42.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c05001afb684677bbce000f0c1faaaa
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_sofaB_2
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1347
+        width: 177
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: -68}
+        - {x: -88.5, y: -68}
+        - {x: -88.5, y: 26}
+        - {x: -56.5, y: 68}
+        - {x: 68.5, y: 68}
+        - {x: 88.5, y: 50}
+        - {x: 88.5, y: -21}
+        - {x: 82.5, y: -39}
+      physicsShape:
+      - - {x: 45.5, y: -2}
+        - {x: 52.5, y: -9.999999}
+        - {x: 57.5, y: -11}
+        - {x: 61.5, y: -2}
+        - {x: 64.5, y: 16}
+        - {x: 78.5, y: 47}
+        - {x: 78.5, y: 53}
+        - {x: 62.5, y: 66.99999}
+        - {x: 56.5, y: 68}
+        - {x: 35.5, y: 68}
+        - {x: 29.5, y: 62}
+        - {x: 14.5, y: 50}
+        - {x: 11.5, y: 46}
+        - {x: 10.5, y: 43}
+        - {x: -1.5, y: 32}
+        - {x: -57.5, y: 9.999999}
+        - {x: -80.5, y: 11}
+        - {x: -86.5, y: 6}
+        - {x: -86.5, y: -1}
+        - {x: -81.5, y: -9.999999}
+        - {x: -78.5, y: -40}
+        - {x: -74.5, y: -41}
+        - {x: -67.5, y: -44}
+        - {x: -50.5, y: -41}
+        - {x: -46.5, y: -56}
+        - {x: -43.5, y: -57}
+        - {x: -36.5, y: -57}
+        - {x: -30.5, y: -39}
+        - {x: 8.5, y: -25}
+        - {x: 23.5, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3405af32dca24f7cbb3db215e3dc250c
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guizi
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 695
+        width: 36
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -9.5}
+        - {x: -18, y: 9.5}
+        - {x: 18, y: 9.5}
+        - {x: 18, y: -9.5}
+      physicsShape:
+      - - {x: -18, y: 9.5}
+        - {x: -18, y: -3.5}
+        - {x: -11, y: -8.5}
+        - {x: 11, y: -8.5}
+        - {x: 15, y: -5.5}
+        - {x: 18, y: -2.5}
+        - {x: 18, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d825fc721f1244318b6d836f4d9001e5
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_armchairA_2
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1347
+        width: 107
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -55}
+        - {x: -53.5, y: -27}
+        - {x: -53.5, y: 55}
+        - {x: 20.5, y: 55}
+        - {x: 53.5, y: 4}
+        - {x: 53.5, y: -50}
+        - {x: 52.5, y: -51}
+        - {x: 40.5, y: -55}
+      physicsShape:
+      - - {x: 39.5, y: -36}
+        - {x: 39.5, y: -35}
+        - {x: 42.5, y: -23}
+        - {x: 43.5, y: -17}
+        - {x: 43.5, y: 8}
+        - {x: 36.5, y: 13}
+        - {x: 27.5, y: 11}
+        - {x: 11.5, y: 27}
+        - {x: 0.5, y: 53}
+        - {x: -0.5, y: 55}
+        - {x: -42.5, y: 55}
+        - {x: -53.5, y: 53}
+        - {x: -53.5, y: 39}
+        - {x: -42.5, y: 7}
+        - {x: -40.5, y: -13}
+        - {x: -38.5, y: -23}
+        - {x: -28.5, y: -18}
+        - {x: -17.5, y: -29}
+        - {x: -10.5, y: -49}
+        - {x: -2.5, y: -49}
+        - {x: -0.5, y: -48}
+        - {x: 26.5, y: -27}
+        - {x: 24.5, y: -34}
+        - {x: 36.5, y: -43}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71061e92ecd94af497647e70191ac66d
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guoqie
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1895
+        width: 57
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: -16.5}
+        - {x: -28.5, y: -13.5}
+        - {x: -28.5, y: 16.5}
+        - {x: 16.5, y: 16.5}
+        - {x: 28.5, y: 9.5}
+        - {x: 28.5, y: -6.5}
+        - {x: 26.5, y: -11.5}
+        - {x: 23.5, y: -16.5}
+      physicsShape:
+      - - {x: -23.5, y: 16.5}
+        - {x: -28.5, y: 13.5}
+        - {x: -28.5, y: -0.5}
+        - {x: -7.5, y: -14.5}
+        - {x: 7.5, y: -14.5}
+        - {x: 27.5, y: -5.5}
+        - {x: 27.5, y: 8.5}
+        - {x: 10.5, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1138aacdbdc445484954413b41c84a1
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canju_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1499
+        width: 65
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: -17.5}
+        - {x: -32.5, y: 2.5}
+        - {x: -32.5, y: 11.5}
+        - {x: -21.5, y: 17.5}
+        - {x: -5.5, y: 17.5}
+        - {x: 11.5, y: 13.5}
+        - {x: 11.5, y: 15.5}
+        - {x: 13.5, y: 17.5}
+        - {x: 26.5, y: 17.5}
+        - {x: 32.5, y: 1.5}
+        - {x: 32.5, y: -12.5}
+        - {x: 19.5, y: -17.5}
+      physicsShape:
+      - - {x: 22.5, y: 17.5}
+        - {x: 14.5, y: 17.5}
+        - {x: 12.5, y: 15.5}
+        - {x: 10.5, y: 11.5}
+        - {x: -10.5, y: 16.5}
+        - {x: -12.5, y: 17.5}
+        - {x: -24.5, y: 17.5}
+        - {x: -32.5, y: 12.5}
+        - {x: -32.5, y: 4.5}
+        - {x: -19.5, y: -6.5}
+        - {x: -13.5, y: -6.5}
+        - {x: 5.5, y: -17.5}
+        - {x: 16.5, y: -17.5}
+        - {x: 32.5, y: -9.5}
+        - {x: 32.5, y: -1.5}
+        - {x: 24.5, y: 15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954a0ad26c2a4d448b73ca2846b52627
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_lograck_2M
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 574
+        width: 54
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -39}
+        - {x: -27, y: -37}
+        - {x: -27, y: 39}
+        - {x: 13, y: 39}
+        - {x: 27, y: 22}
+        - {x: 27, y: -28}
+        - {x: 21, y: -31}
+        - {x: 8, y: -34}
+        - {x: 8, y: -37}
+        - {x: 6, y: -39}
+      physicsShape:
+      - - {x: 25, y: -17}
+        - {x: 25, y: -7}
+        - {x: 23, y: -4}
+        - {x: 7, y: 5}
+        - {x: 9, y: 32}
+        - {x: 3, y: 39}
+        - {x: -7, y: 39}
+        - {x: -23, y: 31}
+        - {x: -27, y: 28}
+        - {x: -27, y: 23}
+        - {x: -24, y: 19}
+        - {x: -23, y: -5}
+        - {x: -25, y: -27}
+        - {x: -9.999999, y: -34}
+        - {x: -2, y: -38}
+        - {x: 5, y: -38}
+        - {x: 15, y: -29}
+        - {x: 22, y: -30}
+        - {x: 24, y: -27}
+      - - {x: -5, y: 2}
+        - {x: -5, y: 9}
+        - {x: -1, y: 12}
+        - {x: -2, y: 5}
+      - - {x: -11, y: 7}
+        - {x: -12, y: 2}
+        - {x: -11, y: 2}
+      - - {x: -5, y: 28}
+        - {x: -2, y: 28}
+        - {x: 1, y: 25}
+        - {x: -5, y: 21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19caeb5559f040b69caf080187f9ffe7
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bange
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 964
+        width: 18
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 6}
+        - {x: 9, y: 6}
+        - {x: 9, y: -6}
+      physicsShape:
+      - - {x: 5, y: 6}
+        - {x: -9, y: -1}
+        - {x: -9, y: -6}
+        - {x: 6, y: -6}
+        - {x: 9, y: -2}
+        - {x: 9, y: 5}
+        - {x: 8, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0beef80bf2ee44d4b0aa36fb5dbdc3a7
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuping_green
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1538
+        width: 14
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -15.5}
+        - {x: -7, y: 15.5}
+        - {x: 7, y: 15.5}
+        - {x: 7, y: -15.5}
+      physicsShape:
+      - - {x: -5, y: 15.5}
+        - {x: -7, y: 8.5}
+        - {x: -7, y: -11.5}
+        - {x: -5, y: -15.5}
+        - {x: 1, y: -15.5}
+        - {x: 5, y: -14.5}
+        - {x: 5, y: 7.5}
+        - {x: 1, y: 15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31719aa2acb8484380e631ccebddd363
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_diningcar_2
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 916
+        width: 105
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: -52.5}
+        - {x: -52.5, y: -52.5}
+        - {x: -52.5, y: 8.5}
+        - {x: -47.5, y: 32.5}
+        - {x: -2.5, y: 52.5}
+        - {x: 26.5, y: 52.5}
+        - {x: 52.5, y: 38.5}
+        - {x: 52.5, y: -45.5}
+      physicsShape:
+      - - {x: 35.5, y: -34.5}
+        - {x: 38.5, y: -30.5}
+        - {x: 40.5, y: 0.5}
+        - {x: 39.5, y: 20.5}
+        - {x: 50.5, y: 26.5}
+        - {x: 50.5, y: 32.5}
+        - {x: 48.5, y: 36.5}
+        - {x: 15.5, y: 52.5}
+        - {x: -0.5, y: 52.5}
+        - {x: -5.5, y: 35.5}
+        - {x: -17.5, y: 32.5}
+        - {x: -36.5, y: 21.5}
+        - {x: -39.5, y: -1.5}
+        - {x: -47.5, y: -9.5}
+        - {x: -50.5, y: -16.5}
+        - {x: -50.5, y: -29.5}
+        - {x: -44.5, y: -35.5}
+        - {x: -13.5, y: -46.5}
+        - {x: -8.5, y: -52.5}
+        - {x: 1.5, y: -52.5}
+        - {x: 10.5, y: -44.5}
+        - {x: 26.5, y: -23.5}
+        - {x: 27.5, y: -31.5}
+      - - {x: 29.5, y: 5.5}
+        - {x: 28.5, y: 5.5}
+        - {x: 28.5, y: -0.5}
+        - {x: 30.5, y: -2.5}
+        - {x: 30.5, y: -1.5}
+      - - {x: 26.5, y: 25.5}
+        - {x: 25.5, y: 27.5}
+        - {x: 30.5, y: 24.5}
+        - {x: 31.5, y: 23.5}
+        - {x: 30.5, y: 24.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7dc394ab6f45dd837a4bd841e96065
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ping
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1081
+        width: 23
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: -11.5}
+        - {x: -11.5, y: 11.5}
+        - {x: 11.5, y: 11.5}
+        - {x: 11.5, y: -11.5}
+      physicsShape:
+      - - {x: -9.5, y: 11.5}
+        - {x: -9.5, y: -9.5}
+        - {x: -8.5, y: -11.5}
+        - {x: 5.5, y: -11.5}
+        - {x: 11.5, y: -5.5}
+        - {x: 11.5, y: 9.5}
+        - {x: 7.5, y: 11.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9832e1e2af40f6aeb558e47de09cb0
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_diningcar_1
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 899
+        width: 108
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: -49}
+        - {x: -54, y: -43}
+        - {x: -54, y: 19}
+        - {x: -51, y: 27}
+        - {x: -5, y: 49}
+        - {x: 17, y: 49}
+        - {x: 50, y: 36}
+        - {x: 54, y: 13}
+        - {x: 54, y: -26}
+        - {x: 20, y: -49}
+      physicsShape:
+      - - {x: 45, y: -13}
+        - {x: 46, y: -3}
+        - {x: 46, y: 35}
+        - {x: 18, y: 49}
+        - {x: 5, y: 49}
+        - {x: 2, y: 48}
+        - {x: -3, y: 38}
+        - {x: -42, y: 18}
+        - {x: -49, y: 14}
+        - {x: -49, y: 8}
+        - {x: -44, y: -9.999999}
+        - {x: -49, y: -19}
+        - {x: -49, y: -20}
+        - {x: -47, y: -31}
+        - {x: -40, y: -35}
+        - {x: -17, y: -48}
+        - {x: -8, y: -48}
+        - {x: -3, y: -45}
+        - {x: 18, y: -29}
+        - {x: 31, y: -36}
+        - {x: 39, y: -26}
+      - - {x: -34, y: -7}
+        - {x: -27, y: -5}
+        - {x: -35, y: -9}
+      - - {x: 23, y: -1}
+        - {x: 23, y: -4}
+        - {x: 22, y: -3}
+      - - {x: 32, y: 23}
+        - {x: 32, y: 25}
+        - {x: 27, y: 31}
+        - {x: 17, y: 36}
+        - {x: 33, y: 29}
+        - {x: 33, y: 25}
+        - {x: 32, y: 22}
+        - {x: 33, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac77c389358040ba935c9caffa08d718
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1969
+        width: 42
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -13}
+        - {x: -21, y: -1}
+        - {x: -21, y: 17}
+        - {x: 15, y: 17}
+        - {x: 21, y: 0}
+        - {x: 21, y: -17}
+        - {x: -8, y: -17}
+      physicsShape:
+      - - {x: 14, y: 13}
+        - {x: 12, y: 15}
+        - {x: 3, y: 16}
+        - {x: -16, y: 16}
+        - {x: -20, y: 12}
+        - {x: -20, y: 1}
+        - {x: -12, y: -11}
+        - {x: 9.999999, y: -14}
+        - {x: 20, y: -14}
+        - {x: 21, y: -12}
+        - {x: 21, y: -6}
+        - {x: 14, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde0c8b17944460a95f8afe2fe7d8f0f
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huiguanzi
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1108
+        width: 26
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -10}
+        - {x: -13, y: 10}
+        - {x: 13, y: 10}
+        - {x: 13, y: -10}
+      physicsShape:
+      - - {x: -9.999999, y: 9.999999}
+        - {x: -13, y: 6}
+        - {x: -13, y: -4}
+        - {x: -9.999999, y: -9.999999}
+        - {x: 12, y: -9.999999}
+        - {x: 13, y: -7}
+        - {x: 13, y: 9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9c7c96732d4e74919e1c0fae7f8c40
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_armchairA_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1871
+        width: 110
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: -52}
+        - {x: -55, y: -21}
+        - {x: -55, y: 52}
+        - {x: 25, y: 52}
+        - {x: 55, y: 19}
+        - {x: 55, y: -38}
+        - {x: 43, y: -52}
+      physicsShape:
+      - - {x: 27, y: -43}
+        - {x: 37, y: -37}
+        - {x: 37, y: -29}
+        - {x: 34, y: -23}
+        - {x: 36, y: -5}
+        - {x: 37, y: 9}
+        - {x: 34, y: 14}
+        - {x: 23, y: 13}
+        - {x: 14, y: 9}
+        - {x: 7, y: 23}
+        - {x: 2, y: 47}
+        - {x: -3, y: 52}
+        - {x: -46, y: 52}
+        - {x: -55, y: 40}
+        - {x: -55, y: 31}
+        - {x: -48, y: 18}
+        - {x: -48, y: 3}
+        - {x: -50, y: -14}
+        - {x: -46, y: -18}
+        - {x: -24, y: -28}
+        - {x: -20, y: -39}
+        - {x: -22, y: -47}
+        - {x: -19, y: -49}
+        - {x: -9.999999, y: -49}
+        - {x: -3, y: -35}
+        - {x: 7, y: -32}
+        - {x: 22, y: -29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb68be868164687beafb71317f567ae
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_armchairA_3
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1487
+        width: 106
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -58}
+        - {x: -53, y: -32}
+        - {x: -53, y: 58}
+        - {x: -30, y: 58}
+        - {x: 11, y: 50}
+        - {x: 53, y: -3}
+        - {x: 53, y: -50}
+        - {x: 52, y: -55}
+        - {x: 41, y: -58}
+      physicsShape:
+      - - {x: 36, y: -43}
+        - {x: 39, y: -42}
+        - {x: 39, y: 0}
+        - {x: 36, y: 8}
+        - {x: 14, y: 20}
+        - {x: 7, y: 40}
+        - {x: -18, y: 33}
+        - {x: -39, y: 58}
+        - {x: -53, y: 58}
+        - {x: -53, y: 49}
+        - {x: -41, y: 28}
+        - {x: -40, y: -20}
+        - {x: -37, y: -24}
+        - {x: -28, y: -23}
+        - {x: -11, y: -49}
+        - {x: -7, y: -53}
+        - {x: 0, y: -49}
+        - {x: 3, y: -38}
+        - {x: 27, y: -39}
+        - {x: 30, y: -43}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffae0515a4e54c4ba630e82e1b75776c
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_sofaA_1
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 563
+        width: 184
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77, y: -60.5}
+        - {x: -92, y: -49.5}
+        - {x: -92, y: 51.5}
+        - {x: -55, y: 72.5}
+        - {x: 12, y: 72.5}
+        - {x: 14, y: 67.5}
+        - {x: 50, y: 72.5}
+        - {x: 57, y: 72.5}
+        - {x: 92, y: 30.5}
+        - {x: 92, y: -11.5}
+        - {x: -33, y: -72.5}
+        - {x: -51, y: -72.5}
+        - {x: -66, y: -66.5}
+      physicsShape:
+      - - {x: 8, y: -30.5}
+        - {x: 30, y: -12.5}
+        - {x: 47, y: -5.5}
+        - {x: 53, y: -13.5}
+        - {x: 60, y: -13.5}
+        - {x: 65, y: -4.5}
+        - {x: 60, y: 6.5}
+        - {x: 64, y: 37.5}
+        - {x: 66, y: 40.5}
+        - {x: 66, y: 47.5}
+        - {x: 52, y: 62.5}
+        - {x: 14, y: 68.5}
+        - {x: 11, y: 61.5}
+        - {x: -5, y: 72.5}
+        - {x: -41, y: 72.5}
+        - {x: -57, y: 55.5}
+        - {x: -64, y: 46.5}
+        - {x: -78, y: 17.5}
+        - {x: -87, y: 17.5}
+        - {x: -91.99999, y: 10.5}
+        - {x: -91.99999, y: 4.5}
+        - {x: -81, y: -4.5}
+        - {x: -83, y: -34.5}
+        - {x: -81, y: -45.5}
+        - {x: -65, y: -39.5}
+        - {x: -46, y: -46.5}
+        - {x: -45, y: -58.5}
+        - {x: -44, y: -60.5}
+        - {x: -41, y: -61.5}
+        - {x: -38, y: -61.5}
+        - {x: -36, y: -59.5}
+        - {x: -30, y: -41.5}
+        - {x: -8, y: -31.5}
+      - - {x: -51, y: -0.5}
+        - {x: -52, y: -0.5}
+        - {x: -55, y: -2.5}
+      - - {x: -64, y: 14.5}
+        - {x: -65, y: 13.5}
+        - {x: -62, y: 10.5}
+        - {x: -61, y: 10.5}
+      - - {x: 4, y: 26.5}
+        - {x: 9, y: 28.5}
+        - {x: 1, y: 24.5}
+      - - {x: 3, y: 41.5}
+        - {x: 2, y: 39.5}
+        - {x: 3, y: 39.5}
+      - - {x: 15, y: 46.5}
+        - {x: 14, y: 43.5}
+        - {x: 15, y: 43.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03f0c73c67e47eaa9c57bd6b1fdb56b
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_armchairB_1
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1871
+        width: 107
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: -47}
+        - {x: -53.5, y: -38}
+        - {x: -53.5, y: 40}
+        - {x: -47.5, y: 47}
+        - {x: 13.5, y: 47}
+        - {x: 53.5, y: 37}
+        - {x: 53.5, y: -28}
+        - {x: 35.5, y: -47}
+      physicsShape:
+      - - {x: 45.5, y: -25}
+        - {x: 52.5, y: -14}
+        - {x: 45.5, y: -9}
+        - {x: 46.5, y: 7}
+        - {x: 53.5, y: 19}
+        - {x: 53.5, y: 30}
+        - {x: 47.5, y: 32}
+        - {x: 41.5, y: 30}
+        - {x: 27.5, y: 12}
+        - {x: 13.5, y: 26}
+        - {x: -9.5, y: 47}
+        - {x: -35.5, y: 47}
+        - {x: -43.5, y: 45}
+        - {x: -50.5, y: 40}
+        - {x: -53.5, y: 28}
+        - {x: -53.5, y: 13}
+        - {x: -46.5, y: 7}
+        - {x: -47.5, y: -23}
+        - {x: -42.5, y: -33}
+        - {x: -34.5, y: -31}
+        - {x: -29.5, y: -20}
+        - {x: -9.5, y: -25}
+        - {x: 13.5, y: -30}
+        - {x: 14.5, y: -42}
+        - {x: 20.5, y: -46}
+        - {x: 24.5, y: -46}
+        - {x: 28.5, y: -42}
+        - {x: 26.5, y: -35}
+        - {x: 36.5, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c818289054c458096e529fefa56e85f
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_sofaB_1
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1778
+        width: 180
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: -66}
+        - {x: -90, y: -56}
+        - {x: -90, y: 1}
+        - {x: -89, y: 4}
+        - {x: -90, y: 9}
+        - {x: -90, y: 13}
+        - {x: -1, y: 66}
+        - {x: 58, y: 66}
+        - {x: 86, y: 58}
+        - {x: 90, y: 47}
+        - {x: 90, y: -12}
+        - {x: 22, y: -66}
+      physicsShape:
+      - - {x: 46, y: -2}
+        - {x: 51, y: -9}
+        - {x: 59, y: -9}
+        - {x: 63, y: -2}
+        - {x: 60, y: 3}
+        - {x: 64, y: 29}
+        - {x: 72, y: 39}
+        - {x: 72, y: 49}
+        - {x: 54, y: 65}
+        - {x: 50, y: 66}
+        - {x: 23, y: 66}
+        - {x: -18, y: 23}
+        - {x: -18, y: 21}
+        - {x: -60, y: 3}
+        - {x: -72, y: 11}
+        - {x: -77, y: 13}
+        - {x: -83, y: 14}
+        - {x: -87, y: 8}
+        - {x: -87, y: 4}
+        - {x: -85, y: 2}
+        - {x: -84, y: -36}
+        - {x: -79.99999, y: -38}
+        - {x: -72.99999, y: -39}
+        - {x: -66.99999, y: -32}
+        - {x: -48, y: -44}
+        - {x: -45, y: -57}
+        - {x: -38, y: -57}
+        - {x: -29, y: -36}
+        - {x: 9, y: -24}
+        - {x: 26, y: -9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7536c68e209466dad5413423bbd859a
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_chairB_1
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 396
+        width: 70
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -43.5}
+        - {x: -35, y: -34.5}
+        - {x: -35, y: 43.5}
+        - {x: -16, y: 43.5}
+        - {x: 28, y: 23.5}
+        - {x: 35, y: 14.5}
+        - {x: 35, y: 8.5}
+        - {x: 35, y: 5.5}
+        - {x: 35, y: -27.5}
+        - {x: 22, y: -43.5}
+      physicsShape:
+      - - {x: 22, y: -32.5}
+        - {x: 24, y: -29.5}
+        - {x: 26, y: -23.5}
+        - {x: 26, y: 2.5}
+        - {x: 21, y: 12.5}
+        - {x: 0, y: 19.5}
+        - {x: 3, y: 31.5}
+        - {x: -17, y: 43.5}
+        - {x: -35, y: 43.5}
+        - {x: -35, y: 32.5}
+        - {x: -31, y: 15.5}
+        - {x: -34, y: -5.5}
+        - {x: -28, y: -31.5}
+        - {x: -20, y: -32.5}
+        - {x: -19, y: -12.5}
+        - {x: -6, y: -20.5}
+        - {x: -5, y: -39.5}
+        - {x: -2, y: -40.5}
+        - {x: 2, y: -40.5}
+        - {x: 3, y: -39.5}
+        - {x: 9, y: -13.5}
+        - {x: 14, y: -27.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e4ba2444904cd096f4ca02cff20c3d
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_chairA_3
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1308
+        width: 74
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: -54}
+        - {x: -37, y: -51}
+        - {x: -37, y: 1}
+        - {x: -22, y: 54}
+        - {x: 14, y: 54}
+        - {x: 26, y: 42}
+        - {x: 37, y: 15}
+        - {x: 37, y: -40}
+        - {x: 17, y: -54}
+      physicsShape:
+      - - {x: 17, y: -35}
+        - {x: 16, y: 7}
+        - {x: 19, y: 27}
+        - {x: 19, y: 41}
+        - {x: 9.999999, y: 54}
+        - {x: -11, y: 54}
+        - {x: -13, y: 46}
+        - {x: -17, y: 4}
+        - {x: -33, y: -4}
+        - {x: -35, y: -7}
+        - {x: -35, y: -35}
+        - {x: -27, y: -42}
+        - {x: -20, y: -24}
+        - {x: -11, y: -46}
+        - {x: -8, y: -49}
+        - {x: -5, y: -49}
+        - {x: -2, y: -44}
+        - {x: -1, y: -32}
+        - {x: 17, y: -45}
+      - - {x: 9, y: 24}
+        - {x: 9, y: 29}
+        - {x: 8, y: 30}
+        - {x: 8, y: 33}
+        - {x: 9, y: 32}
+        - {x: 8, y: 30}
+        - {x: 8, y: 22}
+        - {x: 7, y: 20}
+        - {x: 8, y: 20}
+      - - {x: -4, y: 34}
+        - {x: -3, y: 35}
+        - {x: -3, y: 38}
+        - {x: -3, y: 33}
+        - {x: -4, y: 32}
+        - {x: -3, y: 25}
+        - {x: -2, y: 26}
+      - - {x: 5, y: 46}
+        - {x: 1, y: 46}
+        - {x: 6, y: 44}
+        - {x: 7, y: 45}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041c0cc8bb51441cb8dbdc8d2e1a3053
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_chairB_2
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1928
+        width: 73
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -42.5}
+        - {x: -36.5, y: -34.5}
+        - {x: -36.5, y: 30.5}
+        - {x: -32.5, y: 42.5}
+        - {x: 16.5, y: 42.5}
+        - {x: 36.5, y: 18.5}
+        - {x: 36.5, y: -35.5}
+        - {x: 30.5, y: -38.5}
+        - {x: 14.5, y: -42.5}
+      physicsShape:
+      - - {x: 26.5, y: -27.5}
+        - {x: 27.5, y: -25.5}
+        - {x: 27.5, y: -1.5}
+        - {x: 24.5, y: 8.5}
+        - {x: 16.5, y: 15.5}
+        - {x: -15.5, y: 42.5}
+        - {x: -29.5, y: 42.5}
+        - {x: -33.5, y: 38.5}
+        - {x: -33.5, y: 24.5}
+        - {x: -30.5, y: 20.5}
+        - {x: -29.5, y: -18.5}
+        - {x: -29.5, y: -30.5}
+        - {x: -19.5, y: -25.5}
+        - {x: -10.5, y: -35.5}
+        - {x: -8.5, y: -37.5}
+        - {x: -1.5, y: -37.5}
+        - {x: 2.5, y: -15.5}
+        - {x: 8.5, y: -9.5}
+        - {x: 18.5, y: -22.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1971e611b85444a83764116be3dba8e
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_sofaA_3
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 396
+        width: 193
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: -81.5}
+        - {x: -96.5, y: -81.5}
+        - {x: -96.5, y: 61.5}
+        - {x: -33.5, y: 81.5}
+        - {x: 50.5, y: 81.5}
+        - {x: 96.5, y: 20.5}
+        - {x: 96.5, y: -31.5}
+      physicsShape:
+      - - {x: 43.5, y: -11.5}
+        - {x: 56.5, y: -17.5}
+        - {x: 60.5, y: -16.5}
+        - {x: 63.5, y: -14.5}
+        - {x: 68.5, y: 20.5}
+        - {x: 68.5, y: 33.5}
+        - {x: 40.5, y: 48.5}
+        - {x: 36.5, y: 67.5}
+        - {x: 31.5, y: 81.5}
+        - {x: 5.5, y: 81.5}
+        - {x: -17.5, y: 63.5}
+        - {x: -25.5, y: 67.5}
+        - {x: -44.5, y: 70.5}
+        - {x: -68.5, y: 40.5}
+        - {x: -88.5, y: 33.5}
+        - {x: -88.5, y: 16.5}
+        - {x: -86.5, y: 10.5}
+        - {x: -83.5, y: -14.5}
+        - {x: -81.5, y: -49.5}
+        - {x: -73.49999, y: -52.5}
+        - {x: -68.5, y: -49.5}
+        - {x: -47.5, y: -53.5}
+        - {x: -50.5, y: -64.5}
+        - {x: -46.5, y: -67.5}
+        - {x: -37.5, y: -67.5}
+        - {x: -32.5, y: -54.5}
+        - {x: -1.5, y: -40.5}
+        - {x: 10.5, y: -36.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dcde8a019c4e79b277bc775fd902c2
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_dinnertable_2
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 396
+        height: 252
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 186, y: -126}
+        - {x: 185, y: -124}
+        - {x: 189, y: -121}
+        - {x: 192, y: -122}
+        - {x: 192, y: -124}
+        - {x: 190, y: -126}
+      - - {x: 174, y: 2}
+        - {x: 185, y: -7}
+        - {x: 185, y: -24}
+        - {x: 198, y: -61}
+        - {x: 198, y: -92}
+        - {x: 171, y: -121}
+        - {x: 155, y: -126}
+        - {x: 101, y: -126}
+        - {x: 69, y: -113}
+        - {x: 5, y: -79}
+        - {x: -87, y: -40}
+        - {x: -114, y: -28}
+        - {x: -187, y: 15}
+        - {x: -198, y: 32}
+        - {x: -198, y: 61}
+        - {x: -197, y: 65}
+        - {x: -182, y: 98}
+        - {x: -153, y: 118}
+        - {x: -128, y: 126}
+        - {x: -78, y: 126}
+        - {x: -23, y: 102}
+        - {x: 147, y: 18}
+      physicsShape:
+      - - {x: 155, y: -88}
+        - {x: 156, y: -79.99999}
+        - {x: 147, y: -71}
+        - {x: 137, y: -74}
+        - {x: 129, y: -62}
+        - {x: 148, y: -61}
+        - {x: 155, y: -58}
+        - {x: 171, y: -46}
+        - {x: 182, y: -33}
+        - {x: 184, y: -20}
+        - {x: 184, y: -8}
+        - {x: 175, y: 0}
+        - {x: 74, y: 50}
+        - {x: 9, y: 82}
+        - {x: -77, y: 124}
+        - {x: -84, y: 126}
+        - {x: -122, y: 126}
+        - {x: -138, y: 123}
+        - {x: -170, y: 106}
+        - {x: -181, y: 94}
+        - {x: -181, y: 68}
+        - {x: -170, y: 56}
+        - {x: -149, y: 50}
+        - {x: -163, y: 50}
+        - {x: -171, y: 43}
+        - {x: -173, y: 32}
+        - {x: -152, y: 27}
+        - {x: -141, y: 16}
+        - {x: -122, y: 15}
+        - {x: -114, y: 28}
+        - {x: -82, y: 17}
+        - {x: -68, y: 6}
+        - {x: -46, y: -7}
+        - {x: 5, y: -27}
+        - {x: 22, y: -39}
+        - {x: 44, y: -49}
+        - {x: 70, y: -61}
+        - {x: 87, y: -68}
+        - {x: 76, y: -79}
+        - {x: 76, y: -89}
+        - {x: 78, y: -91}
+        - {x: 100, y: -94}
+        - {x: 104, y: -101}
+        - {x: 106, y: -106}
+        - {x: 124, y: -106}
+        - {x: 136, y: -94}
+        - {x: 153, y: -91.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b897962ed9463a94222026796ed290
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_lograck_2
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1813
+        width: 54
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -39}
+        - {x: -27, y: -39}
+        - {x: -27, y: 39}
+        - {x: 10, y: 39}
+        - {x: 27, y: 6}
+        - {x: 27, y: -31}
+      physicsShape:
+      - - {x: 25, y: -7}
+        - {x: 23, y: -4}
+        - {x: 6, y: -8}
+        - {x: 8, y: 16}
+        - {x: 9, y: 31}
+        - {x: 6, y: 39}
+        - {x: -15, y: 39}
+        - {x: -27, y: 31}
+        - {x: -27, y: 21}
+        - {x: -25, y: 17}
+        - {x: -25, y: -24}
+        - {x: -19, y: -31}
+        - {x: -6, y: -38}
+        - {x: 8, y: -38}
+        - {x: 22, y: -30}
+        - {x: 24, y: -27}
+        - {x: 25, y: -17}
+      - - {x: -5, y: 2}
+        - {x: -5, y: 9}
+        - {x: -1, y: 12}
+        - {x: -2, y: 5}
+      - - {x: -11, y: 7}
+        - {x: -12, y: 2}
+        - {x: -11, y: 2}
+      - - {x: -5, y: 28}
+        - {x: -2, y: 28}
+        - {x: 1, y: 25}
+        - {x: -5, y: 21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdafbc9d40a438b9c344629f9f415ef
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_dinnertable_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1625
+        width: 405
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -154.5, y: -13}
+        - {x: -153.5, y: -13}
+        - {x: -158.5, y: -10}
+        - {x: -157.5, y: -11}
+      physicsShape:
+      - - {x: 118.5, y: -77}
+        - {x: 128.5, y: -68}
+        - {x: 141.5, y: -68}
+        - {x: 152.5, y: -66}
+        - {x: 161.5, y: -60}
+        - {x: 164.5, y: -54}
+        - {x: 164.5, y: -53}
+        - {x: 164.5, y: -57}
+        - {x: 162.5, y: -57}
+        - {x: 163.5, y: -70}
+        - {x: 171.5, y: -79.99999}
+        - {x: 175.5, y: -79.99999}
+        - {x: 181.5, y: -76}
+        - {x: 182.5, y: -69}
+        - {x: 177.5, y: -65}
+        - {x: 186.5, y: -41}
+        - {x: 185.5, y: -28}
+        - {x: 189.5, y: -23}
+        - {x: 189.5, y: -18}
+        - {x: 185.5, y: -13}
+        - {x: -79.49999, y: 119}
+        - {x: -83.5, y: 121}
+        - {x: -94.5, y: 121}
+        - {x: -102.5, y: 119}
+        - {x: -132.5, y: 114}
+        - {x: -142.5, y: 110}
+        - {x: -152.5, y: 105}
+        - {x: -161.5, y: 97}
+        - {x: -170.5, y: 83}
+        - {x: -178.5, y: 78}
+        - {x: -178.5, y: 70}
+        - {x: -174.5, y: 66.99999}
+        - {x: -175.5, y: 50}
+        - {x: -172.5, y: 42}
+        - {x: -166.5, y: 32}
+        - {x: -172.5, y: 23}
+        - {x: -171.5, y: 17}
+        - {x: -166.5, y: 12}
+        - {x: -161.5, y: 11}
+        - {x: -154.5, y: 21}
+        - {x: -152.5, y: 29}
+        - {x: -151.5, y: 44}
+        - {x: -143.5, y: 42}
+        - {x: -106.5, y: 17}
+        - {x: -83.5, y: 3}
+        - {x: -50.5, y: -13}
+        - {x: -36.5, y: -24}
+        - {x: -23.5, y: -26}
+        - {x: 15.5, y: -45}
+        - {x: 30.5, y: -51}
+        - {x: 52.5, y: -58}
+        - {x: 76.5, y: -66}
+        - {x: 75.5, y: -70}
+        - {x: 83.5, y: -75}
+        - {x: 83.5, y: -85}
+        - {x: 90.5, y: -104}
+        - {x: 89.5, y: -113}
+        - {x: 96.5, y: -119}
+        - {x: 99.5, y: -119}
+        - {x: 103.5, y: -114}
+        - {x: 107.5, y: -94}
+        - {x: 110.5, y: -81}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30483d383c44783985ae4457dc3d12b
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuipen
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 661
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -15}
+        - {x: -18, y: 15}
+        - {x: 18, y: 15}
+        - {x: 18, y: -15}
+      physicsShape:
+      - - {x: -16, y: 15}
+        - {x: -18, y: 11}
+        - {x: -18, y: -9.999999}
+        - {x: -9.999999, y: -15}
+        - {x: 16, y: -15}
+        - {x: 18, y: -9}
+        - {x: 18, y: 14}
+        - {x: 11, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358312b101cb4dcfa72eddda9f410b91
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_dinnertable_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1360
+        width: 419
+        height: 261
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -193.5, y: 103.5}
+        - {x: -195.5, y: 106.5}
+        - {x: -191.5, y: 111.5}
+        - {x: -182.5, y: 115.5}
+        - {x: -179.5, y: 115.5}
+        - {x: -179.5, y: 111.5}
+        - {x: -185.5, y: 103.5}
+      - - {x: -204.5, y: 10.5}
+        - {x: -209.5, y: 15.5}
+        - {x: -209.5, y: 31.5}
+        - {x: -195.5, y: 74.5}
+        - {x: -195.5, y: 88.5}
+        - {x: -169.5, y: 110.5}
+        - {x: -156.5, y: 122.5}
+        - {x: -117.5, y: 130.5}
+        - {x: -91.5, y: 130.5}
+        - {x: -42.5, y: 110.5}
+        - {x: 36.5, y: 74.5}
+        - {x: 130.5, y: 26.5}
+        - {x: 187.5, y: 1.5}
+        - {x: 209.5, y: -19.5}
+        - {x: 209.5, y: -76.5}
+        - {x: 159.5, y: -109.5}
+        - {x: 116.5, y: -130.5}
+        - {x: 71.5, y: -130.5}
+        - {x: 45.5, y: -122.5}
+        - {x: -4.5, y: -97.5}
+        - {x: -81.5, y: -51.5}
+        - {x: -171.5, y: -6.5}
+      physicsShape:
+      - - {x: 144.5, y: -79.49999}
+        - {x: 152.5, y: -84.5}
+        - {x: 165.5, y: -84.5}
+        - {x: 173.5, y: -79.49999}
+        - {x: 176.5, y: -46.5}
+        - {x: 189.5, y: -27.5}
+        - {x: 189.5, y: -13.5}
+        - {x: 187.5, y: -6.5}
+        - {x: -92.49999, y: 130.5}
+        - {x: -111.5, y: 130.5}
+        - {x: -180.5, y: 97.5}
+        - {x: -194.5, y: 88.5}
+        - {x: -194.5, y: 75.5}
+        - {x: -184.5, y: 67.5}
+        - {x: -176.5, y: 18.5}
+        - {x: -170.5, y: 8.5}
+        - {x: -143.5, y: 15.5}
+        - {x: -148.5, y: 40.5}
+        - {x: -59.5, y: -4.5}
+        - {x: -49.5, y: -16.5}
+        - {x: -41.5, y: -21.5}
+        - {x: -20.5, y: -21.5}
+        - {x: 84.5, y: -77.5}
+        - {x: 81.5, y: -104.5}
+        - {x: 83.5, y: -114.5}
+        - {x: 109.5, y: -114.5}
+        - {x: 112.5, y: -104.5}
+        - {x: 108.5, y: -77.5}
+        - {x: 146.5, y: -55.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c1dfccfaa049db8ddbb10477a75128
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cup_alone
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 718
+        width: 12
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -8.5}
+        - {x: -6, y: 8.5}
+        - {x: 6, y: 8.5}
+        - {x: 6, y: -8.5}
+      physicsShape:
+      - - {x: -6, y: 8.5}
+        - {x: -6, y: -8.5}
+        - {x: 5, y: -8.5}
+        - {x: 5, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5be8d906d1478fa1616559e48c0660
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_sofaA_2
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1778
+        width: 186
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: -73}
+        - {x: -93, y: -49}
+        - {x: -93, y: 42}
+        - {x: -37, y: 73}
+        - {x: 72, y: 73}
+        - {x: 90, y: 57}
+        - {x: 93, y: 41}
+        - {x: 93, y: -23}
+        - {x: -32, y: -73}
+      physicsShape:
+      - - {x: 13, y: -26}
+        - {x: 31, y: -17}
+        - {x: 47, y: -4}
+        - {x: 53, y: -13}
+        - {x: 64, y: -9}
+        - {x: 64, y: 20}
+        - {x: 60, y: 31}
+        - {x: 70, y: 41}
+        - {x: 71, y: 45}
+        - {x: 71, y: 53}
+        - {x: 59, y: 65}
+        - {x: 50, y: 68}
+        - {x: 41, y: 68}
+        - {x: 36, y: 72.99999}
+        - {x: 24, y: 72.99999}
+        - {x: 16, y: 66.99999}
+        - {x: -13, y: 70}
+        - {x: -35, y: 69}
+        - {x: -50, y: 57}
+        - {x: -61, y: 43}
+        - {x: -72, y: 27}
+        - {x: -83, y: 17}
+        - {x: -90, y: 17}
+        - {x: -93, y: 14}
+        - {x: -93, y: 1}
+        - {x: -82, y: -9}
+        - {x: -79, y: -31}
+        - {x: -74, y: -44}
+        - {x: -68, y: -46}
+        - {x: -63, y: -36}
+        - {x: -55, y: -38}
+        - {x: -48, y: -41}
+        - {x: -46, y: -56}
+        - {x: -41, y: -59}
+        - {x: -36, y: -59}
+        - {x: -28, y: -42}
+        - {x: -9, y: -36}
+        - {x: 0, y: -33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdec27bf28d0432aae5074fec1bfee3f
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_bigcarpet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1053
+        width: 582
+        height: 303
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -134.5}
+        - {x: -77, y: -104.5}
+        - {x: -143, y: -70.5}
+        - {x: -259, y: -14.5}
+        - {x: -272, y: 0.5}
+        - {x: -266, y: 1.5}
+        - {x: -263, y: 1.5}
+        - {x: -265, y: 3.5}
+        - {x: -275, y: 1.5}
+        - {x: -284, y: 14.5}
+        - {x: -280, y: 15.5}
+        - {x: -279, y: 15.5}
+        - {x: -279, y: 16.5}
+        - {x: -280, y: 15.5}
+        - {x: -285, y: 15.5}
+        - {x: -291, y: 19.5}
+        - {x: -291, y: 91.5}
+        - {x: -276, y: 116.5}
+        - {x: -231, y: 149.5}
+        - {x: -225, y: 151.5}
+        - {x: -168, y: 151.5}
+        - {x: -61, y: 142.5}
+        - {x: -32, y: 134.5}
+        - {x: 18, y: 113.5}
+        - {x: 56, y: 110.5}
+        - {x: 74, y: 103.5}
+        - {x: 112, y: 77.5}
+        - {x: 131, y: 56.5}
+        - {x: 185, y: 35.5}
+        - {x: 249, y: -2.5}
+        - {x: 279, y: -27.5}
+        - {x: 289, y: -36.5}
+        - {x: 289, y: -39.5}
+        - {x: 291, y: -39.5}
+        - {x: 291, y: -44.5}
+        - {x: 290, y: -44.5}
+        - {x: 290, y: -44.5}
+        - {x: 290, y: -50.5}
+        - {x: 290, y: -77.5}
+        - {x: 284, y: -91.5}
+        - {x: 256, y: -129.5}
+        - {x: 199, y: -151.5}
+        - {x: 63, y: -151.5}
+      physicsShape:
+      - - {x: 176, y: -139.5}
+        - {x: 193, y: -135.5}
+        - {x: 219, y: -127.5}
+        - {x: 242, y: -116.5}
+        - {x: 262, y: -103.5}
+        - {x: 275, y: -89.5}
+        - {x: 284, y: -74.5}
+        - {x: 285, y: -66.5}
+        - {x: 285, y: -48.5}
+        - {x: 282, y: -40.5}
+        - {x: 276, y: -29.5}
+        - {x: 259, y: -12.5}
+        - {x: 243, y: -2.5}
+        - {x: 235, y: 1.5}
+        - {x: 230, y: 3.5}
+        - {x: 219, y: 11.5}
+        - {x: 209, y: 15.5}
+        - {x: 192, y: 23.5}
+        - {x: 154, y: 42.5}
+        - {x: 111, y: 64.5}
+        - {x: 105, y: 66.5}
+        - {x: 79, y: 80.5}
+        - {x: 39, y: 99.5}
+        - {x: 33, y: 103.5}
+        - {x: 26, y: 106.5}
+        - {x: 18, y: 109.5}
+        - {x: 9, y: 114.5}
+        - {x: -8, y: 122.5}
+        - {x: -19, y: 127.5}
+        - {x: -34, y: 132.5}
+        - {x: -46, y: 135.5}
+        - {x: -63, y: 138.5}
+        - {x: -91, y: 141.5}
+        - {x: -107, y: 142.5}
+        - {x: -116, y: 142.5}
+        - {x: -138, y: 141.5}
+        - {x: -159, y: 139.5}
+        - {x: -181, y: 135.5}
+        - {x: -198, y: 132.5}
+        - {x: -223, y: 122.5}
+        - {x: -235, y: 116.5}
+        - {x: -256, y: 105.5}
+        - {x: -266, y: 96.5}
+        - {x: -277, y: 83.5}
+        - {x: -283, y: 71.5}
+        - {x: -286, y: 61.5}
+        - {x: -286, y: 49.5}
+        - {x: -285, y: 43.5}
+        - {x: -278, y: 27.5}
+        - {x: -276, y: 24.5}
+        - {x: -268, y: 15.5}
+        - {x: -254, y: 4.5}
+        - {x: -228, y: -9.5}
+        - {x: -214, y: -16.5}
+        - {x: -187, y: -29.5}
+        - {x: -176, y: -35.5}
+        - {x: -168, y: -40.5}
+        - {x: -148, y: -48.5}
+        - {x: -145, y: -50.5}
+        - {x: -129, y: -58.5}
+        - {x: -94, y: -76.5}
+        - {x: -79.99999, y: -82.5}
+        - {x: -78, y: -84.5}
+        - {x: -28, y: -108.5}
+        - {x: -25, y: -110.5}
+        - {x: 7, y: -125.5}
+        - {x: 17, y: -129.5}
+        - {x: 28, y: -133.5}
+        - {x: 50, y: -139.5}
+        - {x: 74, y: -143.5}
+        - {x: 85, y: -144.5}
+        - {x: 106, y: -144.5}
+        - {x: 106, y: -145.5}
+        - {x: 125, y: -145.5}
+        - {x: 126, y: -144.5}
+        - {x: 152, y: -144.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686128a50f734288bf76cc6c83c25b96
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guajian
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 256
+        width: 30
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -31}
+        - {x: -15, y: 31}
+        - {x: 15, y: 31}
+        - {x: 15, y: -31}
+      physicsShape:
+      - - {x: 3, y: 29}
+        - {x: -4, y: 29}
+        - {x: -9.999999, y: 15}
+        - {x: -11, y: 5}
+        - {x: -11, y: -21}
+        - {x: -7, y: -27}
+        - {x: 0, y: -29}
+        - {x: 8, y: -29}
+        - {x: 12, y: -25}
+        - {x: 13, y: -9}
+        - {x: 13, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b536d386ec0645d58e95c6816e5a05ea
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongguanzi
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 661
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -9.999999, y: 14}
+        - {x: -12, y: 9.999999}
+        - {x: -12, y: -12}
+        - {x: -8, y: -13}
+        - {x: 12, y: -13}
+        - {x: 12, y: 7}
+        - {x: 9, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd269b987314fa2853f211bebc13725
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_bigcarpet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 734
+        width: 629
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -306.5, y: 29.5}
+        - {x: -314.5, y: 40.5}
+        - {x: -314.5, y: 69.5}
+        - {x: -306.5, y: 75.5}
+        - {x: -267.5, y: 95.5}
+        - {x: -256.5, y: 102.5}
+        - {x: -244.5, y: 106.5}
+        - {x: -207.5, y: 128.5}
+        - {x: -186.5, y: 137.5}
+        - {x: -172.5, y: 136.5}
+        - {x: -136.5, y: 153.5}
+        - {x: -120.5, y: 157.5}
+        - {x: -68.5, y: 157.5}
+        - {x: -58.5, y: 155.5}
+        - {x: -4.5, y: 130.5}
+        - {x: 17.5, y: 119.5}
+        - {x: 148.5, y: 55.5}
+        - {x: 183.5, y: 37.5}
+        - {x: 281.5, y: -12.5}
+        - {x: 299.5, y: -20.5}
+        - {x: 314.5, y: -34.5}
+        - {x: 314.5, y: -62.5}
+        - {x: 305.5, y: -72.5}
+        - {x: 291.5, y: -82.5}
+        - {x: 254.5, y: -103.5}
+        - {x: 242.5, y: -108.5}
+        - {x: 212.5, y: -125.5}
+        - {x: 166.5, y: -145.5}
+        - {x: 138.5, y: -157.5}
+        - {x: 80.5, y: -157.5}
+        - {x: 65.5, y: -154.5}
+        - {x: 29.5, y: -138.5}
+        - {x: -21.5, y: -111.5}
+        - {x: -74.5, y: -85.5}
+        - {x: -99.5, y: -74.5}
+        - {x: -140.5, y: -51.5}
+        - {x: -148.5, y: -51.5}
+        - {x: -202.5, y: -26.5}
+        - {x: -245.5, y: -5.5}
+        - {x: -271.5, y: 8.5}
+        - {x: -294.5, y: 18.5}
+      physicsShape:
+      - - {x: 177.5, y: -132.5}
+        - {x: 182.5, y: -128.5}
+        - {x: 201.5, y: -119.5}
+        - {x: 208.5, y: -116.5}
+        - {x: 221.5, y: -109.5}
+        - {x: 230.5, y: -103.5}
+        - {x: 238.5, y: -101.5}
+        - {x: 296.5, y: -72.5}
+        - {x: 303.5, y: -68.5}
+        - {x: 312.5, y: -58.5}
+        - {x: 314.5, y: -51.5}
+        - {x: 314.5, y: -40.5}
+        - {x: 312.5, y: -34.5}
+        - {x: 305.5, y: -27.5}
+        - {x: 293.5, y: -20.5}
+        - {x: 273.5, y: -10.5}
+        - {x: 248.5, y: 2.5}
+        - {x: 240.5, y: 6.5}
+        - {x: 233.5, y: 9.5}
+        - {x: 218.5, y: 17.5}
+        - {x: 205.5, y: 23.5}
+        - {x: 143.5, y: 54.5}
+        - {x: 128.5, y: 62.5}
+        - {x: 93.5, y: 79.49999}
+        - {x: 79.49999, y: 86.5}
+        - {x: 60.5, y: 95.5}
+        - {x: 54.5, y: 99.5}
+        - {x: 47.5, y: 102.5}
+        - {x: 9.5, y: 121.5}
+        - {x: -15.5, y: 133.5}
+        - {x: -32.5, y: 141.5}
+        - {x: -38.5, y: 145.5}
+        - {x: -44.5, y: 146.5}
+        - {x: -57.5, y: 153.5}
+        - {x: -66.5, y: 155.5}
+        - {x: -73.49999, y: 157.5}
+        - {x: -112.5, y: 157.5}
+        - {x: -126.5, y: 154.5}
+        - {x: -133.5, y: 152.5}
+        - {x: -151.5, y: 144.5}
+        - {x: -164.5, y: 138.5}
+        - {x: -176.5, y: 133.5}
+        - {x: -191.5, y: 124.5}
+        - {x: -193.5, y: 124.5}
+        - {x: -217.5, y: 113.5}
+        - {x: -233.5, y: 104.5}
+        - {x: -250.5, y: 97.5}
+        - {x: -263.5, y: 90.5}
+        - {x: -290.5, y: 76.5}
+        - {x: -301.5, y: 67.5}
+        - {x: -306.5, y: 58.5}
+        - {x: -306.5, y: 43.5}
+        - {x: -301.5, y: 37.5}
+        - {x: -296.5, y: 32.5}
+        - {x: -284.5, y: 25.5}
+        - {x: -264.5, y: 15.5}
+        - {x: -233.5, y: -0.5}
+        - {x: -193.5, y: -20.5}
+        - {x: -146.5, y: -44.5}
+        - {x: -139.5, y: -47.5}
+        - {x: -107.5, y: -63.5}
+        - {x: -97.5, y: -69.5}
+        - {x: -74.5, y: -79.49999}
+        - {x: -14.5, y: -109.5}
+        - {x: 28.5, y: -130.5}
+        - {x: 42.5, y: -137.5}
+        - {x: 64.5, y: -147.5}
+        - {x: 70.5, y: -149.5}
+        - {x: 80.5, y: -151.5}
+        - {x: 88.5, y: -152.5}
+        - {x: 117.5, y: -152.5}
+        - {x: 131.5, y: -150.5}
+        - {x: 141.5, y: -147.5}
+        - {x: 161.5, y: -139.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc821ef42a741d99d0f4c51ba97cbc2
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dinner_table
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1360
+        width: 208
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -67.5}
+        - {x: -87, y: -67.5}
+        - {x: -104, y: -57.5}
+        - {x: -104, y: 31.5}
+        - {x: -99, y: 54.5}
+        - {x: -2, y: 67.5}
+        - {x: 104, y: 67.5}
+        - {x: 104, y: -28.5}
+      physicsShape:
+      - - {x: 30, y: -33.5}
+        - {x: 38, y: -33.5}
+        - {x: 43, y: -3.5}
+        - {x: 87, y: 22.5}
+        - {x: 89, y: 0.5}
+        - {x: 91.99999, y: -0.5}
+        - {x: 95, y: -0.5}
+        - {x: 97.99999, y: 2.5}
+        - {x: 98.99999, y: 12.5}
+        - {x: 104, y: 33.5}
+        - {x: 104, y: 45.5}
+        - {x: 103, y: 50.5}
+        - {x: 85.99999, y: 63.5}
+        - {x: 69, y: 67.5}
+        - {x: 46, y: 67.5}
+        - {x: -74, y: 14.5}
+        - {x: -84, y: 5.5}
+        - {x: -84, y: -23.5}
+        - {x: -78, y: -42.5}
+        - {x: -69, y: -48.5}
+        - {x: -63, y: -29.5}
+        - {x: -51, y: -33.5}
+        - {x: -37, y: -59.5}
+        - {x: -34, y: -63.5}
+        - {x: -31, y: -63.5}
+        - {x: -29, y: -61.5}
+        - {x: -25, y: -32.5}
+        - {x: 25, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e6603780bd40b98cf85d4088fb3c06
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canju_2
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1920
+        width: 63
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: -16}
+        - {x: -31.5, y: -12}
+        - {x: -31.5, y: 12}
+        - {x: -18.5, y: 16}
+        - {x: 4.5, y: 16}
+        - {x: 31.5, y: 3}
+        - {x: 31.5, y: -13}
+        - {x: 28.5, y: -16}
+      physicsShape:
+      - - {x: 17.5, y: 7}
+        - {x: -3.5, y: 16}
+        - {x: -16.5, y: 16}
+        - {x: -31.5, y: 8}
+        - {x: -31.5, y: 2}
+        - {x: -22.5, y: -11}
+        - {x: 10.5, y: -16}
+        - {x: 21.5, y: -16}
+        - {x: 31.5, y: -9}
+        - {x: 31.5, y: -4}
+        - {x: 28.5, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab6c91a8885435d84761f27aca41bef
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_lograck_3M
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 487
+        width: 59
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -41.5}
+        - {x: -29.5, y: -34.5}
+        - {x: -29.5, y: 26.5}
+        - {x: -28.5, y: 33.5}
+        - {x: -21.5, y: 41.5}
+        - {x: 27.5, y: 41.5}
+        - {x: 29.5, y: 40.5}
+        - {x: 29.5, y: -33.5}
+        - {x: 3.5, y: -41.5}
+      physicsShape:
+      - - {x: -25.5, y: 31.5}
+        - {x: -25.5, y: -27.5}
+        - {x: -22.5, y: -29.5}
+        - {x: -13.5, y: -39.5}
+        - {x: 14.5, y: -39.5}
+        - {x: 25.5, y: -34.5}
+        - {x: 25.5, y: 28.5}
+        - {x: 16.5, y: 41.5}
+        - {x: 0.5, y: 41.5}
+        - {x: -0.5, y: 40.5}
+      - - {x: 11.5, y: -5.5}
+        - {x: 14.5, y: -4.5}
+        - {x: 16.5, y: -4.5}
+        - {x: 13.5, y: -5.5}
+        - {x: 12.5, y: -4.5}
+      - - {x: 8.5, y: 17.5}
+        - {x: 12.5, y: 17.5}
+        - {x: 13.5, y: 13.5}
+        - {x: 13.5, y: 14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a531a66fa40f40b3a2f1ab4e35b00bdf
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panzi
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1461
+        width: 32
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -14}
+        - {x: -16, y: 14}
+        - {x: 16, y: 14}
+        - {x: 16, y: -14}
+      physicsShape:
+      - - {x: 8, y: 9.999999}
+        - {x: -16, y: -1}
+        - {x: -16, y: -7}
+        - {x: -9.999999, y: -11}
+        - {x: 6, y: -11}
+        - {x: 13, y: -6}
+        - {x: 13, y: 6}
+        - {x: 12, y: 9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cb1af463b743a0a3125289f028d5be
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guopan
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 256
+        width: 32
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -12}
+        - {x: -16, y: 12}
+        - {x: 16, y: 12}
+        - {x: 16, y: -12}
+      physicsShape:
+      - - {x: 13, y: 12}
+        - {x: -13, y: 12}
+        - {x: -16, y: 9}
+        - {x: -16, y: -12}
+        - {x: 8, y: -12}
+        - {x: 16, y: -6}
+        - {x: 16, y: 0}
+        - {x: 15, y: 9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cf01f4b5314954a9116cf365caa112
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_chairB_3
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1420
+        width: 65
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -48}
+        - {x: -32.5, y: -36}
+        - {x: -32.5, y: 48}
+        - {x: -9.5, y: 48}
+        - {x: 4.5, y: 43}
+        - {x: 20.5, y: 4}
+        - {x: 31.5, y: -14}
+        - {x: 32.5, y: -15}
+        - {x: 32.5, y: -28}
+        - {x: 12.5, y: -48}
+      physicsShape:
+      - - {x: 23.5, y: -16}
+        - {x: 23.5, y: -2}
+        - {x: 18.5, y: 4}
+        - {x: 1.5, y: 12}
+        - {x: 1.5, y: 34}
+        - {x: -11.5, y: 48}
+        - {x: -28.5, y: 48}
+        - {x: -30.5, y: 45}
+        - {x: -30.5, y: 34}
+        - {x: -27.5, y: 21}
+        - {x: -28.5, y: -12}
+        - {x: -28.5, y: -30}
+        - {x: -21.5, y: -34}
+        - {x: -17.5, y: -12}
+        - {x: -4.5, y: -22}
+        - {x: -4.5, y: -41}
+        - {x: -1.5, y: -42}
+        - {x: 2.5, y: -42}
+        - {x: 12.5, y: -19}
+        - {x: 15.5, y: -35}
+        - {x: 21.5, y: -29}
+      - - {x: -7.5, y: 25}
+        - {x: -8.5, y: 27}
+        - {x: -9.5, y: 28}
+        - {x: -8.5, y: 14}
+        - {x: -7.5, y: 15}
+      - - {x: -19.5, y: 27}
+        - {x: -19.5, y: 31}
+        - {x: -19.5, y: 26}
+        - {x: -18.5, y: 26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95e73a1f4d245f8884f522ed1f7f7c7
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiupin_black
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 284
+        width: 10
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -12.5}
+        - {x: -5, y: 12.5}
+        - {x: 5, y: 12.5}
+        - {x: 5, y: -12.5}
+      physicsShape:
+      - - {x: -5, y: -12.5}
+        - {x: 4, y: -12.5}
+        - {x: 4, y: 3.5}
+        - {x: 3, y: 11.5}
+        - {x: 1, y: 12.5}
+        - {x: -5, y: 12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fb6f3c5315441e918383db0ff2e415
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_smallcarpet_1
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1053
+        width: 296
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -76.5}
+        - {x: -148, y: -4.5}
+        - {x: -148, y: 12.5}
+        - {x: -138, y: 20.5}
+        - {x: -19, y: 76.5}
+        - {x: 10, y: 76.5}
+        - {x: 148, y: 7.5}
+        - {x: 148, y: -10.5}
+        - {x: 145, y: -17.5}
+        - {x: 17, y: -76.5}
+      physicsShape:
+      - - {x: 89, y: -35.5}
+        - {x: 91, y: -33.5}
+        - {x: 120, y: -19.5}
+        - {x: 131, y: -13.5}
+        - {x: 139, y: -9.5}
+        - {x: 146, y: -3.5}
+        - {x: 146, y: 3.5}
+        - {x: 140, y: 8.5}
+        - {x: 121, y: 16.5}
+        - {x: 100, y: 27.5}
+        - {x: 62, y: 46.5}
+        - {x: 43, y: 55.5}
+        - {x: 31, y: 62.5}
+        - {x: 16, y: 70.5}
+        - {x: 4, y: 74.5}
+        - {x: -5, y: 75.5}
+        - {x: -9.999999, y: 74.5}
+        - {x: -32, y: 63.5}
+        - {x: -42, y: 59.5}
+        - {x: -50, y: 55.5}
+        - {x: -95, y: 32.5}
+        - {x: -102, y: 30.5}
+        - {x: -117, y: 21.5}
+        - {x: -134, y: 13.5}
+        - {x: -144, y: 6.5}
+        - {x: -144, y: 0.5}
+        - {x: -130, y: -9.5}
+        - {x: -121, y: -12.5}
+        - {x: -75, y: -35.5}
+        - {x: -34, y: -55.5}
+        - {x: -27, y: -59.5}
+        - {x: -14, y: -66.5}
+        - {x: 2, y: -72.5}
+        - {x: 5, y: -73.49999}
+        - {x: 9.999999, y: -73.49999}
+        - {x: 20, y: -70.5}
+        - {x: 76, y: -42.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc11228072334ee19745fd258746c6a5
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_armchairB_3
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1210
+        width: 103
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.5, y: -47}
+        - {x: -51.5, y: -47}
+        - {x: -51.5, y: 47}
+        - {x: 13.5, y: 47}
+        - {x: 24.5, y: 46}
+        - {x: 49.5, y: 23}
+        - {x: 51.5, y: 19}
+        - {x: 51.5, y: -44}
+      physicsShape:
+      - - {x: 46.5, y: -7}
+        - {x: 46.5, y: 22}
+        - {x: 40.5, y: 27}
+        - {x: 26.5, y: 21}
+        - {x: 25.5, y: 33}
+        - {x: 7.5, y: 39}
+        - {x: -13.5, y: 47}
+        - {x: -24.5, y: 47}
+        - {x: -32.5, y: 45}
+        - {x: -34.5, y: 47}
+        - {x: -51.5, y: 47}
+        - {x: -51.5, y: 37}
+        - {x: -44.5, y: 25}
+        - {x: -49.5, y: 17}
+        - {x: -45.5, y: 7}
+        - {x: -47.5, y: -23}
+        - {x: -43.5, y: -34}
+        - {x: -19.5, y: -29}
+        - {x: 7.5, y: -32}
+        - {x: 12.5, y: -41}
+        - {x: 15.5, y: -45}
+        - {x: 19.5, y: -45}
+        - {x: 27.5, y: -41}
+        - {x: 23.5, y: -28}
+        - {x: 39.5, y: -28}
+        - {x: 45.5, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57322f2b8d1f454b90927d033d233b64
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bei
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 313
+        width: 10
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -5.5}
+        - {x: -5, y: 5.5}
+        - {x: 5, y: 5.5}
+        - {x: 5, y: -5.5}
+      physicsShape:
+      - - {x: -5, y: 5.5}
+        - {x: -5, y: -5.5}
+        - {x: 4, y: -5.5}
+        - {x: 4, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69143051b7364c8d950e2f90e95556b9
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1461
+        width: 45
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -110.5}
+        - {x: -22.5, y: -108.5}
+        - {x: -22.5, y: 108.5}
+        - {x: -19.5, y: 110.5}
+        - {x: 0.5, y: 110.5}
+        - {x: 19.5, y: 97.5}
+        - {x: 22.5, y: -23.5}
+        - {x: 22.5, y: -110.5}
+      physicsShape:
+      - - {x: 20.5, y: 102.5}
+        - {x: -5.5, y: 110.5}
+        - {x: -16.5, y: 110.5}
+        - {x: -21.5, y: 104.5}
+        - {x: -22.5, y: 89.5}
+        - {x: -20.5, y: -72.5}
+        - {x: -22.5, y: -81.5}
+        - {x: -22.5, y: -105.5}
+        - {x: -15.5, y: -110.5}
+        - {x: 15.5, y: -110.5}
+        - {x: 22.5, y: -107.5}
+        - {x: 22.5, y: -83.5}
+        - {x: 19.5, y: -70.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c3cf920d104004be9345b6448ed476
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_lograck_1
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1914
+        width: 59
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: -38}
+        - {x: -29.5, y: -36}
+        - {x: -29.5, y: 31}
+        - {x: -18.5, y: 38}
+        - {x: 23.5, y: 38}
+        - {x: 29.5, y: 22}
+        - {x: 29.5, y: -38}
+      physicsShape:
+      - - {x: 21.5, y: -18}
+        - {x: 20.5, y: -8}
+        - {x: 6.5, y: 31}
+        - {x: 6.5, y: 38}
+        - {x: -13.5, y: 38}
+        - {x: -27.5, y: 33}
+        - {x: -27.5, y: -26}
+        - {x: -25.5, y: -29}
+        - {x: -17.5, y: -27}
+        - {x: -11.5, y: -35}
+        - {x: -9.5, y: -36}
+        - {x: -2.5, y: -36}
+        - {x: -1.5, y: -35}
+        - {x: 17.5, y: -25}
+        - {x: 21.5, y: -21}
+      - - {x: -17.5, y: -9.999999}
+        - {x: -16.5, y: -11}
+        - {x: -13.5, y: -11}
+        - {x: -10.5, y: -8}
+      - - {x: -7.5, y: 26}
+        - {x: -9.5, y: 24}
+        - {x: -9.5, y: 19}
+        - {x: -6.5, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf54d42084ce459dbfa07e21638b0789
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_armchairB_2
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1607
+        width: 124
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: -43.5}
+        - {x: -62, y: -19.5}
+        - {x: -62, y: 47.5}
+        - {x: 42, y: 47.5}
+        - {x: 62, y: 29.5}
+        - {x: 62, y: -17.5}
+        - {x: 36, y: -47.5}
+        - {x: -4, y: -47.5}
+      physicsShape:
+      - - {x: 52, y: -6.5}
+        - {x: 62, y: 13.5}
+        - {x: 62, y: 25.5}
+        - {x: 59, y: 27.5}
+        - {x: 50, y: 27.5}
+        - {x: 39, y: 23.5}
+        - {x: 20, y: 18.5}
+        - {x: 6, y: 29.5}
+        - {x: -7, y: 38.5}
+        - {x: -25, y: 47.5}
+        - {x: -47, y: 47.5}
+        - {x: -62, y: 35.5}
+        - {x: -62, y: 21.5}
+        - {x: -60, y: 17.5}
+        - {x: -47, y: 2.5}
+        - {x: -47, y: -8.5}
+        - {x: -40, y: -32.5}
+        - {x: -33, y: -33.5}
+        - {x: -28, y: -20.5}
+        - {x: 15, y: -28.5}
+        - {x: 19, y: -43.5}
+        - {x: 21, y: -45.5}
+        - {x: 26, y: -45.5}
+        - {x: 31, y: -44.5}
+        - {x: 31, y: -27.5}
+        - {x: 47, y: -25.5}
+        - {x: 51, y: -18.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba2f9af008346bc9e93f175896e1a25
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_lograck_1M
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1001
+        width: 59
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: -38}
+        - {x: -29.5, y: -37}
+        - {x: -29.5, y: 34}
+        - {x: -19.5, y: 38}
+        - {x: 18.5, y: 38}
+        - {x: 29.5, y: 22}
+        - {x: 29.5, y: -27}
+        - {x: 15.5, y: -38}
+      physicsShape:
+      - - {x: 19.5, y: -5}
+        - {x: 1.5, y: 3}
+        - {x: 5.5, y: 31}
+        - {x: 5.5, y: 38}
+        - {x: -12.5, y: 38}
+        - {x: -27.5, y: 34}
+        - {x: -27.5, y: 18}
+        - {x: -23.5, y: 16}
+        - {x: -27.5, y: -14}
+        - {x: -27.5, y: -27}
+        - {x: -25.5, y: -29}
+        - {x: -17.5, y: -27}
+        - {x: -11.5, y: -35}
+        - {x: -9.5, y: -36}
+        - {x: -2.5, y: -36}
+        - {x: -1.5, y: -35}
+        - {x: 21.5, y: -23}
+        - {x: 21.5, y: -13}
+      - - {x: -7.5, y: 26}
+        - {x: -9.5, y: 24}
+        - {x: -9.5, y: 19}
+        - {x: -6.5, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800879d5670548fdbd4260e76ffbd09a
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beizi
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1493
+        width: 10
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -7}
+        - {x: -5, y: 7}
+        - {x: 5, y: 7}
+        - {x: 5, y: -7}
+      physicsShape:
+      - - {x: 0, y: 6}
+        - {x: -4, y: 2}
+        - {x: -5, y: -3}
+        - {x: -5, y: -6}
+        - {x: -4, y: -7}
+        - {x: 5, y: -7}
+        - {x: 5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4351a1a56b44d0483f36d109eeb2dc5
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuobu
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1625
+        width: 297
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97.5, y: -74.5}
+        - {x: -148.5, y: 55.5}
+        - {x: -148.5, y: 69.5}
+        - {x: -131.5, y: 74.5}
+        - {x: -106.5, y: 74.5}
+        - {x: 148.5, y: -53.5}
+        - {x: 148.5, y: -70.5}
+        - {x: 137.5, y: -74.5}
+      physicsShape:
+      - - {x: -133.5, y: 74.5}
+        - {x: -148.5, y: 69.5}
+        - {x: -148.5, y: 15.5}
+        - {x: 112.5, y: -74.5}
+        - {x: 148.5, y: -74.5}
+        - {x: 148.5, y: -54.5}
+        - {x: -104.5, y: 74.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef500838886f45c5b3b11bc755da5d97
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_sofaB_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1871
+        width: 177
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.5, y: -67}
+        - {x: -88.5, y: -58}
+        - {x: -88.5, y: -4}
+        - {x: -84.5, y: 2}
+        - {x: 33.5, y: 61}
+        - {x: 59.5, y: 61}
+        - {x: 67.5, y: 67}
+        - {x: 79.5, y: 67}
+        - {x: 88.5, y: 42}
+        - {x: 88.5, y: -5}
+        - {x: 74.5, y: -28}
+        - {x: 15.5, y: -67}
+      physicsShape:
+      - - {x: 70.5, y: -7}
+        - {x: 70.5, y: 43}
+        - {x: 78.5, y: 62}
+        - {x: 78.5, y: 66.99999}
+        - {x: 63.5, y: 66.99999}
+        - {x: 41.5, y: 62}
+        - {x: 28.5, y: 57}
+        - {x: 13.5, y: 36}
+        - {x: -40.5, y: 16}
+        - {x: -57.5, y: 0}
+        - {x: -67.5, y: 6}
+        - {x: -80.5, y: 2}
+        - {x: -80.5, y: -8}
+        - {x: -76.5, y: -42}
+        - {x: -67.5, y: -44}
+        - {x: -62.5, y: -39}
+        - {x: -45.5, y: -56}
+        - {x: -40.5, y: -59}
+        - {x: -33.5, y: -59}
+        - {x: -26.5, y: -45}
+        - {x: 56.5, y: -4}
+        - {x: 61.5, y: -9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb61f725557a4ff692d2d4b561ee07fb
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_fireplace
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 734
+        width: 160
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: -89}
+        - {x: -80, y: -50}
+        - {x: -80, y: 89}
+        - {x: -36, y: 89}
+        - {x: 80, y: 32}
+        - {x: 80, y: -82}
+        - {x: 72, y: -88}
+        - {x: 68, y: -89}
+      physicsShape:
+      - - {x: 77, y: 16}
+        - {x: -66, y: 88}
+        - {x: -71, y: 88}
+        - {x: -79.99999, y: 83}
+        - {x: -79.99999, y: 26}
+        - {x: -72.99999, y: 12}
+        - {x: -77, y: -22}
+        - {x: -70, y: -31}
+        - {x: -33, y: -39}
+        - {x: 20, y: -65}
+        - {x: 38, y: -84}
+        - {x: 45, y: -87}
+        - {x: 57, y: -87}
+        - {x: 69, y: -78}
+        - {x: 66.99999, y: 2}
+        - {x: 77, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d69eab629b44cb9f25f387cbba2f36
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_bigcarpet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 670
+        height: 344
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -320, y: 22}
+        - {x: -335, y: 43}
+        - {x: -335, y: 59}
+        - {x: -312, y: 79}
+        - {x: -262, y: 107}
+        - {x: -220, y: 122}
+        - {x: -206, y: 123}
+        - {x: -160, y: 154}
+        - {x: -136, y: 164}
+        - {x: -115, y: 172}
+        - {x: -92, y: 172}
+        - {x: -26, y: 142}
+        - {x: 38, y: 111}
+        - {x: 41, y: 109}
+        - {x: 33, y: 121}
+        - {x: 35, y: 125}
+        - {x: 54, y: 120}
+        - {x: 96, y: 95}
+        - {x: 98, y: 92}
+        - {x: 97, y: 89}
+        - {x: 89, y: 80}
+        - {x: 124, y: 84}
+        - {x: 135, y: 65}
+        - {x: 155, y: 64}
+        - {x: 176, y: 55}
+        - {x: 186, y: 34}
+        - {x: 218, y: 34}
+        - {x: 231, y: 19}
+        - {x: 275, y: -8}
+        - {x: 315, y: -26}
+        - {x: 335, y: -45}
+        - {x: 335, y: -65}
+        - {x: 330, y: -74}
+        - {x: 238, y: -117}
+        - {x: 192, y: -141}
+        - {x: 144, y: -167}
+        - {x: 130, y: -172}
+        - {x: 87, y: -172}
+        - {x: 70, y: -168}
+        - {x: 53, y: -161}
+        - {x: -19, y: -124}
+        - {x: -74, y: -98}
+        - {x: -115, y: -75}
+        - {x: -177, y: -47}
+        - {x: -219, y: -23}
+        - {x: -224, y: -21}
+        - {x: -260, y: 0}
+      physicsShape:
+      - - {x: 158, y: -144}
+        - {x: 179, y: -134}
+        - {x: 186, y: -128}
+        - {x: 203, y: -121}
+        - {x: 211, y: -120}
+        - {x: 230, y: -112}
+        - {x: 246, y: -97.99999}
+        - {x: 270, y: -90}
+        - {x: 284, y: -81}
+        - {x: 293, y: -72}
+        - {x: 312, y: -65}
+        - {x: 320, y: -61}
+        - {x: 326, y: -57}
+        - {x: 328, y: -51}
+        - {x: 328, y: -47}
+        - {x: 319, y: -39}
+        - {x: 305, y: -33}
+        - {x: 300, y: -31}
+        - {x: 278, y: -17}
+        - {x: 255, y: -7}
+        - {x: 245, y: -4}
+        - {x: 237, y: 4}
+        - {x: 217, y: 14}
+        - {x: 192, y: 23}
+        - {x: 188, y: 27}
+        - {x: 170, y: 37}
+        - {x: 146, y: 45}
+        - {x: 132, y: 56}
+        - {x: 120, y: 62}
+        - {x: 106, y: 68}
+        - {x: 79.99999, y: 77}
+        - {x: 71, y: 84}
+        - {x: 63, y: 90}
+        - {x: 51, y: 95}
+        - {x: 37, y: 100}
+        - {x: 24, y: 110}
+        - {x: 15, y: 115}
+        - {x: -14, y: 125}
+        - {x: -20, y: 130}
+        - {x: -32, y: 137}
+        - {x: -47, y: 145}
+        - {x: -64, y: 149}
+        - {x: -79.99999, y: 159}
+        - {x: -91.99999, y: 164}
+        - {x: -113, y: 164}
+        - {x: -123, y: 160}
+        - {x: -134, y: 153}
+        - {x: -143, y: 147}
+        - {x: -158, y: 144}
+        - {x: -171, y: 138}
+        - {x: -180, y: 133}
+        - {x: -188, y: 126}
+        - {x: -216, y: 119}
+        - {x: -232, y: 110}
+        - {x: -242, y: 100}
+        - {x: -263, y: 93}
+        - {x: -276, y: 85.99999}
+        - {x: -293, y: 72.99999}
+        - {x: -300, y: 71}
+        - {x: -322, y: 61}
+        - {x: -327, y: 54}
+        - {x: -327, y: 48}
+        - {x: -315, y: 36}
+        - {x: -294, y: 29}
+        - {x: -290, y: 24}
+        - {x: -270, y: 12}
+        - {x: -244, y: 4}
+        - {x: -238, y: -3}
+        - {x: -217, y: -15}
+        - {x: -204, y: -19}
+        - {x: -191, y: -24}
+        - {x: -180, y: -31}
+        - {x: -168, y: -36}
+        - {x: -142, y: -47}
+        - {x: -136, y: -52}
+        - {x: -124, y: -61}
+        - {x: -105, y: -69}
+        - {x: -84, y: -75}
+        - {x: -63, y: -89}
+        - {x: -54, y: -93}
+        - {x: -47, y: -96}
+        - {x: -36, y: -100}
+        - {x: -25, y: -109}
+        - {x: -16, y: -114}
+        - {x: 15, y: -125}
+        - {x: 29, y: -136}
+        - {x: 50, y: -145}
+        - {x: 66, y: -151}
+        - {x: 79.99999, y: -160}
+        - {x: 90, y: -163}
+        - {x: 96, y: -164}
+        - {x: 111, y: -164}
+        - {x: 122, y: -161}
+        - {x: 131, y: -156}
+        - {x: 143, y: -147}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3f6575d70c464f88027b9b130b4de7
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xiaoguanzi
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1956
+        width: 34
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -15}
+        - {x: -17, y: 15}
+        - {x: 17, y: 15}
+        - {x: 17, y: -15}
+      physicsShape:
+      - - {x: 11, y: 14}
+        - {x: -9, y: 5}
+        - {x: -17, y: -2}
+        - {x: -17, y: -13}
+        - {x: 2, y: -13}
+        - {x: 9.999999, y: -11}
+        - {x: 15, y: -2}
+        - {x: 15, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6423a579a0470593449bc62a434057
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_lograck_3
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 574
+        width: 59
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -41.5}
+        - {x: -29.5, y: -34.5}
+        - {x: -29.5, y: 26.5}
+        - {x: -28.5, y: 33.5}
+        - {x: -21.5, y: 41.5}
+        - {x: 27.5, y: 41.5}
+        - {x: 29.5, y: 40.5}
+        - {x: 29.5, y: -33.5}
+        - {x: 3.5, y: -41.5}
+      physicsShape:
+      - - {x: 25.5, y: 30.5}
+        - {x: 22.5, y: 41.5}
+        - {x: -6.5, y: 41.5}
+        - {x: -25.5, y: 29.5}
+        - {x: -25.5, y: -24.5}
+        - {x: -22.5, y: -31.5}
+        - {x: -20.5, y: -29.5}
+        - {x: -6.5, y: -39.5}
+        - {x: 0.5, y: -39.5}
+        - {x: 2.5, y: -35.5}
+        - {x: 23.5, y: -28.5}
+        - {x: 25.5, y: -26.5}
+      - - {x: -16.5, y: -10.5}
+        - {x: -16.5, y: -7.5}
+        - {x: -9.5, y: -10.5}
+        - {x: -13.5, y: -13.5}
+      - - {x: 10.5, y: -8.5}
+        - {x: 8.5, y: -6.5}
+        - {x: 14.5, y: -18.5}
+        - {x: 11.5, y: -8.5}
+      - - {x: -13.5, y: 10.5}
+        - {x: -10.5, y: 7.5}
+        - {x: -14.5, y: 5.5}
+        - {x: -13.5, y: 5.5}
+      - - {x: 13.5, y: 9.5}
+        - {x: 6.5, y: 13.5}
+        - {x: 15.5, y: 8.5}
+        - {x: 17.5, y: 8.5}
+        - {x: 16.5, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053be68711364d429b395c3d9aa7511b
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dihu
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 946
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -7, y: 12}
+        - {x: -12, y: 9.999999}
+        - {x: -12, y: -6}
+        - {x: -11, y: -11}
+        - {x: 5, y: -11}
+        - {x: 9.999999, y: -6}
+        - {x: 9.999999, y: 5}
+        - {x: 3, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb61a489d4e4eb482cd0f658cf74721
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_diningcar_3
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1706
+        width: 104
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: -50.5}
+        - {x: -52, y: -44.5}
+        - {x: -52, y: -1.5}
+        - {x: -31, y: 39.5}
+        - {x: -8, y: 51.5}
+        - {x: 14, y: 51.5}
+        - {x: 47, y: 40.5}
+        - {x: 52, y: 20.5}
+        - {x: 52, y: -30.5}
+        - {x: 8, y: -51.5}
+        - {x: -37, y: -51.5}
+      physicsShape:
+      - - {x: 38, y: -14.5}
+        - {x: 26, y: -8.5}
+        - {x: 34, y: 10.5}
+        - {x: 44, y: 15.5}
+        - {x: 46, y: 23.5}
+        - {x: 46, y: 35.5}
+        - {x: 38, y: 37.5}
+        - {x: 15, y: 51.5}
+        - {x: -2, y: 51.5}
+        - {x: -15, y: 39.5}
+        - {x: -30, y: 32.5}
+        - {x: -28, y: 15.5}
+        - {x: -40, y: 15.5}
+        - {x: -42, y: -5.5}
+        - {x: -50, y: -18.5}
+        - {x: -50, y: -33.5}
+        - {x: -37, y: -43.5}
+        - {x: -18, y: -46.5}
+        - {x: -4, y: -46.5}
+        - {x: -1, y: -44.5}
+        - {x: 22, y: -28.5}
+        - {x: 28, y: -33.5}
+        - {x: 38, y: -20.5}
+      - - {x: -3, y: 5.5}
+        - {x: -8, y: 5.5}
+        - {x: -6, y: 5.5}
+        - {x: -5, y: 4.5}
+      - - {x: 4, y: 41.5}
+        - {x: 5, y: 42.5}
+        - {x: 6, y: 41.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccee3bd376fe42a5bb44a47b6a73cfc0
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chufanggui
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 712
+        width: 129
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.5, y: -91.5}
+        - {x: -64.5, y: -91.5}
+        - {x: -64.5, y: 46.5}
+        - {x: -38.5, y: 64.5}
+        - {x: 13.5, y: 91.5}
+        - {x: 36.5, y: 91.5}
+        - {x: 56.5, y: 74.5}
+        - {x: 64.5, y: 19.5}
+      physicsShape:
+      - - {x: 48.5, y: -88.5}
+        - {x: 60.5, y: -79.49999}
+        - {x: 60.5, y: -52.5}
+        - {x: 49.5, y: -37.5}
+        - {x: 52.5, y: -12.5}
+        - {x: 43.5, y: 60.5}
+        - {x: 53.5, y: 69.5}
+        - {x: 48.5, y: 77.5}
+        - {x: 31.5, y: 90.5}
+        - {x: 24.5, y: 90.5}
+        - {x: 19.5, y: 89.5}
+        - {x: -39.5, y: 60.5}
+        - {x: -58.5, y: 50.5}
+        - {x: -54.5, y: 36.5}
+        - {x: -57.5, y: -36.5}
+        - {x: -56.5, y: -39.5}
+        - {x: -56.5, y: -62.5}
+        - {x: -64.5, y: -74.5}
+        - {x: -64.5, y: -86.5}
+        - {x: -60.5, y: -90.5}
+        - {x: -20.5, y: -90.5}
+        - {x: 24.5, y: -78.5}
+        - {x: 28.5, y: -82.5}
+        - {x: 32.5, y: -85.49999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38b9d644d0d444d9c4b1c84957818af
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_smallcarpet_2
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 256
+        width: 261
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.5, y: -68}
+        - {x: -87.5, y: -68}
+        - {x: -117.5, y: -67}
+        - {x: -130.5, y: -40}
+        - {x: -130.5, y: 38}
+        - {x: -95.5, y: 68}
+        - {x: 126.5, y: 68}
+        - {x: 130.5, y: 50}
+        - {x: 130.5, y: -34}
+        - {x: 103.5, y: -40}
+        - {x: 90.5, y: -48}
+        - {x: 88.5, y: -48}
+        - {x: 81.5, y: -52}
+        - {x: 85.5, y: -50}
+        - {x: 88.5, y: -49}
+        - {x: 90.5, y: -48}
+        - {x: 92.5, y: -47}
+        - {x: 95.5, y: -48}
+        - {x: 98.5, y: -52}
+        - {x: 70.5, y: -68}
+      physicsShape:
+      - - {x: 81.5, y: -47}
+        - {x: 103.5, y: -34}
+        - {x: 115.5, y: -21}
+        - {x: 123.5, y: -8}
+        - {x: 123.5, y: 15}
+        - {x: 117.5, y: 26}
+        - {x: 104.5, y: 38}
+        - {x: 90.5, y: 46}
+        - {x: 78.5, y: 52}
+        - {x: 70.5, y: 55}
+        - {x: 56.5, y: 60}
+        - {x: 49.5, y: 61}
+        - {x: 23.5, y: 65}
+        - {x: -3.5, y: 66}
+        - {x: -27.5, y: 66}
+        - {x: -42.5, y: 64}
+        - {x: -59.5, y: 60}
+        - {x: -76.5, y: 54}
+        - {x: -92.49999, y: 47}
+        - {x: -104.5, y: 41}
+        - {x: -120.5, y: 25}
+        - {x: -124.5, y: 13}
+        - {x: -125.5, y: 5}
+        - {x: -125.5, y: -4}
+        - {x: -122.5, y: -12}
+        - {x: -117.5, y: -22}
+        - {x: -109.5, y: -30}
+        - {x: -96.5, y: -39}
+        - {x: -78.5, y: -49}
+        - {x: -51.5, y: -57}
+        - {x: -27.5, y: -61}
+        - {x: 9.5, y: -61}
+        - {x: 26.5, y: -60}
+        - {x: 37.5, y: -59}
+        - {x: 55.5, y: -55}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4de30493a184bd69ae84206fd09fae7
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zuishangceng
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1487
+        width: 34
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -12.5}
+        - {x: -17, y: 12.5}
+        - {x: 17, y: 12.5}
+        - {x: 17, y: -12.5}
+      physicsShape:
+      - - {x: 12, y: 11.5}
+        - {x: -14, y: -0.5}
+        - {x: -16, y: -2.5}
+        - {x: -16, y: -3.5}
+        - {x: -14, y: -12.5}
+        - {x: 3, y: -12.5}
+        - {x: 16, y: -6.5}
+        - {x: 16, y: 8.5}
+        - {x: 14, y: 11.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e294d27f96db41749ee187a6e08d86c1
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_chairA_2
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1813
+        width: 75
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: -50.5}
+        - {x: -37.5, y: -38.5}
+        - {x: -37.5, y: -9.5}
+        - {x: -33.5, y: 6.5}
+        - {x: -9.5, y: 51.5}
+        - {x: 25.5, y: 51.5}
+        - {x: 37.5, y: 17.5}
+        - {x: 37.5, y: -34.5}
+        - {x: 9.5, y: -51.5}
+        - {x: -15.5, y: -51.5}
+      physicsShape:
+      - - {x: 19.5, y: -32.5}
+        - {x: 21.5, y: -32.5}
+        - {x: 25.5, y: -30.5}
+        - {x: 26.5, y: 15.5}
+        - {x: 28.5, y: 17.5}
+        - {x: 28.5, y: 39.5}
+        - {x: 24.5, y: 51.5}
+        - {x: -2.5, y: 51.5}
+        - {x: -5.5, y: 50.5}
+        - {x: -5.5, y: 22.5}
+        - {x: -29.5, y: 4.5}
+        - {x: -33.5, y: -5.5}
+        - {x: -33.5, y: -33.5}
+        - {x: -25.5, y: -37.5}
+        - {x: -15.5, y: -19.5}
+        - {x: -6.5, y: -44.5}
+        - {x: -4.5, y: -46.5}
+        - {x: -1.5, y: -46.5}
+        - {x: 1.5, y: -43.5}
+        - {x: 4.5, y: -21.5}
+        - {x: 15.5, y: -30.5}
+      - - {x: 8.5, y: 10.5}
+        - {x: 8.5, y: 9.5}
+        - {x: 10.5, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d5f14258ae4c6e95e8430df6adedb4
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xiaohuiguan
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 916
+        width: 24
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -13}
+        - {x: -12, y: 13}
+        - {x: 12, y: 13}
+        - {x: 12, y: -13}
+      physicsShape:
+      - - {x: -9, y: 13}
+        - {x: -12, y: 11}
+        - {x: -12, y: -5}
+        - {x: -9.999999, y: -11}
+        - {x: 7, y: -11}
+        - {x: 11, y: -4}
+        - {x: 11, y: 7}
+        - {x: 4, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17068a98f87b44039c8604cf98137515
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_hearth
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 612
+        height: 382
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: -63}
+        - {x: 61, y: -60}
+        - {x: 63, y: -58}
+        - {x: 66, y: -59}
+        - {x: 66, y: -62}
+      - - {x: 196, y: 6}
+        - {x: 165, y: 6}
+        - {x: 165, y: 12}
+        - {x: 216, y: 34}
+        - {x: 226, y: 34}
+        - {x: 227, y: 32}
+        - {x: 227, y: 25}
+      - - {x: -303, y: -191}
+        - {x: -306, y: -186}
+        - {x: -306, y: -68}
+        - {x: -119, y: 49}
+        - {x: -87, y: 165}
+        - {x: 57, y: 191}
+        - {x: 283, y: 191}
+        - {x: 298, y: 173}
+        - {x: 298, y: 171}
+        - {x: 296, y: 169}
+        - {x: 290, y: 169}
+        - {x: 288, y: 170}
+        - {x: 299, y: 164}
+        - {x: 305, y: 146}
+        - {x: 306, y: 137}
+        - {x: 306, y: 91}
+        - {x: -218, y: -181}
+        - {x: -258, y: -182}
+        - {x: -264, y: -176}
+        - {x: -267, y: -174}
+        - {x: -273, y: -172}
+        - {x: -267, y: -176}
+        - {x: -264, y: -176}
+        - {x: -263, y: -179}
+        - {x: -272, y: -191}
+      - - {x: 2, y: -80}
+        - {x: 0, y: -77}
+        - {x: 9, y: -72}
+        - {x: 12, y: -73}
+        - {x: 12, y: -75}
+        - {x: 8, y: -79}
+      physicsShape:
+      - - {x: -171, y: -133}
+        - {x: -154, y: -120}
+        - {x: -135, y: -94}
+        - {x: -110, y: -85}
+        - {x: -94, y: -91.99999}
+        - {x: -71, y: -82}
+        - {x: 32, y: -30}
+        - {x: 34, y: -30}
+        - {x: 42, y: -26}
+        - {x: 119, y: 12}
+        - {x: 128, y: 17}
+        - {x: 138, y: 28}
+        - {x: 172, y: 58}
+        - {x: 191, y: 51}
+        - {x: 211, y: 58}
+        - {x: 222, y: 78}
+        - {x: 236, y: 91.99999}
+        - {x: 259, y: 101}
+        - {x: 274, y: 91.99999}
+        - {x: 281, y: 93}
+        - {x: 288, y: 97.99999}
+        - {x: 293, y: 102}
+        - {x: 293, y: 154}
+        - {x: 294, y: 157}
+        - {x: 294, y: 161}
+        - {x: 288, y: 168}
+        - {x: 253, y: 185}
+        - {x: 240, y: 185}
+        - {x: 233, y: 180}
+        - {x: 231, y: 177}
+        - {x: 138, y: 130}
+        - {x: 133, y: 131}
+        - {x: 112, y: 119}
+        - {x: 111, y: 124}
+        - {x: 89, y: 140}
+        - {x: 42, y: 160}
+        - {x: 16, y: 163}
+        - {x: -4, y: 158}
+        - {x: -33, y: 144}
+        - {x: -56, y: 129}
+        - {x: -75, y: 110}
+        - {x: -95, y: 87}
+        - {x: -113, y: 55}
+        - {x: -123, y: 26}
+        - {x: -127, y: 9.999999}
+        - {x: -128, y: 1}
+        - {x: -144, y: 3}
+        - {x: -181, y: -27}
+        - {x: -195, y: -27}
+        - {x: -203, y: -32}
+        - {x: -204, y: -39}
+        - {x: -299, y: -85.99999}
+        - {x: -299, y: -149}
+        - {x: -295, y: -153}
+        - {x: -262, y: -170}
+        - {x: -251, y: -170}
+        - {x: -240, y: -167}
+        - {x: -224, y: -143}
+        - {x: -202, y: -125}
+        - {x: -192, y: -124}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a067575f0842debf745a53caa8c022
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guo
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 256
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: -22}
+        - {x: -24, y: -22}
+        - {x: -24, y: 14}
+        - {x: -20, y: 22}
+        - {x: 21, y: 22}
+        - {x: 24, y: 12}
+        - {x: 24, y: -21}
+      physicsShape:
+      - - {x: 15, y: 22}
+        - {x: 7, y: 22}
+        - {x: -24, y: 4}
+        - {x: -24, y: -12}
+        - {x: -9.999999, y: -20}
+        - {x: 9, y: -20}
+        - {x: 16, y: -17}
+        - {x: 24, y: -8}
+        - {x: 24, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a838598482ef425b807bd6e6ad58d7f7
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diningroom_smallcarpet_3
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1210
+        width: 255
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -118.5, y: -24.5}
+        - {x: -127.5, y: -8.5}
+        - {x: -127.5, y: 34.5}
+        - {x: -94.5, y: 66.5}
+        - {x: 89.5, y: 66.5}
+        - {x: 127.5, y: 34.5}
+        - {x: 127.5, y: -36.5}
+        - {x: 70.5, y: -66.5}
+        - {x: -46.5, y: -66.5}
+        - {x: -105.5, y: -44.5}
+      physicsShape:
+      - - {x: 90.5, y: -45.5}
+        - {x: 103.5, y: -37.5}
+        - {x: 118.5, y: -23.5}
+        - {x: 125.5, y: -10.5}
+        - {x: 125.5, y: 10.5}
+        - {x: 118.5, y: 21.5}
+        - {x: 104.5, y: 34.5}
+        - {x: 86.5, y: 46.5}
+        - {x: 54.5, y: 59.5}
+        - {x: 36.5, y: 63.5}
+        - {x: 30.5, y: 63.5}
+        - {x: 14.5, y: 66.5}
+        - {x: -36.5, y: 66.5}
+        - {x: -53.5, y: 63.5}
+        - {x: -88.5, y: 53.5}
+        - {x: -96.5, y: 49.5}
+        - {x: -98.49999, y: 47.5}
+        - {x: -112.5, y: 36.5}
+        - {x: -120.5, y: 27.5}
+        - {x: -124.5, y: 18.5}
+        - {x: -124.5, y: -2.5}
+        - {x: -117.5, y: -12.5}
+        - {x: -105.5, y: -26.5}
+        - {x: -95.5, y: -31.5}
+        - {x: -84.5, y: -40.5}
+        - {x: -67.5, y: -44.5}
+        - {x: -62.5, y: -48.5}
+        - {x: -51.5, y: -52.5}
+        - {x: -31.5, y: -57.5}
+        - {x: -8.5, y: -59.5}
+        - {x: 32.5, y: -59.5}
+        - {x: 54.5, y: -57.5}
+        - {x: 79.49999, y: -50.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57e5cb09c0b4bd4bfbe2e77f250b4d1
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      diningroom_lograck_1: 21300100
+      diningroom_bigcarpet_2: 21300070
+      diningroom_armchairA_3: 21300040
+      dihu: 21300120
+      diningroom_fireplace_screen: 21300004
+      cup_alone: 21300066
+      Stand: 21300098
+      diningroom_lograck_1M: 21300104
+      hu: 21300000
+      diningroom_diningcar_3: 21300122
+      diningroom_sofaB_1: 21300046
+      diningroom_armchairA_2: 21300016
+      diningroom_chairA_3: 21300050
+      chufanggui: 21300124
+      diningroom_sofaA_1: 21300042
+      zuishangceng: 21300128
+      diningroom_lograck_2: 21300058
+      diningroom_armchairB_2: 21300102
+      beizi: 21300106
+      diningroom_smallcarpet_2: 21300126
+      diningroom_lograck_2M: 21300022
+      jiupin_black: 21300090
+      canju_1: 21300020
+      diningroom_armchairB_3: 21300094
+      guoqie: 21300018
+      shiwu: 21300006
+      guajian: 21300072
+      xiaohuiguan: 21300132
+      diningroom_dinnertable_3: 21300064
+      diningroom_smallcarpet_1: 21300092
+      diningroom_smallcarpet_3: 21300138
+      diningroom_lograck_3M: 21300082
+      guopan: 21300086
+      diningroom_chairB_3: 21300088
+      guo: 21300136
+      diningroom_lograck_3: 21300118
+      hongguanzi: 21300074
+      panzi: 21300084
+      jiuping_green: 21300026
+      diningroom_armchairA_1: 21300038
+      diningroom_chairA_1: 21300010
+      bread: 21300034
+      xiaoguanzi: 21300116
+      ping: 21300030
+      diningroom_sofaA_2: 21300068
+      dinner_table: 21300078
+      diningroom_fireplace: 21300112
+      kitchen_hearth: 21300134
+      hua: 21300008
+      diningroom_chairB_1: 21300048
+      diningroom_dinnertable_1: 21300060
+      zhuobu: 21300108
+      diningroom_armchairB_1: 21300044
+      shuipen: 21300062
+      diningroom_bigcarpet_1: 21300076
+      diningroom_dinnertable_2: 21300056
+      diningroom_bigcarpet_3: 21300114
+      diningroom_sofaB_2: 21300012
+      canju_2: 21300080
+      guizi: 21300014
+      diningroom_chairA_2: 21300130
+      bei: 21300096
+      candle: 21300002
+      diningroom_sofaA_3: 21300054
+      bange: 21300024
+      diningroom_diningcar_2: 21300028
+      huiguanzi: 21300036
+      diningroom_diningcar_1: 21300032
+      diningroom_chairB_2: 21300052
+      diningroom_sofaB_3: 21300110
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

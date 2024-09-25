@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &687078895
+SpriteAtlas:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Setting
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+    - {fileID: 21300002, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+    - {fileID: 21300004, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+    - {fileID: 21300006, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+    - {fileID: 21300008, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+    - {fileID: 21300010, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+    - {fileID: 21300012, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+    - {fileID: 21300014, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+    - {fileID: 21300016, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+    - {fileID: 21300018, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+    - {fileID: 21300020, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+    - {fileID: 21300022, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+    - {fileID: 21300024, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+    - {fileID: 21300026, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+    - {fileID: 21300028, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+    - {fileID: 21300030, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+    - {fileID: 21300032, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+    - {fileID: 21300034, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+    - {fileID: 21300036, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+    - {fileID: 21300038, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+    - {fileID: 21300040, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+    - {fileID: 21300042, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+    - {fileID: 21300044, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+    - {fileID: 21300046, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+  - {fileID: 21300002, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+  - {fileID: 21300004, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+  - {fileID: 21300006, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+  - {fileID: 21300008, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+  - {fileID: 21300010, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+  - {fileID: 21300012, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+  - {fileID: 21300014, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+  - {fileID: 21300016, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+  - {fileID: 21300018, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+  - {fileID: 21300020, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+  - {fileID: 21300022, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+  - {fileID: 21300024, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+  - {fileID: 21300026, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+  - {fileID: 21300028, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+  - {fileID: 21300030, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+  - {fileID: 21300032, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+  - {fileID: 21300034, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+  - {fileID: 21300036, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+  - {fileID: 21300038, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+  - {fileID: 21300040, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+  - {fileID: 21300042, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+  - {fileID: 21300044, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+  - {fileID: 21300046, guid: 8245b45e3889dfd44a24db1e936c978d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - panel_rename
+  - icon_user_default
+  - icon_fb
+  - button_music
+  - icon_cat
+  - button_sound_close
+  - panel_name
+  - button_music_close
+  - shezhi_music_close_1
+  - icon_contactus
+  - button_rename
+  - shezhi_music_1
+  - panel_rename_inside
+  - icon_close_noti
+  - icon_language
+  - icon_repur
+  - frame_user
+  - shezhi_sound_1
+  - frame_orange
+  - line
+  - icon_castle
+  - shezhi_sound_close_1
+  - icon_open_noti
+  - button_sound
+  m_Tag: Setting
+  m_IsVariant: 0

@@ -1,0 +1,627 @@
+fileFormatVersion: 2
+guid: 3de63b920864b3d4b9c5db4edf92004e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: booster_lock_bees
+  - first:
+      213: 21300002
+    second: button_blue
+  - first:
+      213: 21300004
+    second: lvsidaixiao
+  - first:
+      213: 21300006
+    second: booster_buy
+  - first:
+      213: 21300008
+    second: booster_lock_bomb
+  - first:
+      213: 21300010
+    second: booster_button
+  - first:
+      213: 21300012
+    second: booster_lock_crown
+  - first:
+      213: 21300014
+    second: booster_selected
+  - first:
+      213: 21300016
+    second: button_yellow
+  - first:
+      213: 21300018
+    second: booster_number
+  - first:
+      213: 21300020
+    second: tishixinxikuag
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: booster_lock_bees
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 146
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: -73}
+        - {x: -73, y: -72}
+        - {x: -73, y: 57}
+        - {x: -69, y: 73}
+        - {x: 48, y: 73}
+        - {x: 73, y: 46}
+        - {x: 73, y: -66}
+        - {x: 57, y: -73}
+      physicsShape:
+      - - {x: 60, y: -39}
+        - {x: 69, y: -19}
+        - {x: 70, y: -8}
+        - {x: 70, y: 11}
+        - {x: 68, y: 18}
+        - {x: 65, y: 29}
+        - {x: 60, y: 39}
+        - {x: 39, y: 60}
+        - {x: 19, y: 69}
+        - {x: 11, y: 70}
+        - {x: -13, y: 70}
+        - {x: -28, y: 66}
+        - {x: -42, y: 58}
+        - {x: -57, y: 42}
+        - {x: -66, y: 24}
+        - {x: -68, y: 18}
+        - {x: -70, y: 9.999999}
+        - {x: -70, y: -14}
+        - {x: -65, y: -30}
+        - {x: -60, y: -39}
+        - {x: -35, y: -64}
+        - {x: -19, y: -69}
+        - {x: -7, y: -70}
+        - {x: 9.999999, y: -70}
+        - {x: 18, y: -68}
+        - {x: 29, y: -65}
+        - {x: 39, y: -60}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34318f27deb04341a7dd50bc8866f731
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_blue
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 154
+        width: 136
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: -68}
+        - {x: -68, y: -37}
+        - {x: -68, y: 44}
+        - {x: -46, y: 68}
+        - {x: 35, y: 68}
+        - {x: 54, y: 64}
+        - {x: 68, y: 33}
+        - {x: 68, y: -39}
+        - {x: 44, y: -68}
+      physicsShape:
+      - - {x: 68, y: 26}
+        - {x: 59, y: 45}
+        - {x: 27, y: 68}
+        - {x: -19, y: 68}
+        - {x: -25, y: 66.99999}
+        - {x: -43, y: 57}
+        - {x: -63, y: 35}
+        - {x: -68, y: 23}
+        - {x: -68, y: -25}
+        - {x: -57, y: -44}
+        - {x: -37, y: -61}
+        - {x: -19, y: -68}
+        - {x: 28, y: -68}
+        - {x: 59, y: -44}
+        - {x: 68, y: -25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: da04d1044d354171afeadb35ee25af97
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvsidaixiao
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 434
+        width: 100
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: -21}
+        - {x: -50, y: -21}
+        - {x: -50, y: 13}
+        - {x: -48, y: 15}
+        - {x: -5, y: 21}
+        - {x: 50, y: 21}
+        - {x: 50, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae41a6590474081a4367c7d27a0843f
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: booster_buy
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 400
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -22}
+        - {x: -22, y: -20}
+        - {x: -22, y: 14}
+        - {x: -21, y: 17}
+        - {x: -14, y: 22}
+        - {x: 15, y: 22}
+        - {x: 22, y: 12}
+        - {x: 22, y: -15}
+        - {x: 17, y: -22}
+      physicsShape:
+      - - {x: -21, y: 9}
+        - {x: -21, y: -9.999999}
+        - {x: -14, y: -18}
+        - {x: 14, y: -18}
+        - {x: 21, y: -15}
+        - {x: 21, y: 14}
+        - {x: 19, y: 22}
+        - {x: -15, y: 22}
+        - {x: -20, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19e437c2e6842cc8c82317ca02ea19e
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: booster_lock_bomb
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 146
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: -73}
+        - {x: -73, y: -72}
+        - {x: -73, y: 57}
+        - {x: -69, y: 73}
+        - {x: 48, y: 73}
+        - {x: 73, y: 46}
+        - {x: 73, y: -66}
+        - {x: 57, y: -73}
+      physicsShape:
+      - - {x: 60, y: -39}
+        - {x: 69, y: -19}
+        - {x: 70, y: -8}
+        - {x: 70, y: 11}
+        - {x: 68, y: 18}
+        - {x: 65, y: 29}
+        - {x: 60, y: 39}
+        - {x: 39, y: 60}
+        - {x: 19, y: 69}
+        - {x: 11, y: 70}
+        - {x: -13, y: 70}
+        - {x: -28, y: 66}
+        - {x: -42, y: 58}
+        - {x: -57, y: 42}
+        - {x: -66, y: 24}
+        - {x: -68, y: 18}
+        - {x: -70, y: 9.999999}
+        - {x: -70, y: -14}
+        - {x: -65, y: -30}
+        - {x: -60, y: -39}
+        - {x: -35, y: -64}
+        - {x: -19, y: -69}
+        - {x: -7, y: -70}
+        - {x: 9.999999, y: -70}
+        - {x: 18, y: -68}
+        - {x: 29, y: -65}
+        - {x: 39, y: -60}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4505b55b302149f4ad59508f1393a044
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: booster_button
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 298
+        width: 93
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: -47}
+        - {x: -46.5, y: -38}
+        - {x: -46.5, y: 38}
+        - {x: -43.5, y: 47}
+        - {x: 46.5, y: 47}
+        - {x: 46.5, y: -46}
+        - {x: 43.5, y: -47}
+      physicsShape:
+      - - {x: 44.5, y: 26}
+        - {x: 26.5, y: 44}
+        - {x: 18.5, y: 47}
+        - {x: -17.5, y: 47}
+        - {x: -22.5, y: 45}
+        - {x: -39.5, y: 30}
+        - {x: -46.5, y: 20}
+        - {x: -46.5, y: -18}
+        - {x: -44.5, y: -24}
+        - {x: -20.5, y: -45}
+        - {x: 17.5, y: -45}
+        - {x: 43.5, y: -25}
+        - {x: 46.5, y: -15}
+        - {x: 46.5, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2592e8cbfd49a2bbd7f64d2a02060e
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: booster_lock_crown
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 146
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: -73}
+        - {x: -73, y: -72}
+        - {x: -73, y: 57}
+        - {x: -69, y: 73}
+        - {x: 48, y: 73}
+        - {x: 73, y: 46}
+        - {x: 73, y: -66}
+        - {x: 57, y: -73}
+      physicsShape:
+      - - {x: 60, y: -39}
+        - {x: 69, y: -19}
+        - {x: 70, y: -8}
+        - {x: 70, y: 11}
+        - {x: 68, y: 18}
+        - {x: 65, y: 29}
+        - {x: 60, y: 39}
+        - {x: 39, y: 60}
+        - {x: 19, y: 69}
+        - {x: 11, y: 70}
+        - {x: -13, y: 70}
+        - {x: -28, y: 66}
+        - {x: -42, y: 58}
+        - {x: -57, y: 42}
+        - {x: -66, y: 24}
+        - {x: -68, y: 18}
+        - {x: -70, y: 9.999999}
+        - {x: -70, y: -14}
+        - {x: -65, y: -30}
+        - {x: -60, y: -39}
+        - {x: -35, y: -64}
+        - {x: -19, y: -69}
+        - {x: -7, y: -70}
+        - {x: 9.999999, y: -70}
+        - {x: 18, y: -68}
+        - {x: 29, y: -65}
+        - {x: 39, y: -60}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5798c7e7a4c84ab9aeff9c88b640283a
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: booster_selected
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 298
+        width: 43
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -20.5}
+        - {x: -21.5, y: -11.5}
+        - {x: -21.5, y: 6.5}
+        - {x: 0.5, y: 20.5}
+        - {x: 21.5, y: 20.5}
+        - {x: 21.5, y: -15.5}
+        - {x: 10.5, y: -20.5}
+      physicsShape:
+      - - {x: -1.5, y: 20.5}
+        - {x: -14.5, y: 13.5}
+        - {x: -21.5, y: 9.5}
+        - {x: -21.5, y: -7.5}
+        - {x: -14.5, y: -19.5}
+        - {x: 2.5, y: -19.5}
+        - {x: 11.5, y: -12.5}
+        - {x: 21.5, y: 6.5}
+        - {x: 21.5, y: 16.5}
+        - {x: 20.5, y: 20.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09052136ab504e9b95706871bbd8cbdb
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_yellow
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 154
+        width: 136
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: -68}
+        - {x: -68, y: -37}
+        - {x: -68, y: 44}
+        - {x: -46, y: 68}
+        - {x: 35, y: 68}
+        - {x: 54, y: 64}
+        - {x: 68, y: 33}
+        - {x: 68, y: -39}
+        - {x: 44, y: -68}
+      physicsShape:
+      - - {x: 45, y: 59}
+        - {x: 33, y: 66.99999}
+        - {x: 28, y: 68}
+        - {x: -29, y: 68}
+        - {x: -58, y: 44}
+        - {x: -68, y: 36}
+        - {x: -68, y: -22}
+        - {x: -66.99999, y: -25}
+        - {x: -57, y: -44}
+        - {x: -37, y: -61}
+        - {x: -19, y: -68}
+        - {x: 28, y: -68}
+        - {x: 59, y: -44}
+        - {x: 68, y: -20}
+        - {x: 68, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4359d8dc31749aeaf994094fd0133fb
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: booster_number
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 298
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -22}
+        - {x: -22, y: -18}
+        - {x: -22, y: 15}
+        - {x: -20, y: 22}
+        - {x: 13, y: 22}
+        - {x: 20, y: 15}
+        - {x: 22, y: 10}
+        - {x: 22, y: -13}
+        - {x: 18, y: -22}
+      physicsShape:
+      - - {x: -21, y: 9}
+        - {x: -21, y: -9.999999}
+        - {x: -14, y: -18}
+        - {x: 14, y: -18}
+        - {x: 21, y: -15}
+        - {x: 21, y: 14}
+        - {x: 19, y: 22}
+        - {x: -15, y: 22}
+        - {x: -20, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e033d218474366a8e23502ed9cac4f
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tishixinxikuag
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 264
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -121, y: -42}
+        - {x: -132, y: -35}
+        - {x: -132, y: 55}
+        - {x: -127, y: 59}
+        - {x: 129, y: 59}
+        - {x: 132, y: 58}
+        - {x: 132, y: -46}
+        - {x: 23, y: -44}
+        - {x: 14, y: -59}
+        - {x: -8, y: -59}
+        - {x: -25, y: -49}
+      physicsShape:
+      - - {x: 128, y: 57}
+        - {x: -130, y: 57}
+        - {x: -130, y: -31}
+        - {x: -117, y: -39}
+        - {x: -14, y: -56}
+        - {x: 31, y: -56}
+        - {x: 128, y: -47}
+        - {x: 130, y: -33}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9231cf06e86461aacc6bde8286f0519
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      booster_lock_bees: 21300000
+      booster_lock_bomb: 21300008
+      tishixinxikuag: 21300020
+      booster_number: 21300018
+      booster_buy: 21300006
+      button_blue: 21300002
+      booster_lock_crown: 21300012
+      booster_button: 21300010
+      lvsidaixiao: 21300004
+      button_yellow: 21300016
+      booster_selected: 21300014
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

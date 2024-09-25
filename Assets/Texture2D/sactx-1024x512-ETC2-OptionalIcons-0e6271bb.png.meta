@@ -1,0 +1,2200 @@
+fileFormatVersion: 2
+guid: b296535e96f01754a887899349dd7a1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: jz_ws_dayigui_2
+  - first:
+      213: 21300002
+    second: jz_ws_dajingzi_1
+  - first:
+      213: 21300004
+    second: jz_ct_yizi_1
+  - first:
+      213: 21300006
+    second: jz_qt_zuozhong_1
+  - first:
+      213: 21300008
+    second: jz_ct_yizi_2
+  - first:
+      213: 21300010
+    second: jz_ws_shuzhuangdeng_1
+  - first:
+      213: 21300012
+    second: jz_ws_maowo_3
+  - first:
+      213: 21300014
+    second: jz_ws_dajingzi_2
+  - first:
+      213: 21300016
+    second: jz_ws_yizi_1
+  - first:
+      213: 21300018
+    second: jz_qt_zuozhong_3
+  - first:
+      213: 21300020
+    second: jz_ws_yizi_3
+  - first:
+      213: 21300022
+    second: jz_ws_zhutai_3
+  - first:
+      213: 21300024
+    second: jz_ws_chuangtougui_3
+  - first:
+      213: 21300026
+    second: jz_ws_dajingzi_3
+  - first:
+      213: 21300028
+    second: jz_ct_muchaijia_1
+  - first:
+      213: 21300030
+    second: jz_ws_zhutai_1
+  - first:
+      213: 21300032
+    second: jz_ws_dayigui_3
+  - first:
+      213: 21300034
+    second: jz_ws_baozhen_1
+  - first:
+      213: 21300036
+    second: jz_ws_shuzhuangdeng_3
+  - first:
+      213: 21300038
+    second: jz_hy_dideng_2
+  - first:
+      213: 21300040
+    second: jz_qt_zuozhong_2
+  - first:
+      213: 21300042
+    second: jz_ws_yijia_3
+  - first:
+      213: 21300044
+    second: jz_ws_dayigui_1
+  - first:
+      213: 21300046
+    second: jz_ct_muchaijia_3
+  - first:
+      213: 21300048
+    second: jz_ws_baozhen_2
+  - first:
+      213: 21300050
+    second: jz_ws_chuangtougui_2
+  - first:
+      213: 21300052
+    second: jz_ct_yizi_3
+  - first:
+      213: 21300054
+    second: jz_ws_chaji_1
+  - first:
+      213: 21300056
+    second: jz_hy_dideng_3
+  - first:
+      213: 21300058
+    second: jz_ty_bideng_1
+  - first:
+      213: 21300060
+    second: jz_qt_guaqi_1
+  - first:
+      213: 21300062
+    second: jz_qt_guaqi_2
+  - first:
+      213: 21300064
+    second: jz_ty_bideng_2
+  - first:
+      213: 21300066
+    second: jz_ty_bideng_3
+  - first:
+      213: 21300068
+    second: jz_ws_baozhen_3
+  - first:
+      213: 21300070
+    second: jz_ws_shuzhuangdeng_2
+  - first:
+      213: 21300072
+    second: jz_ws_yijia_2
+  - first:
+      213: 21300074
+    second: jz_ws_chuangtougui_1
+  - first:
+      213: 21300076
+    second: jz_ws_zhutai_2
+  - first:
+      213: 21300078
+    second: jz_qt_guaqi_3
+  - first:
+      213: 21300080
+    second: jz_hy_dideng_1
+  - first:
+      213: 21300082
+    second: jz_ws_yijia_1
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jz_ws_dayigui_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 373
+        width: 52
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -47.5}
+        - {x: -26, y: -44.5}
+        - {x: -26, y: 38.5}
+        - {x: -11, y: 47.5}
+        - {x: 26, y: 47.5}
+        - {x: 26, y: -33.5}
+        - {x: 2, y: -47.5}
+      physicsShape:
+      - - {x: 23, y: 47.5}
+        - {x: -1, y: 47.5}
+        - {x: -9.999999, y: 46.5}
+        - {x: -26, y: 31.5}
+        - {x: -26, y: -43.5}
+        - {x: -16, y: -47.5}
+        - {x: -4, y: -47.5}
+        - {x: 17, y: -34.5}
+        - {x: 26, y: -34.5}
+        - {x: 26, y: 43.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ceeab31fff54a3095c7bbb4fb812a05
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ws_dajingzi_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 181
+        width: 48
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: -44}
+        - {x: -24, y: -44}
+        - {x: -24, y: 32}
+        - {x: -12, y: 44}
+        - {x: 11, y: 44}
+        - {x: 13, y: 43}
+        - {x: 24, y: 34}
+      physicsShape:
+      - - {x: 7, y: 44}
+        - {x: -11, y: 44}
+        - {x: -21, y: 30}
+        - {x: -23, y: 2}
+        - {x: -24, y: -8}
+        - {x: -24, y: -44}
+        - {x: 24, y: -44}
+        - {x: 24, y: 3}
+        - {x: 22, y: 31}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216123d7a1604a16b29733c5283359c6
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ct_yizi_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 373
+        width: 55
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: -45}
+        - {x: -27.5, y: -42}
+        - {x: -27.5, y: 7}
+        - {x: -18.5, y: 43}
+        - {x: -8.5, y: 45}
+        - {x: 22.5, y: 45}
+        - {x: 27.5, y: 43}
+        - {x: 27.5, y: -29}
+        - {x: 25.5, y: -45}
+      physicsShape:
+      - - {x: 26.5, y: -21}
+        - {x: 22.5, y: 4}
+        - {x: 27.5, y: 21}
+        - {x: 27.5, y: 35}
+        - {x: 18.5, y: 45}
+        - {x: -3.5, y: 45}
+        - {x: -4.5, y: 42}
+        - {x: -5.5, y: 15}
+        - {x: -27.5, y: 0}
+        - {x: -27.5, y: -36}
+        - {x: -24.5, y: -38}
+        - {x: -16.5, y: -32}
+        - {x: -3.5, y: -45}
+        - {x: 2.5, y: -45}
+        - {x: 6.5, y: -23}
+        - {x: 16.5, y: -38}
+        - {x: 22.5, y: -36}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2ae7a170df4a65aea900a1f39ef819
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_qt_zuozhong_1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 338
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -48.5}
+        - {x: -18, y: -48.5}
+        - {x: -18, y: 39.5}
+        - {x: -17, y: 42.5}
+        - {x: -12, y: 48.5}
+        - {x: 7, y: 48.5}
+        - {x: 12, y: 47.5}
+        - {x: 18, y: 40.5}
+        - {x: 18, y: -42.5}
+      physicsShape:
+      - - {x: 4, y: 48.5}
+        - {x: -12, y: 48.5}
+        - {x: -18, y: 33.5}
+        - {x: -18, y: -42.5}
+        - {x: -6, y: -48.5}
+        - {x: 7, y: -48.5}
+        - {x: 18, y: -43.5}
+        - {x: 18, y: 36.5}
+        - {x: 15, y: 41.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a57c5bec7a4750b4570a9b78b934e4
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ct_yizi_2
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 0
+        width: 53
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: -44.5}
+        - {x: -26.5, y: -36.5}
+        - {x: -26.5, y: -2.5}
+        - {x: -24.5, y: 3.5}
+        - {x: -2.5, y: 44.5}
+        - {x: 26.5, y: 44.5}
+        - {x: 26.5, y: -41.5}
+        - {x: 19.5, y: -44.5}
+      physicsShape:
+      - - {x: 20.5, y: 6.5}
+        - {x: 26.5, y: 13.5}
+        - {x: 26.5, y: 37.5}
+        - {x: 20.5, y: 44.5}
+        - {x: 4.5, y: 44.5}
+        - {x: -4.5, y: 34.5}
+        - {x: -3.5, y: 12.5}
+        - {x: -26.5, y: 5.5}
+        - {x: -26.5, y: -35.5}
+        - {x: -4.5, y: -24.5}
+        - {x: -4.5, y: -44.5}
+        - {x: 2.5, y: -44.5}
+        - {x: 9.5, y: -25.5}
+        - {x: 25.5, y: -36.5}
+        - {x: 25.5, y: -26.5}
+      - - {x: 9.5, y: 7.5}
+        - {x: 8.5, y: 6.5}
+        - {x: 9.5, y: 5.5}
+        - {x: 10.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a678a69f1f6141fd8de2dfd0f7bf937e
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ws_shuzhuangdeng_1
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 59
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -29}
+        - {x: -29.5, y: -33}
+        - {x: -29.5, y: 33}
+        - {x: -23.5, y: 38}
+        - {x: 20.5, y: 38}
+        - {x: 29.5, y: 30}
+        - {x: 29.5, y: -29}
+        - {x: 8.5, y: -34}
+        - {x: 4.5, y: -38}
+        - {x: -5.5, y: -38}
+        - {x: -16.5, y: -24}
+      physicsShape:
+      - - {x: 29.5, y: -23}
+        - {x: 29.5, y: 26}
+        - {x: 22.5, y: 37}
+        - {x: 19.5, y: 38}
+        - {x: -16.5, y: 38}
+        - {x: -22.5, y: 37}
+        - {x: -29.5, y: 29}
+        - {x: -29.5, y: -23}
+        - {x: -28.5, y: -26}
+        - {x: -25.5, y: -29}
+        - {x: -19.5, y: -27}
+        - {x: -7.5, y: -11}
+        - {x: -7.5, y: -38}
+        - {x: 6.5, y: -38}
+        - {x: 6.5, y: -7}
+        - {x: 20.5, y: -28}
+        - {x: 24.5, y: -28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497c06a17e164df28aefff5602b7ec39
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ws_maowo_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 85
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: -32.5}
+        - {x: -42.5, y: -20.5}
+        - {x: -42.5, y: 28.5}
+        - {x: -36.5, y: 32.5}
+        - {x: 42.5, y: 32.5}
+        - {x: 42.5, y: -28.5}
+        - {x: 31.5, y: -32.5}
+      physicsShape:
+      - - {x: 41.5, y: 8.5}
+        - {x: 37.5, y: 17.5}
+        - {x: 29.5, y: 25.5}
+        - {x: 18.5, y: 31.5}
+        - {x: -7.5, y: 31.5}
+        - {x: -28.5, y: 24.5}
+        - {x: -38.5, y: 14.5}
+        - {x: -39.5, y: 8.5}
+        - {x: -39.5, y: -14.5}
+        - {x: -33.5, y: -22.5}
+        - {x: -10.5, y: -30.5}
+        - {x: 17.5, y: -30.5}
+        - {x: 36.5, y: -21.5}
+        - {x: 38.5, y: -9.5}
+        - {x: 41.5, y: -0.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0b5bd4538d4189bd0fbbf0553e6278
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ws_dajingzi_2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 80
+        width: 44
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -49}
+        - {x: -22, y: -49}
+        - {x: -22, y: 43}
+        - {x: -13, y: 49}
+        - {x: 22, y: 49}
+      physicsShape:
+      - - {x: 8, y: -23}
+        - {x: 15, y: -20}
+        - {x: 22, y: -1}
+        - {x: 22, y: 24}
+        - {x: 15, y: 46}
+        - {x: 9, y: 49}
+        - {x: -9.999999, y: 49}
+        - {x: -17, y: 35}
+        - {x: -22, y: 22}
+        - {x: -22, y: 4}
+        - {x: -15, y: -19}
+        - {x: -8, y: -24}
+        - {x: -21, y: -37}
+        - {x: -12, y: -40}
+        - {x: -3, y: -34}
+        - {x: -2, y: -46}
+        - {x: 3, y: -46}
+        - {x: 5, y: -45}
+        - {x: 14, y: -39}
+        - {x: 21, y: -37}
+        - {x: 20, y: -33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50bc0c5c4aa4322823f4635ad2ac56d
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ws_yizi_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 194
+        width: 52
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -49}
+        - {x: -26, y: -49}
+        - {x: -26, y: 13}
+        - {x: -8, y: 47}
+        - {x: 1, y: 49}
+        - {x: 16, y: 49}
+        - {x: 26, y: 31}
+        - {x: 26, y: -41}
+      physicsShape:
+      - - {x: 26, y: 23}
+        - {x: 19, y: 41}
+        - {x: 11, y: 49}
+        - {x: 3, y: 49}
+        - {x: -8, y: 42}
+        - {x: -8, y: 17}
+        - {x: -19, y: 17}
+        - {x: -26, y: 9}
+        - {x: -26, y: -36}
+        - {x: -21, y: -39}
+        - {x: -17, y: -35}
+        - {x: -17, y: -19}
+        - {x: -9, y: -27}
+        - {x: 0, y: -49}
+        - {x: 8, y: -49}
+        - {x: 11, y: -32}
+        - {x: 18, y: -44}
+        - {x: 26, y: -41}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2381330783094331b9f23e95261c543c
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_qt_zuozhong_3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 368
+        width: 35
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: -49.5}
+        - {x: -17.5, y: -47.5}
+        - {x: -17.5, y: 42.5}
+        - {x: -14.5, y: 49.5}
+        - {x: 17.5, y: 49.5}
+        - {x: 17.5, y: -48.5}
+        - {x: 13.5, y: -49.5}
+      physicsShape:
+      - - {x: -0.5, y: 49.5}
+        - {x: -11.5, y: 49.5}
+        - {x: -17.5, y: 42.5}
+        - {x: -17.5, y: -49.5}
+        - {x: 11.5, y: -49.5}
+        - {x: 13.5, y: -45.5}
+        - {x: 17.5, y: -43.5}
+        - {x: 17.5, y: 40.5}
+        - {x: 5.5, y: 47.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ffd3aa01bb4d4286274b9722cb0ff4
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ws_yizi_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 59
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -45}
+        - {x: -29.5, y: -43}
+        - {x: -29.5, y: 23}
+        - {x: -13.5, y: 47}
+        - {x: 22.5, y: 47}
+        - {x: 24.5, y: 45}
+        - {x: 29.5, y: 39}
+        - {x: 29.5, y: -30}
+        - {x: 27.5, y: -39}
+        - {x: 11.5, y: -47}
+        - {x: -9.5, y: -47}
+      physicsShape:
+      - - {x: 22.5, y: 47}
+        - {x: -1.5, y: 47}
+        - {x: -15.5, y: 36}
+        - {x: -14.5, y: 22}
+        - {x: -10.5, y: 7}
+        - {x: -29.5, y: -5}
+        - {x: -29.5, y: -20}
+        - {x: -25.5, y: -36}
+        - {x: -22.5, y: -37}
+        - {x: -18.5, y: -37}
+        - {x: -14.5, y: -33}
+        - {x: -0.5, y: -47}
+        - {x: 7.5, y: -47}
+        - {x: 25.5, y: -40}
+        - {x: 29.5, y: -24}
+        - {x: 29.5, y: 39}
+      tessellationDetail: 0
+      bones: []
+      spriteID: da41c48b5664499eb8de9ccd87bfc6d1
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ws_zhutai_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 368
+        width: 41
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: -42.5}
+        - {x: -20.5, y: -42.5}
+        - {x: -20.5, y: 42.5}
+        - {x: 10.5, y: 42.5}
+        - {x: 20.5, y: 41.5}
+      physicsShape:
+      - - {x: 20.5, y: -6.5}
+        - {x: 20.5, y: 30.5}
+        - {x: 16.5, y: 29.5}
+        - {x: 10.5, y: 27.5}
+        - {x: 8.5, y: 14.5}
+        - {x: 9.5, y: 14.5}
+        - {x: 9.5, y: 11.5}
+        - {x: 9.5, y: 13.5}
+        - {x: 5.5, y: 18.5}
+        - {x: 1.5, y: 25.5}
+        - {x: -9.5, y: 42.5}
+        - {x: -17.5, y: 42.5}
+        - {x: -20.5, y: 36.5}
+        - {x: -20.5, y: 18.5}
+        - {x: -15.5, y: 11.5}
+        - {x: -7.5, y: -18.5}
+        - {x: -16.5, y: -28.5}
+        - {x: -18.5, y: -39.5}
+        - {x: -15.5, y: -42.5}
+        - {x: 12.5, y: -42.5}
+        - {x: 18.5, y: -37.5}
+        - {x: 16.5, y: -28.5}
+        - {x: 5.5, y: -13.5}
+      - - {x: -0.5, y: 9.5}
+        - {x: -0.5, y: 11.5}
+        - {x: -1.5, y: 10.5}
+        - {x: 0.5, y: 6.5}
+        - {x: 1.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4163eac7ef8442a5b391b9a1e6e1ca35
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ws_chuangtougui_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 296
+        width: 69
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: -20.5}
+        - {x: -34.5, y: -19.5}
+        - {x: -34.5, y: 25.5}
+        - {x: -20.5, y: 36.5}
+        - {x: 2.5, y: 36.5}
+        - {x: 34.5, y: 24.5}
+        - {x: 34.5, y: -27.5}
+        - {x: 26.5, y: -36.5}
+        - {x: -0.5, y: -36.5}
+        - {x: -25.5, y: -16.5}
+      physicsShape:
+      - - {x: 34.5, y: -27.5}
+        - {x: 34.5, y: 17.5}
+        - {x: -2.5, y: 36.5}
+        - {x: -14.5, y: 36.5}
+        - {x: -34.5, y: 26.5}
+        - {x: -34.5, y: -18.5}
+        - {x: -33.5, y: -20.5}
+        - {x: -23.5, y: -15.5}
+        - {x: -23.5, y: -0.5}
+        - {x: -10.5, y: -6.5}
+        - {x: 1.5, y: -36.5}
+        - {x: 11.5, y: -36.5}
+        - {x: 11.5, y: -35.5}
+        - {x: 23.5, y: -18.5}
+        - {x: 33.5, y: -31.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920e06a864a840b982000eaec0150999
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ws_dajingzi_3
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 273
+        width: 46
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: -45.5}
+        - {x: -23, y: -45.5}
+        - {x: -23, y: 45.5}
+        - {x: 14, y: 45.5}
+        - {x: 23, y: 37.5}
+      physicsShape:
+      - - {x: 23, y: -45.5}
+        - {x: 23, y: 12.5}
+        - {x: 19, y: 14.5}
+        - {x: 22, y: 34.5}
+        - {x: 8, y: 45.5}
+        - {x: -8, y: 45.5}
+        - {x: -9.999999, y: 44.5}
+        - {x: -20, y: 34.5}
+        - {x: -23, y: 21.5}
+        - {x: -23, y: -45.5}
+        - {x: -17, y: -45.5}
+        - {x: -9, y: -31.5}
+        - {x: 15, y: -32.5}
+        - {x: 17, y: -45.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc1d3113fce4c6abdbf34baa4f7a807
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ct_muchaijia_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 69
+        width: 57
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -44}
+        - {x: -28.5, y: -39}
+        - {x: -28.5, y: 40}
+        - {x: -15.5, y: 47}
+        - {x: 28.5, y: 47}
+        - {x: 28.5, y: -47}
+        - {x: -19.5, y: -47}
+      physicsShape:
+      - - {x: 3.5, y: 0}
+        - {x: 7.5, y: 33}
+        - {x: 11.5, y: 45}
+        - {x: 8.5, y: 47}
+        - {x: -3.5, y: 47}
+        - {x: -24.5, y: 35}
+        - {x: -28.5, y: 31}
+        - {x: -28.5, y: 20}
+        - {x: -25.5, y: 18}
+        - {x: -28.5, y: -9}
+        - {x: -28.5, y: -37}
+        - {x: -27.5, y: -39}
+        - {x: -19.5, y: -37}
+        - {x: -7.5, y: -47}
+        - {x: 3.5, y: -47}
+        - {x: 5.5, y: -44}
+        - {x: 28.5, y: -33}
+        - {x: 28.5, y: -13}
+      - - {x: -12.5, y: -17}
+        - {x: -5.5, y: -9.999999}
+        - {x: -5.5, y: -15}
+        - {x: -10.5, y: -20}
+      - - {x: -12.5, y: 24}
+        - {x: -13.5, y: 26}
+        - {x: -13.5, y: 2}
+        - {x: -12.5, y: 2}
+      - - {x: -6.5, y: 22}
+        - {x: -5.5, y: 23}
+        - {x: -5.5, y: 31}
+        - {x: -6.5, y: 31}
+        - {x: -5.5, y: 3}
+        - {x: -6.5, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba006fcd482e4f279c4e99c1b44df40a
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ws_zhutai_1
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 287
+        width: 48
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 38.5}
+        - {x: 11, y: 21.5}
+        - {x: 11, y: 22.5}
+        - {x: 13, y: 26.5}
+        - {x: 24, y: 30.5}
+        - {x: 24, y: -27.5}
+        - {x: 14, y: -38.5}
+        - {x: -10, y: -38.5}
+        - {x: -16, y: -31.5}
+        - {x: -24, y: -6.5}
+        - {x: -24, y: 35.5}
+        - {x: -20, y: 38.5}
+      physicsShape:
+      - - {x: 24, y: -4.5}
+        - {x: 24, y: 7.5}
+        - {x: 23, y: 9.5}
+        - {x: 20, y: 21.5}
+        - {x: 14, y: 27.5}
+        - {x: 9, y: 17.5}
+        - {x: 9, y: 20.5}
+        - {x: 8, y: 28.5}
+        - {x: 3, y: 38.5}
+        - {x: -3, y: 38.5}
+        - {x: -9, y: 25.5}
+        - {x: -13, y: 38.5}
+        - {x: -20, y: 38.5}
+        - {x: -23, y: 31.5}
+        - {x: -24, y: 22.5}
+        - {x: -24, y: 11.5}
+        - {x: -16, y: 2.5}
+        - {x: -8, y: 1.5}
+        - {x: -7, y: -18.5}
+        - {x: -13, y: -25.5}
+        - {x: -14, y: -33.5}
+        - {x: -8, y: -38.5}
+        - {x: 11, y: -38.5}
+        - {x: 15, y: -27.5}
+        - {x: 4, y: -11.5}
+        - {x: 16, y: -10.5}
+      - - {x: -9.999999, y: 8.5}
+        - {x: -7, y: 11.5}
+        - {x: -7, y: 12.5}
+        - {x: -11, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6c0335a94d41c9a46b96c6892c31f3
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ws_dayigui_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 59
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: -48}
+        - {x: -29.5, y: -47}
+        - {x: -29.5, y: 36}
+        - {x: 1.5, y: 48}
+        - {x: 23.5, y: 48}
+        - {x: 29.5, y: 43}
+        - {x: 29.5, y: -33}
+        - {x: 28.5, y: -34}
+        - {x: -2.5, y: -48}
+      physicsShape:
+      - - {x: 29.5, y: -7}
+        - {x: 27.5, y: 9.999999}
+        - {x: 29.5, y: 25}
+        - {x: 29.5, y: 43}
+        - {x: 22.5, y: 48}
+        - {x: 5.5, y: 48}
+        - {x: -11.5, y: 39}
+        - {x: -29.5, y: 33}
+        - {x: -29.5, y: 14}
+        - {x: -27.5, y: 9.999999}
+        - {x: -29.5, y: -20}
+        - {x: -29.5, y: -44}
+        - {x: -22.5, y: -48}
+        - {x: -4.5, y: -48}
+        - {x: 8.5, y: -39}
+        - {x: 28.5, y: -35}
+        - {x: 29.5, y: -25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4336c279ee2c41fe85e7a63ab1090121
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ws_baozhen_1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 69
+        width: 97
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -24.5}
+        - {x: -48.5, y: -15.5}
+        - {x: -48.5, y: 2.5}
+        - {x: -39.5, y: 16.5}
+        - {x: -38.5, y: 20.5}
+        - {x: -35.5, y: 24.5}
+        - {x: 29.5, y: 24.5}
+        - {x: 48.5, y: 2.5}
+        - {x: 48.5, y: -8.5}
+        - {x: 14.5, y: -24.5}
+      physicsShape:
+      - - {x: 47.5, y: -6.5}
+        - {x: 48.5, y: -5.5}
+        - {x: 48.5, y: 0.5}
+        - {x: 31.5, y: 14.5}
+        - {x: 28.5, y: 24.5}
+        - {x: -33.5, y: 24.5}
+        - {x: -40.5, y: 18.5}
+        - {x: -48.5, y: -1.5}
+        - {x: -48.5, y: -10.5}
+        - {x: -44.5, y: -12.5}
+        - {x: -32.5, y: -8.5}
+        - {x: -14.5, y: -15.5}
+        - {x: -1.5, y: -19.5}
+        - {x: -1.5, y: -24.5}
+        - {x: 10.5, y: -24.5}
+        - {x: 9.5, y: -18.5}
+        - {x: 40.5, y: -5.5}
+        - {x: 45.5, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33d61f4792349efbf6c0cc68910522a
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ws_shuzhuangdeng_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 427
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: -35}
+        - {x: -35, y: -35}
+        - {x: -35, y: 27}
+        - {x: -21, y: 35}
+        - {x: 23, y: 35}
+        - {x: 35, y: 23}
+        - {x: 35, y: -31}
+      physicsShape:
+      - - {x: 35, y: -24}
+        - {x: 35, y: -21}
+        - {x: 34, y: -8}
+        - {x: 35, y: -5}
+        - {x: 35, y: 16}
+        - {x: 32, y: 22}
+        - {x: 18, y: 35}
+        - {x: -21, y: 35}
+        - {x: -35, y: 21}
+        - {x: -35, y: -5}
+        - {x: -32, y: -13}
+        - {x: -35, y: -24}
+        - {x: -29, y: -28}
+        - {x: -26, y: -28}
+        - {x: -20, y: -23}
+        - {x: -12, y: -8}
+        - {x: -3, y: -35}
+        - {x: 5, y: -35}
+        - {x: 5, y: -9.999999}
+        - {x: 16, y: -13}
+        - {x: 23, y: -31}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc1f26f1ca44845befa4b473ee183b2
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_hy_dideng_2
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 0
+        width: 37
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -48.5}
+        - {x: -18.5, y: -46.5}
+        - {x: -18.5, y: -26.5}
+        - {x: -13.5, y: 25.5}
+        - {x: -12.5, y: 35.5}
+        - {x: -3.5, y: 48.5}
+        - {x: 8.5, y: 48.5}
+        - {x: 18.5, y: 30.5}
+        - {x: 18.5, y: -7.5}
+        - {x: 10.5, y: -36.5}
+        - {x: 6.5, y: -47.5}
+        - {x: 4.5, y: -48.5}
+      physicsShape:
+      - - {x: 18.5, y: 2.5}
+        - {x: 18.5, y: 31.5}
+        - {x: 9.5, y: 48.5}
+        - {x: -1.5, y: 48.5}
+        - {x: -4.5, y: 44.5}
+        - {x: -9.5, y: 34.5}
+        - {x: -10.5, y: 20.5}
+        - {x: -9.5, y: 12.5}
+        - {x: -8.5, y: 6.5}
+        - {x: -18.5, y: -28.5}
+        - {x: -18.5, y: -45.5}
+        - {x: -17.5, y: -48.5}
+        - {x: 0.5, y: -48.5}
+        - {x: 4.5, y: -44.5}
+        - {x: 2.5, y: -28.5}
+        - {x: 6.5, y: -16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bbdd8a502d4928a22e2bb39899af7b
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_qt_zuozhong_2
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 338
+        width: 42
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -47}
+        - {x: -21, y: -46}
+        - {x: -21, y: 42}
+        - {x: -18, y: 47}
+        - {x: 21, y: 47}
+        - {x: 21, y: -47}
+      physicsShape:
+      - - {x: 21, y: 27}
+        - {x: 21, y: 40}
+        - {x: 8, y: 47}
+        - {x: -12, y: 47}
+        - {x: -21, y: 36}
+        - {x: -21, y: -43}
+        - {x: -9.999999, y: -47}
+        - {x: 6, y: -47}
+        - {x: 21, y: -39}
+        - {x: 21, y: -6}
+        - {x: 19, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b568b3dea6407b882b8242da7c27d9
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ws_yijia_3
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 0
+        width: 33
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: -46}
+        - {x: -7.5, y: -50}
+        - {x: -16.5, y: -50}
+        - {x: -16.5, y: 50}
+        - {x: 15.5, y: 50}
+        - {x: 16.5, y: 28}
+        - {x: 16.5, y: -50}
+        - {x: 4.5, y: -50}
+        - {x: -0.5, y: -45}
+        - {x: 0.5, y: -41}
+        - {x: -1.5, y: -38}
+        - {x: -4.5, y: -38}
+        - {x: -0.5, y: -40}
+        - {x: -0.5, y: -42}
+      physicsShape:
+      - - {x: 8.5, y: -49}
+        - {x: 14.5, y: -49}
+        - {x: 15.5, y: -47}
+        - {x: 15.5, y: -30}
+        - {x: 8.5, y: -20}
+        - {x: 8.5, y: 7}
+        - {x: 9.5, y: 24}
+        - {x: 14.5, y: 33}
+        - {x: 15.5, y: 41}
+        - {x: 15.5, y: 50}
+        - {x: 3.5, y: 50}
+        - {x: -1.5, y: 49}
+        - {x: -4.5, y: 43}
+        - {x: -8.5, y: 50}
+        - {x: -15.5, y: 50}
+        - {x: -16.5, y: 46}
+        - {x: -16.5, y: 32}
+        - {x: -11.5, y: 24}
+        - {x: -10.5, y: -4}
+        - {x: -6.5, y: -18}
+        - {x: -16.5, y: -28}
+        - {x: -16.5, y: -49}
+        - {x: -9.5, y: -49}
+        - {x: -4.5, y: -42}
+        - {x: -2.5, y: -28}
+        - {x: 3.5, y: -44}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2d923847cf445e927ca339a19455e6
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ws_dayigui_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 98
+        width: 59
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -46}
+        - {x: -29.5, y: -41}
+        - {x: -29.5, y: 41}
+        - {x: -17.5, y: 46}
+        - {x: 29.5, y: 46}
+        - {x: 29.5, y: -32}
+        - {x: 27.5, y: -38}
+        - {x: 2.5, y: -46}
+      physicsShape:
+      - - {x: -5.5, y: 46}
+        - {x: -10.5, y: 45}
+        - {x: -29.5, y: 29}
+        - {x: -29.5, y: -39}
+        - {x: -18.5, y: -46}
+        - {x: -3.5, y: -46}
+        - {x: -0.5, y: -45}
+        - {x: 29.5, y: -31}
+        - {x: 29.5, y: 41}
+        - {x: 19.5, y: 46}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f771c02a424ff89531cc52b26a3cd3
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ct_muchaijia_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 56
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -45.5}
+        - {x: -28, y: -41.5}
+        - {x: -28, y: 41.5}
+        - {x: -21, y: 45.5}
+        - {x: 20, y: 45.5}
+        - {x: 28, y: 38.5}
+        - {x: 28, y: -35.5}
+        - {x: 16, y: -45.5}
+      physicsShape:
+      - - {x: 2, y: 45.5}
+        - {x: 2, y: 44.5}
+        - {x: -1, y: 41.5}
+        - {x: -28, y: 32.5}
+        - {x: -28, y: -35.5}
+        - {x: -22, y: -38.5}
+        - {x: -7, y: -45.5}
+        - {x: 11, y: -45.5}
+        - {x: 28, y: -34.5}
+        - {x: 28, y: 39.5}
+        - {x: 19, y: 45.5}
+      - - {x: -17, y: -10.5}
+        - {x: -12, y: -14.5}
+        - {x: -12, y: -16.5}
+        - {x: -16, y: -19.5}
+      - - {x: 9, y: -10.5}
+        - {x: 9, y: -11.5}
+        - {x: 17, y: -6.5}
+        - {x: 15, y: -12.5}
+        - {x: 16, y: -14.5}
+        - {x: 16, y: -13.5}
+      - - {x: -16, y: 9.5}
+        - {x: -16, y: 4.5}
+        - {x: -18, y: 1.5}
+        - {x: -16, y: 2.5}
+      - - {x: 7, y: 13.5}
+        - {x: 17, y: 9.5}
+        - {x: 18, y: 7.5}
+        - {x: 18, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a439662ad96f498a8cfcabb069374683
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ws_baozhen_2
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 287
+        width: 85
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: -21.5}
+        - {x: -42.5, y: -15.5}
+        - {x: -42.5, y: 19.5}
+        - {x: -24.5, y: 23.5}
+        - {x: 29.5, y: 23.5}
+        - {x: 42.5, y: 13.5}
+        - {x: 42.5, y: -11.5}
+        - {x: 30.5, y: -23.5}
+        - {x: -24.5, y: -23.5}
+      physicsShape:
+      - - {x: 23.5, y: 23.5}
+        - {x: -23.5, y: 23.5}
+        - {x: -42.5, y: 10.5}
+        - {x: -42.5, y: -10.5}
+        - {x: -25.5, y: -21.5}
+        - {x: -16.5, y: -23.5}
+        - {x: 22.5, y: -23.5}
+        - {x: 35.5, y: -16.5}
+        - {x: 42.5, y: -7.5}
+        - {x: 42.5, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f8bfbf8e264a8ab2e7b5dce2b3d3f8
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ws_chuangtougui_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 332
+        width: 67
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: -38}
+        - {x: -33.5, y: -26}
+        - {x: -33.5, y: 28}
+        - {x: -25.5, y: 35}
+        - {x: -15.5, y: 38}
+        - {x: 6.5, y: 38}
+        - {x: 33.5, y: 23}
+        - {x: 33.5, y: -32}
+        - {x: 22.5, y: -38}
+      physicsShape:
+      - - {x: -0.5, y: 38}
+        - {x: -13.5, y: 38}
+        - {x: -33.5, y: 28}
+        - {x: -33.5, y: 5}
+        - {x: -30.5, y: -23}
+        - {x: -24.5, y: -27}
+        - {x: -4.5, y: -33}
+        - {x: -0.5, y: -38}
+        - {x: 19.5, y: -38}
+        - {x: 33.5, y: -31}
+        - {x: 33.5, y: 21}
+        - {x: 19.5, y: 29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8740fcc0f6384048834cea03fc5a4acd
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ct_yizi_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 202
+        width: 49
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: -46.5}
+        - {x: -24.5, y: -46.5}
+        - {x: -24.5, y: 1.5}
+        - {x: -6.5, y: 46.5}
+        - {x: 21.5, y: 46.5}
+        - {x: 24.5, y: 44.5}
+      physicsShape:
+      - - {x: 22.5, y: -39.5}
+        - {x: 22.5, y: -1.5}
+        - {x: 24.5, y: 18.5}
+        - {x: 24.5, y: 34.5}
+        - {x: 16.5, y: 46.5}
+        - {x: -3.5, y: 46.5}
+        - {x: -3.5, y: 43.5}
+        - {x: -4.5, y: 25.5}
+        - {x: -7.5, y: 6.5}
+        - {x: -24.5, y: -6.5}
+        - {x: -24.5, y: -37.5}
+        - {x: -18.5, y: -42.5}
+        - {x: -14.5, y: -23.5}
+        - {x: -7.5, y: -27.5}
+        - {x: -2.5, y: -46.5}
+        - {x: 2.5, y: -46.5}
+        - {x: 3.5, y: -45.5}
+        - {x: 12.5, y: -26.5}
+        - {x: 15.5, y: -42.5}
+      - - {x: 16.5, y: 25.5}
+        - {x: 14.5, y: 25.5}
+        - {x: 11.5, y: 11.5}
+        - {x: 14.5, y: 12.5}
+      - - {x: 5.5, y: 31.5}
+        - {x: 4.5, y: 31.5}
+        - {x: 4.5, y: 27.5}
+        - {x: 3.5, y: 26.5}
+        - {x: 3.5, y: 23.5}
+        - {x: 4.5, y: 23.5}
+      - - {x: 11.5, y: 39.5}
+        - {x: 7.5, y: 39.5}
+        - {x: 13.5, y: 36.5}
+        - {x: 13.5, y: 38.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6587045ff5f542dcb330faf9d77a8227
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ws_chaji_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 78
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -36}
+        - {x: -39, y: 4}
+        - {x: -39, y: 30}
+        - {x: -29, y: 36}
+        - {x: 29, y: 36}
+        - {x: 39, y: 29}
+        - {x: 39, y: 1}
+        - {x: 30, y: -25}
+        - {x: 19, y: -36}
+      physicsShape:
+      - - {x: 39, y: 5}
+        - {x: 39, y: 21}
+        - {x: 29, y: 33}
+        - {x: 15, y: 36}
+        - {x: -15, y: 36}
+        - {x: -26, y: 34}
+        - {x: -37, y: 29}
+        - {x: -39, y: 24}
+        - {x: -39, y: 2}
+        - {x: -23, y: -9.999999}
+        - {x: -18, y: -18}
+        - {x: -20, y: -30}
+        - {x: -14, y: -36}
+        - {x: 15, y: -36}
+        - {x: 21, y: -30}
+        - {x: 14, y: -11}
+        - {x: 27, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453e8506ff1644968d8d3177b1e09c31
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_hy_dideng_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 368
+        width: 42
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -47}
+        - {x: -21, y: -43}
+        - {x: -21, y: 42}
+        - {x: -15, y: 47}
+        - {x: 21, y: 47}
+        - {x: 21, y: -47}
+      physicsShape:
+      - - {x: 21, y: 26}
+        - {x: 21, y: 43}
+        - {x: 14, y: 47}
+        - {x: -13, y: 47}
+        - {x: -21, y: 42}
+        - {x: -21, y: 28}
+        - {x: -15, y: 18}
+        - {x: -18, y: -15}
+        - {x: -18, y: -41}
+        - {x: -14, y: -47}
+        - {x: 15, y: -47}
+        - {x: 20, y: -32}
+        - {x: 18, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907a1963aa69489fb1ff17a16c3895db
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ty_bideng_1
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 93
+        width: 52
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -42}
+        - {x: -26, y: -42}
+        - {x: -26, y: 42}
+        - {x: 16, y: 42}
+        - {x: 26, y: 30}
+        - {x: 26, y: -37}
+      physicsShape:
+      - - {x: 17, y: -34}
+        - {x: 22, y: -31}
+        - {x: 26, y: -28}
+        - {x: 26, y: 26}
+        - {x: 9, y: 42}
+        - {x: -9.999999, y: 42}
+        - {x: -21, y: 29}
+        - {x: -19, y: 14}
+        - {x: -26, y: 9.999999}
+        - {x: -26, y: -33}
+        - {x: -25, y: -42}
+        - {x: -14, y: -42}
+        - {x: -6, y: -41}
+        - {x: -5, y: -42}
+        - {x: 5, y: -42}
+        - {x: 7, y: -22}
+        - {x: 9, y: -32}
+      - - {x: 9.999999, y: -3}
+        - {x: 11, y: -4}
+        - {x: 12, y: -4}
+        - {x: 9.999999, y: -7}
+      - - {x: -7, y: 29}
+        - {x: -9, y: 29}
+        - {x: -9, y: 28}
+        - {x: -8, y: 28}
+        - {x: -4, y: 32}
+        - {x: 4, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f78d4af7ac443980058fb5a3cc076f
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_qt_guaqi_1
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 182
+        width: 42
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -50}
+        - {x: -21, y: -12}
+        - {x: -21, y: 50}
+        - {x: -5, y: 50}
+        - {x: 21, y: 36}
+        - {x: 21, y: 6}
+        - {x: 13, y: -50}
+      physicsShape:
+      - - {x: -21, y: 50}
+        - {x: -21, y: 21}
+        - {x: -13, y: -50}
+        - {x: 12, y: -50}
+        - {x: 21, y: 0}
+        - {x: 21, y: 36}
+        - {x: -5, y: 50}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04eb954ec74d470a86c22de5310513d5
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_qt_guaqi_2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 184
+        width: 41
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 39.5}
+        - {x: -20.5, y: 42.5}
+        - {x: -20.5, y: 49.5}
+        - {x: -5.5, y: 49.5}
+        - {x: 20.5, y: 35.5}
+        - {x: 20.5, y: 7.5}
+        - {x: 13.5, y: -49.5}
+        - {x: -13.5, y: -49.5}
+      physicsShape:
+      - - {x: -5.5, y: 49.5}
+        - {x: -20.5, y: 49.5}
+        - {x: -20.5, y: -45.5}
+        - {x: -14.5, y: -49.5}
+        - {x: 20.5, y: -49.5}
+        - {x: 20.5, y: 33.5}
+        - {x: -4.5, y: 48.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320d6d15982e4ac7be012bdb551c36d9
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ty_bideng_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 167
+        width: 61
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: -43.5}
+        - {x: -30.5, y: -6.5}
+        - {x: -30.5, y: 41.5}
+        - {x: -29.5, y: 43.5}
+        - {x: 25.5, y: 43.5}
+        - {x: 30.5, y: 26.5}
+        - {x: 30.5, y: -34.5}
+        - {x: 27.5, y: -43.5}
+      physicsShape:
+      - - {x: 30.5, y: 4.5}
+        - {x: 27.5, y: 17.5}
+        - {x: 17.5, y: 33.5}
+        - {x: 11.5, y: 33.5}
+        - {x: 0.5, y: 25.5}
+        - {x: -2.5, y: 3.5}
+        - {x: -10.5, y: 16.5}
+        - {x: -9.5, y: 21.5}
+        - {x: -14.5, y: 24.5}
+        - {x: -14.5, y: 40.5}
+        - {x: -20.5, y: 43.5}
+        - {x: -22.5, y: 43.5}
+        - {x: -27.5, y: 38.5}
+        - {x: -28.5, y: 32.5}
+        - {x: -30.5, y: 23.5}
+        - {x: -30.5, y: 10.5}
+        - {x: -16.5, y: -4.5}
+        - {x: -3.5, y: -11.5}
+        - {x: -5.5, y: -19.5}
+        - {x: 7.5, y: -42.5}
+        - {x: 21.5, y: -42.5}
+        - {x: 28.5, y: -38.5}
+        - {x: 28.5, y: -17.5}
+        - {x: 30.5, y: -9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911fd4a17e1d4ae58ea87ce441967b70
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ty_bideng_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 71
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -39}
+        - {x: -35.5, y: -23}
+        - {x: -35.5, y: 30}
+        - {x: -31.5, y: 39}
+        - {x: 12.5, y: 39}
+        - {x: 35.5, y: 17}
+        - {x: 35.5, y: -39}
+      physicsShape:
+      - - {x: 22.5, y: -3}
+        - {x: 23.5, y: 9.999999}
+        - {x: 16.5, y: 30}
+        - {x: 0.5, y: 39}
+        - {x: -12.5, y: 39}
+        - {x: -35.5, y: 22}
+        - {x: -35.5, y: 11}
+        - {x: -24.5, y: -19}
+        - {x: -11.5, y: -32}
+        - {x: -4.5, y: -34}
+        - {x: 10.5, y: -36}
+        - {x: 15.5, y: -39}
+        - {x: 32.5, y: -39}
+        - {x: 35.5, y: -35}
+        - {x: 35.5, y: -18}
+        - {x: 33.5, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: da845081326e462594263cd02782a6d0
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ws_baozhen_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 92
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -26.5}
+        - {x: -46, y: -19.5}
+        - {x: -46, y: 18.5}
+        - {x: -23, y: 26.5}
+        - {x: 24, y: 26.5}
+        - {x: 46, y: 5.5}
+        - {x: 46, y: -13.5}
+        - {x: 37, y: -26.5}
+      physicsShape:
+      - - {x: 38, y: 10.5}
+        - {x: 13, y: 26.5}
+        - {x: -14, y: 26.5}
+        - {x: -22, y: 24.5}
+        - {x: -42, y: 18.5}
+        - {x: -46, y: 9.5}
+        - {x: -46, y: -6.5}
+        - {x: -19, y: -21.5}
+        - {x: -11, y: -26.5}
+        - {x: 17, y: -26.5}
+        - {x: 21, y: -25.5}
+        - {x: 36, y: -16.5}
+        - {x: 46, y: -8.5}
+        - {x: 46, y: 1.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef39ac419c12487f99383ba66d0a7c5c
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ws_shuzhuangdeng_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 73
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: -35}
+        - {x: -36.5, y: -35}
+        - {x: -36.5, y: 19}
+        - {x: -28.5, y: 26}
+        - {x: -7.5, y: 35}
+        - {x: 12.5, y: 35}
+        - {x: 32.5, y: 31}
+        - {x: 36.5, y: 25}
+        - {x: 36.5, y: -23}
+      physicsShape:
+      - - {x: 30.5, y: 27}
+        - {x: 6.5, y: 35}
+        - {x: -14.5, y: 35}
+        - {x: -32.5, y: 30}
+        - {x: -36.5, y: 18}
+        - {x: -36.5, y: -21}
+        - {x: -32.5, y: -22}
+        - {x: -27.5, y: -22}
+        - {x: -23.5, y: -18}
+        - {x: -23.5, y: -2}
+        - {x: -4.5, y: -35}
+        - {x: 5.5, y: -35}
+        - {x: 21.5, y: -20}
+        - {x: 36.5, y: -29}
+        - {x: 36.5, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224a8d3ef3be4e08b3587d946772c4a8
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ws_yijia_2
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 30
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -49}
+        - {x: -15, y: 49}
+        - {x: 15, y: 49}
+        - {x: 15, y: -49}
+      physicsShape:
+      - - {x: 9, y: -33}
+        - {x: 7, y: -21}
+        - {x: 4, y: -14}
+        - {x: 4, y: 22}
+        - {x: 8, y: 23}
+        - {x: 12, y: 30}
+        - {x: 15, y: 37}
+        - {x: 15, y: 46}
+        - {x: 9.999999, y: 49}
+        - {x: -13, y: 49}
+        - {x: -15, y: 47}
+        - {x: -15, y: 31}
+        - {x: -9, y: 23}
+        - {x: -4, y: 22}
+        - {x: -5, y: -21}
+        - {x: -12, y: -34}
+        - {x: -12, y: -49}
+        - {x: 12, y: -49}
+        - {x: 14, y: -48}
+        - {x: 12, y: -36}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37072316223744d7be16197b28abce3d
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ws_chuangtougui_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 122
+        width: 60
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -38}
+        - {x: -30, y: -28}
+        - {x: -30, y: 28}
+        - {x: -21, y: 38}
+        - {x: 21, y: 38}
+        - {x: 30, y: 33}
+        - {x: 30, y: -34}
+        - {x: 18, y: -38}
+      physicsShape:
+      - - {x: -6, y: 38}
+        - {x: -30, y: 23}
+        - {x: -30, y: -26}
+        - {x: -8, y: -38}
+        - {x: 9.999999, y: -38}
+        - {x: 24, y: -30}
+        - {x: 30, y: -28}
+        - {x: 30, y: 22}
+        - {x: 16, y: 38}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8315dd5275ed4496bbbb388fb7b42090
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ws_zhutai_2
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 284
+        width: 46
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -39.5}
+        - {x: -23, y: -35.5}
+        - {x: -23, y: 26.5}
+        - {x: -21, y: 29.5}
+        - {x: -12, y: 39.5}
+        - {x: 18, y: 39.5}
+        - {x: 23, y: 32.5}
+        - {x: 23, y: -36.5}
+        - {x: 19, y: -39.5}
+      physicsShape:
+      - - {x: 19, y: 22.5}
+        - {x: 15, y: 39.5}
+        - {x: 8, y: 39.5}
+        - {x: 0, y: 18.5}
+        - {x: 0, y: 8.5}
+        - {x: -5, y: -3.5}
+        - {x: -6, y: -11.5}
+        - {x: -6, y: -14.5}
+        - {x: -6, y: -2.5}
+        - {x: -4, y: 10.5}
+        - {x: -11, y: 31.5}
+        - {x: -17, y: 27.5}
+        - {x: -21, y: 11.5}
+        - {x: -23, y: -7.5}
+        - {x: -23, y: -27.5}
+        - {x: -19, y: -30.5}
+        - {x: -6, y: -39.5}
+        - {x: 11, y: -39.5}
+        - {x: 15, y: -36.5}
+        - {x: 23, y: -24.5}
+        - {x: 23, y: -19.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee33e5c7c0274744875e5473ffe8938a
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_qt_guaqi_3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 80
+        width: 41
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: -50}
+        - {x: -20.5, y: 23}
+        - {x: -20.5, y: 50}
+        - {x: -6.5, y: 50}
+        - {x: 20.5, y: 36}
+        - {x: 20.5, y: 9}
+        - {x: 13.5, y: -50}
+      physicsShape:
+      - - {x: -20.5, y: 50}
+        - {x: -20.5, y: 35}
+        - {x: -12.5, y: -50}
+        - {x: 12.5, y: -50}
+        - {x: 20.5, y: -6}
+        - {x: 20.5, y: 37}
+        - {x: -4.5, y: 50}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347e394df0864d30b2da20112b7623bb
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_hy_dideng_1
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 184
+        width: 41
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: -48}
+        - {x: -20.5, y: -44}
+        - {x: -20.5, y: 32}
+        - {x: -5.5, y: 48}
+        - {x: 5.5, y: 48}
+        - {x: 20.5, y: 30}
+        - {x: 20.5, y: -26}
+        - {x: 19.5, y: -42}
+        - {x: 13.5, y: -48}
+      physicsShape:
+      - - {x: 8.5, y: -21}
+        - {x: 13.5, y: -17}
+        - {x: 20.5, y: 12}
+        - {x: 20.5, y: 26}
+        - {x: 4.5, y: 48}
+        - {x: -4.5, y: 48}
+        - {x: -5.5, y: 47}
+        - {x: -9.5, y: 36}
+        - {x: -20.5, y: 24}
+        - {x: -20.5, y: 12}
+        - {x: -19.5, y: 5}
+        - {x: -13.5, y: -16}
+        - {x: -9.5, y: -25}
+        - {x: -17.5, y: -37}
+        - {x: -15.5, y: -45}
+        - {x: -5.5, y: -48}
+        - {x: 7.5, y: -48}
+        - {x: 15.5, y: -43}
+        - {x: 18.5, y: -38}
+        - {x: 11.5, y: -31}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7ab218d20d42e08d570091224f39c0
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jz_ws_yijia_1
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 101
+        width: 30
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -48}
+        - {x: -15, y: 48}
+        - {x: 15, y: 48}
+        - {x: 15, y: -48}
+      physicsShape:
+      - - {x: 15, y: -37}
+        - {x: 15, y: -26}
+        - {x: 9.999999, y: -17}
+        - {x: 5, y: -15}
+        - {x: 5, y: 21}
+        - {x: 15, y: 33}
+        - {x: 15, y: 48}
+        - {x: -13, y: 48}
+        - {x: -15, y: 42}
+        - {x: -15, y: 28}
+        - {x: -11, y: 24}
+        - {x: -5, y: 22}
+        - {x: -9, y: -15}
+        - {x: -15, y: -28}
+        - {x: -15, y: -48}
+        - {x: 15, y: -48}
+        - {x: 15, y: -42}
+        - {x: 14, y: -39}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fbad6d26ab41f084ccbe207f6fddd9
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      jz_ty_bideng_2: 21300064
+      jz_ws_dayigui_2: 21300000
+      jz_ws_yizi_1: 21300016
+      jz_ty_bideng_3: 21300066
+      jz_ws_dajingzi_3: 21300026
+      jz_ty_bideng_1: 21300058
+      jz_ct_yizi_2: 21300008
+      jz_ws_chuangtougui_3: 21300024
+      jz_ws_zhutai_1: 21300030
+      jz_qt_zuozhong_2: 21300040
+      jz_qt_zuozhong_3: 21300018
+      jz_hy_dideng_1: 21300080
+      jz_qt_guaqi_1: 21300060
+      jz_ws_baozhen_1: 21300034
+      jz_ws_chuangtougui_2: 21300050
+      jz_ws_yijia_3: 21300042
+      jz_ct_yizi_3: 21300052
+      jz_ct_muchaijia_1: 21300028
+      jz_ct_muchaijia_3: 21300046
+      jz_ws_shuzhuangdeng_2: 21300070
+      jz_ws_chaji_1: 21300054
+      jz_ws_maowo_3: 21300012
+      jz_ws_dayigui_1: 21300044
+      jz_ws_dajingzi_2: 21300014
+      jz_ws_dayigui_3: 21300032
+      jz_ws_chuangtougui_1: 21300074
+      jz_ws_zhutai_2: 21300076
+      jz_hy_dideng_2: 21300038
+      jz_ct_yizi_1: 21300004
+      jz_ws_yizi_3: 21300020
+      jz_ws_shuzhuangdeng_1: 21300010
+      jz_ws_yijia_1: 21300082
+      jz_ws_dajingzi_1: 21300002
+      jz_ws_zhutai_3: 21300022
+      jz_ws_yijia_2: 21300072
+      jz_ws_baozhen_3: 21300068
+      jz_ws_baozhen_2: 21300048
+      jz_qt_guaqi_3: 21300078
+      jz_hy_dideng_3: 21300056
+      jz_qt_zuozhong_1: 21300006
+      jz_ws_shuzhuangdeng_3: 21300036
+      jz_qt_guaqi_2: 21300062
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

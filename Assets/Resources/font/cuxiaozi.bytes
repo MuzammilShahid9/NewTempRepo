@@ -1,0 +1,15 @@
+info face="Poetsen One" size=38 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=2 padding=6,6,6,6 spacing=0,0 outline=0
+common lineHeight=38 base=32 scaleW=380 scaleH=40 pages=1 packed=0 alphaChnl=0 redChnl=4 greenChnl=4 blueChnl=4
+page id=0 file="cuxiaozi2_0.png"
+chars count=11
+char id=48   x=32    y=0     width=31    height=36    xoffset=-5    yoffset=2     xadvance=20    page=0  chnl=15
+char id=49   x=294   y=0     width=23    height=35    xoffset=-6    yoffset=2     xadvance=12    page=0  chnl=15
+char id=50   x=209   y=0     width=29    height=35    xoffset=-6    yoffset=2     xadvance=18    page=0  chnl=15
+char id=51   x=123   y=0     width=29    height=36    xoffset=-6    yoffset=2     xadvance=18    page=0  chnl=15
+char id=52   x=238   y=0     width=29    height=35    xoffset=-6    yoffset=2     xadvance=19    page=0  chnl=15
+char id=53   x=181   y=0     width=28    height=36    xoffset=-6    yoffset=2     xadvance=17    page=0  chnl=15
+char id=54   x=63    y=0     width=30    height=36    xoffset=-5    yoffset=2     xadvance=19    page=0  chnl=15
+char id=55   x=267   y=0     width=27    height=35    xoffset=-5    yoffset=2     xadvance=15    page=0  chnl=15
+char id=56   x=93    y=0     width=30    height=36    xoffset=-6    yoffset=2     xadvance=19    page=0  chnl=15
+char id=57   x=152   y=0     width=29    height=36    xoffset=-5    yoffset=2     xadvance=19    page=0  chnl=15
+char id=88   x=0     y=0     width=32    height=36    xoffset=-6    yoffset=2     xadvance=20    page=0  chnl=15

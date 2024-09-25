@@ -1,0 +1,46 @@
+{
+    "appleSKU": "",
+    "appleTeamID": "",
+    "enableCodelessAutoInitialization": false,
+    "enableUnityGamingServicesAutoInitialization": false,
+    "products": [
+        {
+            "id": "ShopDlg_MinorPack",
+            "type": 0,
+            "storeIDs": [
+                {
+                    "store": "WinRT",
+                    "id": "9P31KKGRGF9R"
+                }
+            ],
+            "defaultDescription": {
+                "googleLocale": 4,
+                "title": "Coins",
+                "description": "Coins"
+            },
+            "screenshotPath": "",
+            "applePriceTier": 0,
+            "googlePrice": {
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "num": 0.0
+            },
+            "pricingTemplateID": "",
+            "descriptions": [],
+            "udpPrice": {
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "num": 0.0
+            },
+            "payouts": []
+        }
+    ]
+}

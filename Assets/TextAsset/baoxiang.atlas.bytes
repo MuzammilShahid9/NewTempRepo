@@ -1,0 +1,48 @@
+
+baoxiang.png
+size: 157,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guan_di
+  rotate: false
+  xy: 2, 43
+  size: 74, 56
+  orig: 74, 56
+  offset: 0, 0
+  index: -1
+guan_suo
+  rotate: false
+  xy: 83, 102
+  size: 72, 53
+  orig: 72, 53
+  offset: 0, 0
+  index: -1
+kai1_di
+  rotate: false
+  xy: 2, 101
+  size: 79, 54
+  orig: 79, 54
+  offset: 0, 0
+  index: -1
+kai1_suo
+  rotate: false
+  xy: 83, 45
+  size: 69, 55
+  orig: 69, 55
+  offset: 0, 0
+  index: -1
+kai2_suo
+  rotate: false
+  xy: 2, 3
+  size: 67, 38
+  orig: 67, 38
+  offset: 0, 0
+  index: -1
+kai3_gai
+  rotate: false
+  xy: 78, 2
+  size: 61, 41
+  orig: 61, 41
+  offset: 0, 0
+  index: -1

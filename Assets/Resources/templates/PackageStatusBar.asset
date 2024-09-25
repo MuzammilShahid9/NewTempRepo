@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 806784486, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: PackageStatusBar
+  m_EditorClassIdentifier:
+  m_Usings: []
+  inlineSheet: {fileID: 11400000, guid: de62cbcbdeeefc14b8a9fedefda3a334, type: 2}
+  m_VisualElementAssets:
+  - m_Name:
+    m_Id: 527174144
+    m_ParentId: 0
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.VisualElement
+    m_Classes: []
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - statusBarContainer
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: 1176953600
+    m_ParentId: 527174144
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.VisualElement
+    m_Classes: []
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - loadingContainer
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: 1591484928
+    m_ParentId: 1176953600
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.VisualElement
+    m_Classes:
+    - loading
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - loadingSpinnerContainer
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: -1852009216
+    m_ParentId: 1591484928
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEditor.PackageManager.UI.LoadingSpinner
+    m_Classes:
+    - spinner
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - packageSpinner
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: 167409664
+    m_ParentId: 1176953600
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.Label
+    m_Classes: []
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - loadingIcon
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: 1392995584
+    m_ParentId: 1176953600
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.Label
+    m_Classes: []
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - loadingText
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: 101026816
+    m_ParentId: 527174144
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.Button
+    m_Classes: []
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - moreAddOptionsButton
+    - text
+    - +
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: -1838119680
+    m_ParentId: 0
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEditor.PackageManager.UI.PackageAddFromUrlField
+    m_Classes: []
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - packageAddFromUrlField
+    - text
+    - 
+    - picking-mode
+    - Position
+  m_TemplateAssets: []
+  m_Slots: []
+  m_ContentContainerId: 0

@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: fce08de9b74a4ad4997c8501e5eb1c24
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: chuangding2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 289
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.4618841, y: 0.766416}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chuangding2
+      rect:
+        serializedVersion: 2
+        x: 35.06306
+        y: 59.04291
+        width: 145.8608
+        height: 192.9058
+      alignment: 9
+      pivot: {x: 0.3992678, y: 0.8421277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.00653, y: -92.4958}
+        - {x: -72.99347, y: -49.4958}
+        - {x: -72.99347, y: 34.5042}
+        - {x: -66.99347, y: 96.5042}
+        - {x: -17.99347, y: 96.5042}
+        - {x: 73.00653, y: 26.5042}
+        - {x: 73.00653, y: -96.4958}
+        - {x: 24.00653, y: -96.4958}
+      physicsShape:
+      - - {x: 67.00653, y: -44.4958}
+        - {x: 65.00653, y: -13.4958}
+        - {x: 64.00653, y: 13.5042}
+        - {x: 54.00653, y: 19.5042}
+        - {x: 46.00653, y: 15.5042}
+        - {x: 24.00653, y: 42.5042}
+        - {x: 17.00653, y: 64.5042}
+        - {x: 15.00653, y: 66.5042}
+        - {x: -20.99347, y: 82.5042}
+        - {x: -42.99347, y: 95.5042}
+        - {x: -49.99347, y: 95.5042}
+        - {x: -57.99347, y: 90.5042}
+        - {x: -59.99347, y: 78.5042}
+        - {x: -67.99347, y: 67.5042}
+        - {x: -67.99347, y: 12.5042}
+        - {x: -71.99347, y: -21.49579}
+        - {x: -71.99347, y: -40.49579}
+        - {x: -68.99347, y: -45.4958}
+        - {x: -47.99347, y: -36.4958}
+        - {x: -40.99347, y: -36.4958}
+        - {x: -37.99347, y: -39.4958}
+        - {x: -28.99347, y: -40.49579}
+        - {x: -12.99347, y: -53.49579}
+        - {x: 7.006531, y: -57.4958}
+        - {x: 12.00653, y: -64.4958}
+        - {x: 19.00653, y: -69.49578}
+        - {x: 37.00653, y: -72.4958}
+        - {x: 35.00653, y: -93.49578}
+        - {x: 37.00653, y: -95.49578}
+        - {x: 65.00653, y: -95.49578}
+        - {x: 73.00653, y: -89.4958}
+        - {x: 73.00653, y: -80.4958}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62f868c08934be8a2af8a3e350610d5
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      chuangding2: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

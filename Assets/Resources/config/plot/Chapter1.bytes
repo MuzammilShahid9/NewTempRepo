@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Chapter1>
+  <Task1>
+    <Action1 Time="-1">
+      <Camera Pos="(78.5, 66.1, -102.0)" Size="3.799999" Time="0" IsFollow="False" FollowTarget="Tina" />
+      <Role>
+        <Alice Anim="F(-2.4, -1.3, -23.8)(0.0, -0.1, 0.0, 1.0)" />
+      </Role>
+    </Action1>
+    <Action2 Time="-1">
+      <Camera Pos="(78.5, 66.1, -102.0)" Size="2.999999" Time="1" IsFollow="False" FollowTarget="Alice" />
+      <Role>
+        <Alice Anim="W(-2.9, -1.3, -21.0)(0.0, -0.1, 0.0, 1.0)" />
+      </Role>
+    </Action2>
+    <Action3 Time="-1">
+      <Conversation Content="T1-1|RoleName_Alice_1|Alice|Alice_Common|Left" />
+    </Action3>
+    <Action4 Time="-1">
+      <Camera Pos="(0.0, 0.0, 0.0)" Size="0" Time="0" IsFollow="True" FollowTarget="Alice" />
+      <Role>
+        <Alice Anim="W(-3.0, -1.3, -17.5)(0.0, -0.1, 0.0, 1.0)" />
+      </Role>
+    </Action4>
+    <Action5 Time="-1">
+      <Role>
+        <Alice Anim="LookAround" />
+      </Role>
+      <Conversation Content="T1-2|RoleName_Alice_1|Alice|Alice_Worried|Left" />
+    </Action5>
+    <Action6 Time="-1">
+      <Camera Pos="(0.0, 0.0, 0.0)" Size="0" Time="0" IsFollow="True" FollowTarget="Alice" />
+      <Role>
+        <Alice Anim="W(-3.4, -1.3, -12.5)(0.0, -0.1, 0.0, 1.0)" />
+      </Role>
+    </Action6>
+    <Action7 Time="-1">
+      <Role>
+        <Alice Anim="LookDown" />
+      </Role>
+      <Conversation Content="T1-3|RoleName_Alice_1|Alice|Alice_Worried|Left;T1-4|RoleName_Alice_1|Alice|Alice_Common|Left" />
+    </Action7>
+  </Task1>
+  <Task2>
+    <Action1 Time="-1">
+      <Camera Pos="(83.0, 70.0, -97.6)" Size="2.85" Time="0.5" IsFollow="False" FollowTarget="Alice" />
+    </Action1>
+    <Action2 Time="-1">
+      <Role>
+        <Alice Anim="Magic" />
+      </Role>
+      <Build Data="0;0;0;0.2" />
+    </Action2>
+    <Action3 Time="-1">
+      <Role>
+        <Alice Anim="Happy" />
+        <John Anim="F(-3.2, -1.3, -8.9)(0.0, -1.0, 0.0, 0.0)" />
+      </Role>
+      <Conversation Content="T2-1|RoleName_Alice_1|Alice|Alice_Glad|Left" />
+    </Action3>
+    <Action4 Time="-1">
+      <Role>
+        <John Anim="W(-3.2, -1.3, -11.7)(0.0, 1.0, 0.0, 0.1)" />
+      </Role>
+    </Action4>
+    <Action5 Time="-1">
+      <Role>
+        <Alice Anim="Talk" />
+      </Role>
+      <Conversation Content="T2-2|RoleName_Alice_1|Alice|Alice_Common|Left;T2-3|RoleName_Butler_1|John|Butler_Excited|right;T2-4|RoleName_Alice_1|Alice|Alice_Common|Left" />
+    </Action5>
+    <Action6 Time="-1">
+      <Other IsCastleRename="True" />
+    </Action6>
+    <Action7 Time="-1">
+      <Role>
+        <Alice Anim="LookAround" />
+      </Role>
+      <Conversation Content="T2-5|RoleName_Alice_1|Alice|Alice_Common|Left;T2-6|RoleName_Butler_1|John|Butler_Worried|right;T2-7|RoleName_Alice_1|Alice|Alice_Surprised|Left" />
+    </Action7>
+    <Action8 Time="-1">
+      <Role>
+        <John Anim="Talk" />
+      </Role>
+      <Conversation Content="T2-8|RoleName_Butler_1|John|Butler_Worried|right" />
+    </Action8>
+    <Action9 Time="-1">
+      <Role>
+        <Alice Anim="Think" />
+      </Role>
+      <Conversation Content="T2-9|RoleName_Alice_1|Alice|Alice_Thinking|Left" />
+    </Action9>
+  </Task2>
+  <Task3>
+    <Action1 Time="-1">
+      <Camera Pos="(81.9, 69.7, -98.7)" Size="3.5" Time="0.5" IsFollow="False" FollowTarget="Alice" />
+      <Role>
+        <Alice Anim="F(-4.0, -1.3, -12.9)(0.0, 0.9, 0.0, 0.4)" />
+        <John Anim="F(-3.5, -1.3, -12.5)(0.0, 1.0, 0.0, 0.1)" />
+      </Role>
+    </Action1>
+    <Action2 Time="-1">
+      <Role>
+        <Alice Anim="Magic" />
+      </Role>
+      <Build Data="0;1;0;0" />
+    </Action2>
+    <Action3 Time="-1">
+      <Role>
+        <Alice Anim="Cough" />
+      </Role>
+      <Conversation Content="T3-1|RoleName_Alice_1|Alice|Alice_Common|Left;T3-2|RoleName_Butler_1|John|Butler_Excited|right;T3-3|RoleName_Butler_1|John|Butler_Common|right;T3-4|RoleName_Butler_1|John|Butler_Common|right" />
+    </Action3>
+    <Action4 Time="-1">
+      <Role>
+        <Alice Anim="Talk" />
+      </Role>
+      <Conversation Content="T3-5|RoleName_Alice_1|Alice|Alice_Common|Left;T3-6|RoleName_Butler_1|John|Butler_Common|right;T3-7|RoleName_Alice_1|Alice|Alice_Thinking|Left" />
+    </Action4>
+    <Action5 Time="-1">
+      <Camera Pos="(83.8, 70.0, -96.8)" Size="2.8" Time="1" IsFollow="False" FollowTarget="Alice" />
+      <Role>
+        <Alice Anim="W(-2.3, -1.3, -12.4)(0.0, -0.8, 0.0, -0.6);W(-2.3, -1.3, -12.4)(0.0, -0.8, 0.0, 0.6)" />
+        <John Anim="W(-3.5, -1.3, -12.5)(0.0, 0.8, 0.0, 0.6)" />
+      </Role>
+    </Action5>
+    <Action6 Time="-1">
+      <Conversation Content="T3-8|RoleName_Butler_1|John|Butler_Worried|right;T3-9|RoleName_Alice_1|Alice|Alice_Common|Left" />
+    </Action6>
+    <Action7 Time="-1">
+      <Camera Pos="(0.0, 0.0, 0.0)" Size="0" Time="0.5" IsFollow="True" FollowTarget="Alice" />
+      <Role>
+        <Alice Anim="W(5.5, 0.2, -2.0)(0.0, 0.0, 0.0, -1.0)" />
+        <John Anim="W(-3.4, -1.3, -8.5)(0.0, -0.1, 0.0, 1.0)" />
+      </Role>
+    </Action7>
+    <Action8 Time="-1">
+      <Role>
+        <Alice Anim="LookAround" />
+      </Role>
+      <Conversation Content="T3-10|RoleName_Alice_1|Alice|Alice_Thinking|Left" />
+    </Action8>
+  </Task3>
+  <Task4>
+    <Action1 Time="-1">
+      <Camera Pos="(91.8, 71.1, -88.8)" Size="2.8" Time="0.5" IsFollow="False" FollowTarget="Alice" />
+      <Role>
+        <Alice Anim="F(5.5, 0.2, -2.0)(0.0, 0.0, 0.0, 1.0)" />
+      </Role>
+    </Action1>
+    <Action2 Time="-1">
+      <Role>
+        <Alice Anim="Magic" />
+      </Role>
+      <Build Data="1;0;0;0" />
+    </Action2>
+    <Action3 Time="-1">
+      <Role>
+        <Alice Anim="Happy" />
+      </Role>
+      <Conversation Content="T6-1|RoleName_Alice_1|Alice|Alice_Laugh|Left" />
+    </Action3>
+    <Action4 Time="-1">
+      <Role>
+        <Alice Anim="LookAround" />
+      </Role>
+      <Conversation Content="T6-2|RoleName_Alice_1|Alice|Alice_Common|Left" />
+    </Action4>
+    <Action5 Time="-1">
+      <Camera Pos="(0.0, 0.0, 0.0)" Size="0" Time="0" IsFollow="True" FollowTarget="Alice" />
+      <Role>
+        <Alice Anim="W(9.8, 0.2, -3.0)(0.0, 0.9, 0.0, 0.4)" />
+      </Role>
+      <Conversation Content="T6-3|RoleName_Alice_1|Alice|Alice_Common|Left;T6-4|RoleName_Alice_1|Alice|Alice_Thinking|Left" />
+    </Action5>
+    <Action6 Time="-1">
+      <Camera Pos="(0.0, 0.0, 0.0)" Size="0" Time="0" IsFollow="True" FollowTarget="Alice" />
+      <Role>
+        <Alice Anim="W(6.5, 0.2, -2.1)(0.0, 0.0, 0.0, 1.0)" />
+      </Role>
+    </Action6>
+    <Action7 Time="-1">
+      <Role>
+        <Alice Anim="LookDown" />
+      </Role>
+      <Conversation Content="T6-5|RoleName_Alice_1|Alice|Alice_Thinking|Left" />
+    </Action7>
+  </Task4>
+  <Task5>
+    <Action1 Time="-1">
+      <Camera Pos="(93.0, 71.4, -87.6)" Size="2.500001" Time="0.5" IsFollow="False" FollowTarget="Alice" />
+      <Role>
+        <Alice Anim="F(6.5, 0.2, -2.1)(0.0, 0.0, 0.0, 1.0)" />
+      </Role>
+    </Action1>
+    <Action2 Time="-1">
+      <Role>
+        <Alice Anim="Clap" />
+      </Role>
+      <Build Data="1;1;0;1.4" />
+    </Action2>
+    <Action3 Time="-1">
+      <Role>
+        <Alice Anim="Happy" />
+      </Role>
+      <Conversation Content="T8-1|RoleName_Alice_1|Alice|Alice_Laugh|Left;T8-2|RoleName_Alice_1|Alice|Alice_Thinking|Left" />
+    </Action3>
+  </Task5>
+  <Task6>
+    <Action1 Time="-1">
+      <Camera Pos="(93.0, 71.4, -87.6)" Size="2.500001" Time="0.5" IsFollow="False" FollowTarget="Alice" />
+      <Role>
+        <Alice Anim="F(6.5, 0.2, -2.1)(0.0, 0.0, 0.0, 1.0)" />
+      </Role>
+    </Action1>
+    <Action2 Time="-1">
+      <Role>
+        <Alice Anim="ShortMagic" />
+      </Role>
+      <Build Data="1;2;0;0.3" />
+    </Action2>
+    <Action3 Time="-1">
+      <Role>
+        <Alice Anim="Happy" />
+      </Role>
+      <Conversation Content="T9-1|RoleName_Alice_1|Alice|Alice_Glad|Left;T9-2|RoleName_Alice_1|Alice|Alice_Common|Left" />
+    </Action3>
+    <Action4 Time="-1">
+      <Role>
+        <Alice Anim="W(6.5, 0.2, -2.1)(0.0, 0.8, 0.0, 0.6)" />
+      </Role>
+      <Conversation Content="T9-3|RoleName_Alice_1|Alice|Alice_Common|Left" />
+    </Action4>
+  </Task6>
+  <Task7>
+    <Action1 Time="-1">
+      <Camera Pos="(92.6, 71.3, -88.0)" Size="2.503213" Time="0.5" IsFollow="False" FollowTarget="Alice" />
+      <Role>
+        <Alice Anim="F(7.4, 0.2, -1.8)(0.0, 0.3, 0.0, 1.0)" />
+      </Role>
+    </Action1>
+    <Action2 Time="-1">
+      <Role>
+        <Alice Anim="W(7.1, 0.2, -0.04)(0.0, 0.7, 0.0, 0.7);Stretch" />
+      </Role>
+      <Conversation Content="T10-1|RoleName_Alice_1|Alice|Alice_Common|Left;T10-2|RoleName_Alice_1|Alice|Alice_Common|Left" />
+    </Action2>
+    <Action3 Time="-1">
+      <Role>
+        <Alice Anim="W(7.1, 0.2, -0.04)(0.0, 0.7, 0.0, 0.7);LieDown" />
+      </Role>
+    </Action3>
+    <Action4 Time="-1">
+      <Other IsBlackScreen="True" />
+    </Action4>
+    <Action5 Time="-1">
+      <Role>
+        <Alice Anim="GetUp" />
+      </Role>
+    </Action5>
+    <Action6 Time="-1">
+      <Role>
+        <Alice Anim="Stretch" />
+      </Role>
+      <Conversation Content="T10-3|RoleName_Alice_1|Alice|Alice_Common|Left" />
+    </Action6>
+    <Action7 Time="-1">
+      <Audio IsEffectSet="True" EffectName="sound_knock" IsEffectLoop="False" IsEffectStop="False" EffectMinTime="0" EffectMaxTime="0" />
+    </Action7>
+    <Action8 Time="-1">
+      <Role>
+        <Alice Anim="W(7.2, 0.2, -0.3)(0.0, 1.0, 0.0, 0.1)" />
+        <John Anim="F(4.4, 0.2, -8.3)(0.0, 0.7, 0.0, 0.7)" />
+      </Role>
+      <Conversation Content="T10-4|RoleName_Butler_1|John|Butler_Common|right" />
+    </Action8>
+  </Task7>
+  <Task8>
+    <Action1 Time="-1">
+      <Camera Pos="(88.7, 69.5, -91.9)" Size="2.507645" Time="0.5" IsFollow="False" FollowTarget="Alice" />
+      <Role>
+        <Alice Anim="F(7.2, 0.2, -0.3)(0.0, -1.0, 0.0, 0.0)" />
+        <John Anim="F(4.4, 0.2, -8.3)(0.0, 0.7, 0.0, 0.7)" />
+      </Role>
+    </Action1>
+    <Action2 Time="-1">
+      <Role>
+        <Alice Anim="F(7.0, 0.2, -3.2)(0.0, 1.0, 0.0, 0.0);W(5.3, 0.2, -8.2)(0.0, 0.7, 0.0, -0.7)" />
+      </Role>
+    </Action2>
+    <Action3 Time="-1">
+      <Conversation Content="T43-1|RoleName_Alice_1|Alice|Alice_Common|Left;T43-2|RoleName_Butler_1|John|Butler_Common|right" />
+    </Action3>
+    <Action4 Time="-1">
+      <Role>
+        <Alice Anim="Hair" />
+      </Role>
+      <Conversation Content="T43-3|RoleName_Alice_1|Alice|Alice_Common|Left;T43-4|RoleName_Butler_1|John|Butler_Common|right" />
+    </Action4>
+    <Action5 Time="-1">
+      <Role>
+        <Alice Anim="Talk" />
+        <Arthur Anim="F(-2.8, -1.3, -17.4)(0.0, 0.0, 0.0, 1.0)" />
+      </Role>
+      <Conversation Content="T43-5|RoleName_Alice_1|Alice|Alice_Common|Left;T43-6|RoleName_Butler_1|John|Butler_Common|right;T43-7|RoleName_Alice_1|Alice|Alice_Thinking|Left" />
+    </Action5>
+  </Task8>
+</Chapter1>

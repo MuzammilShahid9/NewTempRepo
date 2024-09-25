@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &687078895
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LogoScene
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+    - {fileID: 21300000, guid: 2fe1f400732576046a4a4a477340b46b, type: 3}
+    - {fileID: 21300000, guid: 810766806189441459ebed574a77a20d, type: 3}
+    - {fileID: -4002215505930222262, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+    - {fileID: 21300000, guid: c245c88910baac041b71387ae56a6312, type: 3}
+    - {fileID: 21300002, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+    - {fileID: 21300000, guid: c0695c5917678114e97f1e2d930ba245, type: 3}
+    - {fileID: 21300000, guid: efffe884815fd8e4a9b9e524ba4d762f, type: 3}
+    - {fileID: 915773781823339560, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+    - {fileID: 21300008, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+    - {fileID: 21300010, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+    - {fileID: 21300000, guid: 425a52712a91922419448a77ac04ae0f, type: 3}
+    - {fileID: 8521295079679559415, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+    - {fileID: 21300000, guid: d884501c3ff98e543aa668b1c43609cf, type: 3}
+    - {fileID: 21300014, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+    - {fileID: 21300000, guid: dfbc632301d5745409154559ce901070, type: 3}
+    - {fileID: 7136847053047064720, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+    - {fileID: 21300000, guid: 58392ef4aab0dc34382328e1b555ec36, type: 3}
+    - {fileID: 5980720369678192108, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+    - {fileID: 7334370077921335796, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+    - {fileID: 7046204875842131955, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+    - {fileID: 21300000, guid: 5bc76cf70e90494478e310fd9c1666a9, type: 3}
+    - {fileID: -3778082416900232925, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+    - {fileID: 21300000, guid: 3c11bddefacee344188a8ce8d1476e13, type: 3}
+    - {fileID: 21300000, guid: c5f60d4730c3f4e45a40598268fddbe1, type: 3}
+    - {fileID: 21300000, guid: e45b3abe86309a64787cc6b12da50de2, type: 3}
+    - {fileID: -7862650004165835734, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+    - {fileID: 5697651448336596382, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+    - {fileID: 21300000, guid: c7a1593b29d807e49869a3bee9df1eb8, type: 3}
+    - {fileID: 21300000, guid: 74abd083f7b8246489c79d9f2a8ae1be, type: 3}
+    - {fileID: -6469530751315527828, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+    - {fileID: -5567312842431140558, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+  - {fileID: 21300000, guid: 5693c301ea6681a4395ac75b7b7581d4, type: 3}
+  - {fileID: 21300002, guid: 5693c301ea6681a4395ac75b7b7581d4, type: 3}
+  - {fileID: 21300002, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+  - {fileID: 21300004, guid: 5693c301ea6681a4395ac75b7b7581d4, type: 3}
+  - {fileID: 21300004, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+  - {fileID: 21300006, guid: 5693c301ea6681a4395ac75b7b7581d4, type: 3}
+  - {fileID: 21300008, guid: 5693c301ea6681a4395ac75b7b7581d4, type: 3}
+  - {fileID: 21300006, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+  - {fileID: 21300008, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+  - {fileID: 21300010, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+  - {fileID: 21300010, guid: 5693c301ea6681a4395ac75b7b7581d4, type: 3}
+  - {fileID: 21300012, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+  - {fileID: 21300012, guid: 5693c301ea6681a4395ac75b7b7581d4, type: 3}
+  - {fileID: 21300014, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+  - {fileID: 21300014, guid: 5693c301ea6681a4395ac75b7b7581d4, type: 3}
+  - {fileID: 21300016, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+  - {fileID: 21300016, guid: 5693c301ea6681a4395ac75b7b7581d4, type: 3}
+  - {fileID: 21300018, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+  - {fileID: 21300020, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+  - {fileID: 21300022, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+  - {fileID: 21300018, guid: 5693c301ea6681a4395ac75b7b7581d4, type: 3}
+  - {fileID: 21300024, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+  - {fileID: 21300020, guid: 5693c301ea6681a4395ac75b7b7581d4, type: 3}
+  - {fileID: 21300022, guid: 5693c301ea6681a4395ac75b7b7581d4, type: 3}
+  - {fileID: 21300024, guid: 5693c301ea6681a4395ac75b7b7581d4, type: 3}
+  - {fileID: 21300026, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+  - {fileID: 21300028, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+  - {fileID: 21300000, guid: c7a1593b29d807e49869a3bee9df1eb8, type: 3}
+  - {fileID: 21300026, guid: 5693c301ea6681a4395ac75b7b7581d4, type: 3}
+  - {fileID: 21300030, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+  - {fileID: 21300032, guid: 5fe3710bbbfc885478aee101f1814128, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - "\u90C1"
+  - INVALID_UTF8_STRING
+  - INVALID_UTF8_STRING
+  - INVALID_UTF8_STRING
+  - "\u4E91"
+  - INVALID_UTF8_STRING
+  - "\u5927"
+  - INVALID_UTF8_STRING
+  - INVALID_UTF8_STRING
+  - "\u82B1"
+  - "\u5927"
+  - INVALID_UTF8_STRING
+  - INVALID_UTF8_STRING
+  - INVALID_UTF8_STRING
+  - "\u4E91"
+  - INVALID_UTF8_STRING
+  - "\u82B1"
+  - "\u5927"
+  - INVALID_UTF8_STRING
+  - INVALID_UTF8_STRING
+  - INVALID_UTF8_STRING
+  - INVALID_UTF8_STRING
+  - INVALID_UTF8_STRING
+  - INVALID_UTF8_STRING
+  - "\u82B1"
+  - "\u82B1"
+  - INVALID_UTF8_STRING
+  - INVALID_UTF8_STRING
+  - sky
+  - INVALID_UTF8_STRING
+  - INVALID_UTF8_STRING
+  - INVALID_UTF8_STRING
+  m_Tag: LogoScene
+  m_IsVariant: 0

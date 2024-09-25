@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd6183ab3d38d7446b3dfdcf0293a70f, type: 3}
+  m_Name: DemoConfig
+  m_EditorClassIdentifier:
+  DropSpeed: 7
+  DropdelayTime: 0.2
+  BombDropdelayTime: 0.8
+  CreateBombSpeed: 0.17
+  StepToBoomSpeed: 7
+  BeeBoomFlySpeed: 5
+  powerValueSpeed: 6
+  AreaBombNum: 5
+  CombineAreaBombNum: 7
+  BeeBombNum: 1
+  CombineBeeBombNum: 3
+  OneCoinNum: 20
+  CoinFlySpeed: 4
+  WinCoinFlyTime: 0.7
+  WinScrollFlyTime: 0.7
+  normalCoinNum: 50
+  hardCoinNum: 100
+  normalBookNum: 1
+  hardBookNum: 2
+  colorBombCoin: 5
+  VBombCoin: 1
+  HBombCoin: 1
+  ABombCoin: 2
+  flyBombCoin: 1
+  rate: 1.2
+  normalRate: 999999
+  awesomeRemoveNum: 18
+  amazingRemoveNum: 30
+  terrificRemoveNum: 42
+  magnificentRemoveNum: 54
+  awesomeComborNum: 3
+  amazingComborNum: 6
+  terrificComborNum: 9
+  magnificentComborNum: 12
+  SaleTime: 14400
+  HighUserCheckTime: 691200
+  SaleActiveLevel: 20
+  FirstSaleType: 2
+  SaleCDTime: 345600
+  BankSaleCDTime: 1209600
+  BankSaleActiveLevel: 25
+  BankSaleTime: 604800
+  BankSaleMultiple: 9
+  ComboActiveLevel: 7777
+  ComboTime: 300
+  ComboCDTime: 330
+  MaxTimeToWinWatchVideo: 1
+  TaskVideoLimit: 5
+  ActvieWatchVideoInGameWin: 21
+  ActvieWatchVideoInTask: 19

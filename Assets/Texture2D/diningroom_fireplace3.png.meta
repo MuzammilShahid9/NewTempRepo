@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 99e3bc84ee240e24884f5669d89a5b12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: diningroom_fireplace3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 178
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: diningroom_fireplace3
+      rect:
+        serializedVersion: 2
+        x: 35.07612
+        y: 97.05132
+        width: 69.84776
+        height: 43.87256
+      alignment: 9
+      pivot: {x: 0.6431684, y: -0.183516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.000004, y: -13.98759}
+        - {x: -35, y: 9.012405}
+        - {x: -35, y: 21.01241}
+        - {x: -33, y: 22.01241}
+        - {x: -24, y: 22.01241}
+        - {x: 30, y: -6.987595}
+        - {x: 35, y: -9.987595}
+        - {x: 35, y: -18.98759}
+        - {x: 34, y: -21.98759}
+        - {x: 26, y: -21.98759}
+        - {x: 17, y: -19.98759}
+      physicsShape:
+      - - {x: 24, y: -11.98759}
+        - {x: 23, y: -4.987595}
+        - {x: 0.9999962, y: 1.012405}
+        - {x: -5.000003, y: 5.012405}
+        - {x: -16, y: 15.01241}
+        - {x: -25, y: 21.01241}
+        - {x: -32, y: 21.01241}
+        - {x: -33, y: 20.01241}
+        - {x: -34, y: 15.01241}
+        - {x: -34, y: 11.01241}
+        - {x: -30, y: 5.012405}
+        - {x: -9.000004, y: -11.98759}
+        - {x: 7.999996, y: -15.98759}
+        - {x: 23, y: -20.98759}
+        - {x: 32, y: -20.98759}
+        - {x: 34, y: -18.98759}
+        - {x: 34, y: -11.98759}
+        - {x: 32, y: -9.987597}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6480e2d71114ec6b5a83d0cb1439a4b
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      diningroom_fireplace3: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

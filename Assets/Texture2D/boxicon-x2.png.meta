@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 71cc88a6db569d6478b8c4a19bf835e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: boxicon-x2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 82
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boxicon-x2
+      rect:
+        serializedVersion: 2
+        x: 1.026751
+        y: 0
+        width: 80.97325
+        height: 77.95709
+      alignment: 9
+      pivot: {x: 0.4936599, y: 0.5259303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.48662, y: -38.97855}
+        - {x: -40.51338, y: -38.97855}
+        - {x: -40.51338, y: 12.02145}
+        - {x: -17.51338, y: 36.02145}
+        - {x: -7.513378, y: 39.02145}
+        - {x: 30.48662, y: 39.02145}
+        - {x: 40.48662, y: 33.02145}
+        - {x: 40.48662, y: -16.97855}
+      physicsShape:
+      - - {x: 37.48662, y: 29.02145}
+        - {x: 20.48662, y: 38.02145}
+        - {x: -2.513378, y: 38.02145}
+        - {x: -9.513378, y: 37.02145}
+        - {x: -18.51338, y: 30.02145}
+        - {x: -37.51338, y: 5.021454}
+        - {x: -38.51338, y: -1.978546}
+        - {x: -38.51338, y: -20.97854}
+        - {x: -30.51338, y: -30.97855}
+        - {x: -13.51338, y: -34.97855}
+        - {x: 12.48662, y: -34.97855}
+        - {x: 25.48662, y: -25.97855}
+        - {x: 31.48662, y: -14.97855}
+        - {x: 37.48662, y: 5.021454}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313bb8af6fec43e09aff12d7727b89aa
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      boxicon-x2: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

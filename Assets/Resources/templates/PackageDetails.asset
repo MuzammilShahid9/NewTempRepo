@@ -1,0 +1,659 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 806784486, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: PackageDetails
+  m_EditorClassIdentifier:
+  m_Usings: []
+  inlineSheet: {fileID: 11400000, guid: bf06936febbb2704582c3b8273b6595d, type: 2}
+  m_VisualElementAssets:
+  - m_Name:
+    m_Id: -1365409536
+    m_ParentId: 0
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.VisualElement
+    m_Classes: []
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - detailsContainer
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: 1426811904
+    m_ParentId: -1365409536
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.ScrollView
+    m_Classes: []
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - detailView
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: -875199744
+    m_ParentId: 1426811904
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.VisualElement
+    m_Classes:
+    - detail
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - detail
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: 754798080
+    m_ParentId: -875199744
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.VisualElement
+    m_Classes:
+    - header
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - 
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: 1293134080
+    m_ParentId: 754798080
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.VisualElement
+    m_Classes: []
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - titleContainer
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: -195334144
+    m_ParentId: 1293134080
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.Label
+    m_Classes: []
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - detailTitle
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: -1846177024
+    m_ParentId: 754798080
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.VisualElement
+    m_Classes: []
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - detailsControls
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: 38459904
+    m_ParentId: -1846177024
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.VisualElement
+    m_Classes: []
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - updateContainer
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: 2141281536
+    m_ParentId: 38459904
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.VisualElement
+    m_Classes:
+    - combo
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - updateCombo
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: 730164224
+    m_ParentId: 2141281536
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.Button
+    m_Classes:
+    - action
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - update
+    - text
+    - Update
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: -786925312
+    m_ParentId: 2141281536
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.VisualElement
+    m_Classes:
+    - button
+    - last
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - updateDropdownContainer
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: -1543072256
+    m_ParentId: -1846177024
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.Button
+    m_Classes:
+    - button
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - updateBuiltIn
+    - text
+    - Enable
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: -1033127168
+    m_ParentId: -1846177024
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.Button
+    m_Classes:
+    - button
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - remove
+    - text
+    - Remove
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: -1397191680
+    m_ParentId: -875199744
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.VisualElement
+    m_Classes:
+    - versionContainer
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - 
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: -841519360
+    m_ParentId: -1397191680
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.Label
+    m_Classes: []
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - detailVersion
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: -1219986432
+    m_ParentId: -1397191680
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.VisualElement
+    m_Classes:
+    - tagLine
+    - display-none
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - tag-inDevelopment
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: 693938432
+    m_ParentId: -1219986432
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.Label
+    m_Classes:
+    - tag
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - tag
+    - text
+    - in development
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: -131193344
+    m_ParentId: -1397191680
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.VisualElement
+    m_Classes:
+    - tagLine
+    - display-none
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - tag-local
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: 179201792
+    m_ParentId: -131193344
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.Label
+    m_Classes:
+    - tag
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - tag
+    - text
+    - local
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: 234094592
+    m_ParentId: -1397191680
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.VisualElement
+    m_Classes:
+    - tagLine
+    - display-none
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - tag-preview
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: -1242561280
+    m_ParentId: 234094592
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.Label
+    m_Classes:
+    - tag
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - tag
+    - text
+    - preview
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: 1591470592
+    m_ParentId: -1397191680
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.VisualElement
+    m_Classes:
+    - tagLine
+    - display-none
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - tag-verified
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: -594932992
+    m_ParentId: 1591470592
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.Label
+    m_Classes:
+    - tag
+    - verified
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - tagVerify
+    - text
+    - verified
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: 763087360
+    m_ParentId: -875199744
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.VisualElement
+    m_Classes:
+    - display-none
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - detailCustomContainer
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: -2083995904
+    m_ParentId: -875199744
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.VisualElement
+    m_Classes:
+    - display-none
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - documentationContainer
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: 1785190400
+    m_ParentId: -2083995904
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.VisualElement
+    m_Classes: []
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - detailActions
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: 323363584
+    m_ParentId: 1785190400
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.Button
+    m_Classes:
+    - detailAction
+    - link
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - viewDocumentation
+    - text
+    - View documentation
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: -170708992
+    m_ParentId: 1785190400
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.VisualElement
+    m_Classes: []
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - changeLogContainer
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: 124709632
+    m_ParentId: -170708992
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.Label
+    m_Classes:
+    - detailActionSeparator
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - changelogSeparator
+    - text
+    - '-'
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: -1375922176
+    m_ParentId: -170708992
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.Button
+    m_Classes:
+    - detailAction
+    - link
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - viewChangelog
+    - text
+    - View changelog
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: 1260508416
+    m_ParentId: 1785190400
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.VisualElement
+    m_Classes: []
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - viewLicensesContainer
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: 1875048448
+    m_ParentId: 1260508416
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.Label
+    m_Classes:
+    - detailActionSeparator
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - thirdPartySeparator
+    - text
+    - '-'
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: -984115968
+    m_ParentId: 1260508416
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.Button
+    m_Classes:
+    - link
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - viewLicenses
+    - text
+    - View licenses
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: 990652928
+    m_ParentId: -875199744
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.Label
+    m_Classes: []
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - detailName
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: -1852760320
+    m_ParentId: -875199744
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.Label
+    m_Classes: []
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - detailAuthor
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: -932839424
+    m_ParentId: -875199744
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.Label
+    m_Classes: []
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - detailModuleReference
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: 787805440
+    m_ParentId: -875199744
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.Label
+    m_Classes: []
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - detailDesc
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: 1338630656
+    m_ParentId: -1365409536
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEditor.PackageManager.UI.Alert
+    m_Classes:
+    - display-none
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - detailError
+    - text
+    - 
+    - picking-mode
+    - Position
+  m_TemplateAssets: []
+  m_Slots: []
+  m_ContentContainerId: 0

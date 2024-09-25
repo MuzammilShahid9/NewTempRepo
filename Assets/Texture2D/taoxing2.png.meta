@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: e70c4a7f82e382249bef820537d0abf7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: taoxing2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 140
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: taoxing2
+      rect:
+        serializedVersion: 2
+        x: 14.06638
+        y: 0
+        width: 122.8907
+        height: 140
+      alignment: 9
+      pivot: {x: 0.4551493, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.51174, y: -70}
+        - {x: -61.51174, y: -61}
+        - {x: -61.51174, y: 61}
+        - {x: -38.51174, y: 70}
+        - {x: 27.48826, y: 70}
+        - {x: 61.48826, y: 52}
+        - {x: 61.48826, y: -61}
+        - {x: 42.48826, y: -70}
+      physicsShape:
+      - - {x: 50.48826, y: -15}
+        - {x: 56.48826, y: -3}
+        - {x: 56.48826, y: 5}
+        - {x: 35.48826, y: 38}
+        - {x: 14.48826, y: 58}
+        - {x: 5.488262, y: 64}
+        - {x: -4.511738, y: 69}
+        - {x: -31.51174, y: 69}
+        - {x: -44.51174, y: 63}
+        - {x: -52.51174, y: 54}
+        - {x: -58.51173, y: 41}
+        - {x: -58.51173, y: 18}
+        - {x: -51.51173, y: 6}
+        - {x: -58.51173, y: -19}
+        - {x: -58.51173, y: -48}
+        - {x: -42.51174, y: -66}
+        - {x: -29.51174, y: -69}
+        - {x: -7.511738, y: -69}
+        - {x: 4.488261, y: -66}
+        - {x: 15.48826, y: -58}
+        - {x: 30.48826, y: -43}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e2275897e94a59b06b4a71effd744c
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      taoxing2: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

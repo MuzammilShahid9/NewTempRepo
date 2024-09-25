@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 7be677608527399489a85e51ccfc9107
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: xieti_zuo_Z
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: xieti_zuo_Z
+      rect:
+        serializedVersion: 2
+        x: 57.04291
+        y: 56.02675
+        width: 75.88097
+        height: 95.89713
+      alignment: 9
+      pivot: {x: 0.9351106, y: 0.328198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.98339, y: -47.97532}
+        - {x: -37.98339, y: -34.97532}
+        - {x: -37.98339, y: 13.02468}
+        - {x: -9.983391, y: 48.02468}
+        - {x: 23.01661, y: 48.02468}
+        - {x: 38.01661, y: 32.02468}
+        - {x: 38.01661, y: -24.97532}
+        - {x: 26.01661, y: -47.97532}
+      physicsShape:
+      - - {x: 37.01661, y: 8.024681}
+        - {x: 20.01661, y: 45.02468}
+        - {x: 18.01661, y: 47.02468}
+        - {x: 3.016611, y: 47.02468}
+        - {x: 0.01660919, y: 45.02468}
+        - {x: -23.98339, y: 31.02468}
+        - {x: -30.98339, y: 17.02468}
+        - {x: -35.98339, y: 8.024681}
+        - {x: -36.98339, y: 1.024683}
+        - {x: -36.98339, y: -23.97532}
+        - {x: -31.98339, y: -38.97532}
+        - {x: -21.98339, y: -47.97532}
+        - {x: -9.983387, y: -47.97532}
+        - {x: 29.01661, y: -30.97532}
+        - {x: 30.01661, y: -22.97532}
+        - {x: 26.01661, y: -4.975318}
+        - {x: 37.01661, y: 4.024683}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb99e07943148c9acc38b17104075ec
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      xieti_zuo_Z: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

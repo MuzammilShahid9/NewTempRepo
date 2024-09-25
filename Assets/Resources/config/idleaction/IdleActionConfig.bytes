@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IdleActionConfig>
+  <Action1 StartTask="0-0" EndTask="1-2" RoleType="Alice">
+    <Step1 Time="-1">
+      <Role>
+        <Alice Anim="Cough" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Conversation Content="idle_bubble1_1|Alice" />
+    </Step2>
+  </Action1>
+  <Action2 StartTask="7-15" EndTask="7-15" RoleType="Alice">
+    <Step1 Time="-1">
+      <Role>
+        <Alice Anim="Cough" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Conversation Content="idle_bubble1_1|Alice" />
+    </Step2>
+  </Action2>
+  <Action3 StartTask="2-1" EndTask="3-3" RoleType="Alice">
+    <Step1 Time="-1">
+      <Role>
+        <Alice Anim="W(-3.1, -1.3, -13.1)(0.0, 1.0, 0.0, 0.1);LookAround" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Conversation Content="idle_bubble2_1,idle_bubble2_2|Alice" />
+    </Step2>
+  </Action3>
+  <Action4 StartTask="2-1" EndTask="3-10" RoleType="Alice">
+    <Step1 Time="-1">
+      <Role>
+        <Alice Anim="W(-3.2, -1.3, -12.0)(0.0, -0.1, 0.0, 1.0)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Role>
+        <Alice Anim="LookUp" />
+      </Role>
+      <Conversation Content="idle_bubble3_1,idle_bubble3_2|Alice" />
+    </Step2>
+  </Action4>
+  <Action5 StartTask="4-3" EndTask="4-18" RoleType="Alice">
+    <Step1 Time="-1">
+      <Role>
+        <Alice Anim="W(-3.2, -1.3, -12.0)(0.0, -0.1, 0.0, 1.0)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Role>
+        <Alice Anim="LookUp" />
+      </Role>
+      <Conversation Content="idle_bubble3_1,idle_bubble3_2|Alice" />
+    </Step2>
+  </Action5>
+  <Action6 StartTask="7-3" EndTask="100-1" RoleType="Alice">
+    <Step1 Time="-1">
+      <Role>
+        <Alice Anim="W(-3.2, -1.3, -12.0)(0.0, -0.1, 0.0, 1.0)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Role>
+        <Alice Anim="LookUp" />
+      </Role>
+      <Conversation Content="idle_bubble3_1,idle_bubble3_2|Alice" />
+    </Step2>
+  </Action6>
+  <Action7 StartTask="2-8" EndTask="3-10" RoleType="Alice">
+    <Step1 Time="-1">
+      <Role>
+        <Alice Anim="W(-8.6, -1.3, -11.6)(0.0, -0.2, 0.0, 1.0)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Role>
+        <Alice Anim="Talk" />
+      </Role>
+      <Conversation Content="idle_bubble4_1|Alice" />
+    </Step2>
+  </Action7>
+  <Action8 StartTask="4-3" EndTask="4-18" RoleType="Alice">
+    <Step1 Time="-1">
+      <Role>
+        <Alice Anim="W(-8.6, -1.3, -11.6)(0.0, -0.2, 0.0, 1.0)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Role>
+        <Alice Anim="Talk" />
+      </Role>
+      <Conversation Content="idle_bubble4_1|Alice" />
+    </Step2>
+  </Action8>
+  <Action9 StartTask="7-3" EndTask="100-1" RoleType="Alice">
+    <Step1 Time="-1">
+      <Role>
+        <Alice Anim="W(-8.6, -1.3, -11.6)(0.0, -0.2, 0.0, 1.0)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Role>
+        <Alice Anim="Talk" />
+      </Role>
+      <Conversation Content="idle_bubble4_1|Alice" />
+    </Step2>
+  </Action9>
+  <Action10 StartTask="1-3" EndTask="1-4" RoleType="Alice">
+    <Step1 Time="-1">
+      <Role>
+        <Alice Anim="W(6.2, 0.2, -2.1)(0.0, -0.1, 0.0, -1.0)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Role>
+        <Alice Anim="Think" />
+      </Role>
+      <Conversation Content="idle_bubble5_1|Alice" />
+    </Step2>
+  </Action10>
+  <Action11 StartTask="1-3" EndTask="1-7" RoleType="Alice">
+    <Step1 Time="-1">
+      <Role>
+        <Alice Anim="W(3.8, 0.2, -2.3)(0.0, -0.7, 0.0, 0.7)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Role>
+        <Alice Anim="Cough" />
+      </Role>
+      <Conversation Content="idle_bubble6_1|Alice" />
+    </Step2>
+  </Action11>
+  <Action12 StartTask="4-1" EndTask="4-2" RoleType="Alice">
+    <Step1 Time="-1">
+      <Role>
+        <Alice Anim="W(3.8, 0.2, -2.3)(0.0, -0.7, 0.0, 0.7)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Role>
+        <Alice Anim="Cough" />
+      </Role>
+      <Conversation Content="idle_bubble6_1|Alice" />
+    </Step2>
+  </Action12>
+  <Action13 StartTask="4-20" EndTask="5-4" RoleType="Alice">
+    <Step1 Time="-1">
+      <Role>
+        <Alice Anim="W(3.8, 0.2, -2.3)(0.0, -0.7, 0.0, 0.7)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Role>
+        <Alice Anim="Cough" />
+      </Role>
+      <Conversation Content="idle_bubble6_1|Alice" />
+    </Step2>
+  </Action13>
+  <Action14 StartTask="7-15" EndTask="8-10" RoleType="Alice">
+    <Step1 Time="-1">
+      <Role>
+        <Alice Anim="W(-15.8, -1.3, -12.6)(0.0, -0.1, 0.0, -1.0)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Role>
+        <Alice Anim="Cough" />
+      </Role>
+      <Conversation Content="idle_bubble6_1|Alice" />
+    </Step2>
+  </Action14>
+  <Action15 StartTask="1-3" EndTask="1-7" RoleType="Alice">
+    <Step1 Time="-1">
+      <Role>
+        <Alice Anim="W(6.2, 0.2, -2.1)(0.0, -0.1, 0.0, -1.0)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Role>
+        <Alice Anim="Think" />
+      </Role>
+      <Conversation Content="idle_bubble7_1|Alice" />
+    </Step2>
+  </Action15>
+  <Action16 StartTask="4-1" EndTask="4-2" RoleType="Alice">
+    <Step1 Time="-1">
+      <Role>
+        <Alice Anim="W(6.2, 0.2, -2.1)(0.0, -0.1, 0.0, -1.0)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Role>
+        <Alice Anim="Think" />
+      </Role>
+      <Conversation Content="idle_bubble7_1|Alice" />
+    </Step2>
+  </Action16>
+  <Action17 StartTask="4-20" EndTask="5-10" RoleType="Alice">
+    <Step1 Time="-1">
+      <Role>
+        <Alice Anim="W(6.2, 0.2, -2.1)(0.0, -0.1, 0.0, -1.0)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Role>
+        <Alice Anim="Think" />
+      </Role>
+      <Conversation Content="idle_bubble7_1|Alice" />
+    </Step2>
+  </Action17>
+  <Action18 StartTask="5-14" EndTask="6-16" RoleType="Alice">
+    <Step1 Time="-1">
+      <Role>
+        <Alice Anim="W(3.6, 0.2, -0.1)(0.0, 0.4, 0.0, -0.9)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Conversation Content="idle_bubble8_1|Alice" />
+    </Step2>
+  </Action18>
+  <Action19 StartTask="7-3" EndTask="100-1" RoleType="Alice">
+    <Step1 Time="-1">
+      <Role>
+        <Alice Anim="W(3.6, 0.2, -0.1)(0.0, 0.4, 0.0, -0.9)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Conversation Content="idle_bubble8_1|Alice" />
+    </Step2>
+  </Action19>
+  <Action20 StartTask="7-3" EndTask="7-13" RoleType="Alice">
+    <Step1 Time="-1">
+      <Role>
+        <Alice Anim="W(10.7, -1.3, -22.8)(0.0, -0.8, 0.0, -0.6)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Role>
+        <Alice Anim="LookAround" />
+      </Role>
+      <Conversation Content="idle_bubble9_1|Alice" />
+    </Step2>
+  </Action20>
+  <Action21 StartTask="7-3" EndTask="7-7" RoleType="Alice">
+    <Step1 Time="-1">
+      <Role>
+        <Alice Anim="W(3.7, -1.3, -21.9)(0.0, -0.7, 0.0, 0.8)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Conversation Content="idle_bubble18_1|Alice" />
+    </Step2>
+  </Action21>
+  <Action22 StartTask="9-10" EndTask="9-13" RoleType="Alice">
+    <Step1 Time="-1">
+      <Role>
+        <Alice Anim="W(6.1, -1.3, -20.4)(0.0, -1.0, 0.0, 0.0);SitDown" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Conversation Content="idle_bubble19_1|Alice" />
+    </Step2>
+    <Step3 Time="-1">
+      <Role>
+        <Alice Anim="StandUp" />
+      </Role>
+    </Step3>
+  </Action22>
+  <Action23 StartTask="9-15" EndTask="100-1" RoleType="Alice">
+    <Step1 Time="-1">
+      <Role>
+        <Alice Anim="W(6.1, -1.3, -20.4)(0.0, -1.0, 0.0, 0.0);SitDown" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Conversation Content="idle_bubble19_1|Alice" />
+    </Step2>
+    <Step3 Time="-1">
+      <Role>
+        <Alice Anim="StandUp" />
+      </Role>
+    </Step3>
+  </Action23>
+  <Action24 StartTask="7-15" EndTask="100-1" RoleType="Alice">
+    <Step1 Time="-1">
+      <Role>
+        <Alice Anim="W(-19.3, -1.3, -14.4)(0.0, -0.7, 0.0, 0.8)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Conversation Content="idle_bubble21_1|Alice" />
+    </Step2>
+  </Action24>
+  <Action25 StartTask="9-9" EndTask="100-1" RoleType="Alice">
+    <Step1 Time="-1">
+      <Role>
+        <Alice Anim="W(-17.1, -1.3, -11.5)(0.0, -0.8, 0.0, -0.7);SitDown" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Conversation Content="idle_bubble22_1|Alice" />
+    </Step2>
+    <Step3 Time="-1">
+      <Role>
+        <Alice Anim="StandUp" />
+      </Role>
+    </Step3>
+  </Action25>
+  <Action26 StartTask="8-17" EndTask="100-1" RoleType="Alice">
+    <Step1 Time="-1">
+      <Role>
+        <Alice Anim="W(-18.2, -1.3, -15.2)(0.0, -0.9, 0.0, -0.5)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Role>
+        <Alice Anim="Happy" />
+      </Role>
+      <Conversation Content="idle_bubble23_1|Alice;idle_bubble23_2|Alice" />
+    </Step2>
+  </Action26>
+  <Action27 StartTask="7-15" EndTask="100-1" RoleType="Alice">
+    <Step1 Time="-1">
+      <Role>
+        <Alice Anim="W(-18.2, -1.3, -15.2)(0.0, -0.9, 0.0, -0.5)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Role>
+        <Alice Anim="Think" />
+      </Role>
+      <Conversation Content="idle_bubble24_1|Alice" />
+    </Step2>
+  </Action27>
+  <Action28 StartTask="1-7" EndTask="1-7" RoleType="John">
+    <Step1 Time="-1">
+      <Role>
+        <John Anim="W(-4.2, -1.3, -13.0)(0.0, 0.9, 0.0, 0.5)" />
+      </Role>
+    </Step1>
+  </Action28>
+  <Action29 StartTask="4-14" EndTask="6-17" RoleType="John">
+    <Step1 Time="-1">
+      <Role>
+        <John Anim="W(-8.6, -1.3, -17.8)(0.0, -0.7, 0.0, 0.7)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Role>
+        <John Anim="Talk" />
+      </Role>
+      <Conversation Content="idle_bubble10_1|John" />
+    </Step2>
+  </Action29>
+  <Action30 StartTask="4-1" EndTask="6-17" RoleType="John">
+    <Step1 Time="-1">
+      <Role>
+        <John Anim="W(0.6, -1.3, -14.2)(0.0, -1.0, 0.0, 0.0)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Conversation Content="idle_bubble11_1|John" />
+    </Step2>
+  </Action30>
+  <Action31 StartTask="4-1" EndTask="6-17" RoleType="John">
+    <Step1 Time="-1">
+      <Role>
+        <John Anim="W(-7.7, -1.3, -13.7)(0.0, -1.0, 0.0, -0.3)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Conversation Content="idle_bubble11_1|John" />
+    </Step2>
+  </Action31>
+  <Action32 StartTask="5-17" EndTask="6-17" RoleType="John">
+    <Step1 Time="-1">
+      <Role>
+        <John Anim="W(0.6, -1.3, -14.2)(0.0, -1.0, 0.0, 0.0)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Conversation Content="idle_bubble11_1|John" />
+    </Step2>
+  </Action32>
+  <Action33 StartTask="5-17" EndTask="6-17" RoleType="John">
+    <Step1 Time="-1">
+      <Role>
+        <John Anim="W(-7.7, -1.3, -13.7)(0.0, -1.0, 0.0, -0.3)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Conversation Content="idle_bubble11_1|John" />
+    </Step2>
+  </Action33>
+  <Action34 StartTask="4-1" EndTask="100-1" RoleType="John">
+    <Step1 Time="-1">
+      <Conversation Content="idle_bubble12_1|John" />
+    </Step1>
+    <Step2 Time="-1">
+      <Role>
+        <John Anim="W(-3.4, -1.3, -9.2)(0.0, -0.1, 0.0, 1.0)" />
+      </Role>
+    </Step2>
+    <Step3 Time="-1">
+      <Delay DelayTime="90" />
+    </Step3>
+  </Action34>
+  <Action35 StartTask="4-20" EndTask="6-17" RoleType="John">
+    <Step1 Time="-1">
+      <Role>
+        <John Anim="W(5.6, -1.3, -22.8)(0.0, 0.8, 0.0, 0.7)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Conversation Content="idle_bubble13_1|John" />
+    </Step2>
+  </Action35>
+  <Action36 StartTask="7-3" EndTask="7-5" RoleType="John">
+    <Step1 Time="-1">
+      <Role>
+        <John Anim="W(5.6, -1.3, -22.8)(0.0, 0.8, 0.0, 0.7)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Conversation Content="idle_bubble13_1|John" />
+    </Step2>
+  </Action36>
+  <Action37 StartTask="7-6" EndTask="100-1" RoleType="John">
+    <Step1 Time="-1">
+      <Role>
+        <John Anim="W(5.1, -1.3, -22.3)(0.0, 0.8, 0.0, 0.6)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Conversation Content="idle_bubble25_1|John" />
+    </Step2>
+  </Action37>
+  <Action38 StartTask="4-2" EndTask="100-1" RoleType="Cat">
+    <Step1 Time="-1">
+      <Role>
+        <Cat Anim="W(7.8, 0.2, -2.0)(0.0, -0.2, 0.0, 1.0)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Role>
+        <Cat Anim="Rub" />
+      </Role>
+    </Step2>
+  </Action38>
+  <Action39 StartTask="4-2" EndTask="100-1" RoleType="Cat">
+    <Step1 Time="-1">
+      <Role>
+        <Cat Anim="W(-4.1, -1.3, -11.7)(0.0, -0.9, 0.0, 0.5)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Role>
+        <Cat Anim="Rub" />
+      </Role>
+    </Step2>
+  </Action39>
+  <Action40 StartTask="4-2" EndTask="100-1" RoleType="Cat">
+    <Step1 Time="-1">
+      <Role>
+        <Cat Anim="R(6.8, 0.2, -5.4)(0.0, -1.0, 0.0, -0.3);Circle;Circle" />
+      </Role>
+    </Step1>
+  </Action40>
+  <Action41 StartTask="4-2" EndTask="100-1" RoleType="Cat">
+    <Step1 Time="-1">
+      <Role>
+        <Cat Anim="R(-9.0, -1.3, -12.4)(0.0, 0.3, 0.0, -1.0);Circle;Circle" />
+      </Role>
+    </Step1>
+  </Action41>
+  <Action42 StartTask="4-2" EndTask="100-1" RoleType="Cat">
+    <Step1 Time="-1">
+      <Role>
+        <Cat Anim="R(6.9, -1.3, -24.6)(0.0, -0.5, 0.0, -0.8);Circle;Circle" />
+      </Role>
+    </Step1>
+  </Action42>
+  <Action43 StartTask="4-2" EndTask="100-1" RoleType="Cat">
+    <Step1 Time="-1">
+      <Role>
+        <Cat Anim="W(7.1, 0.2, -1.1)(0.0, -0.2, 0.0, -1.0);GotoBed" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Delay DelayTime="90" />
+    </Step2>
+    <Step3 Time="-1">
+      <Role>
+        <Cat Anim="GetUp;W(7.7, 0.2, -2.1)(0.0, -1.0, 0.0, -0.1)" />
+      </Role>
+    </Step3>
+  </Action43>
+  <Action44 StartTask="6-1" EndTask="6-16" RoleType="Tina">
+    <Step1 Time="-1">
+      <Role>
+        <Tina Anim="W(6.1, 0.2, -3.8)(0.0, 0.6, 0.0, -0.8)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Conversation Content="idle_bubble14_1|Tina" />
+    </Step2>
+  </Action44>
+  <Action45 StartTask="6-3" EndTask="6-16" RoleType="Tina">
+    <Step1 Time="-1">
+      <Role>
+        <Tina Anim="W(7.3, 0.2, -3.7)(0.0, -1.0, 0.0, -0.2)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Role>
+        <Tina Anim="Talk" />
+      </Role>
+      <Conversation Content="idle_bubble15_1|Tina" />
+    </Step2>
+  </Action45>
+  <Action46 StartTask="6-3" EndTask="6-16" RoleType="Tina">
+    <Step1 Time="-1">
+      <Role>
+        <Tina Anim="W(8.7, 0.2, -1.5)(0.0, -0.1, 0.0, -1.0)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Role>
+        <Tina Anim="Talk" />
+      </Role>
+      <Conversation Content="idle_bubble15_1|Tina" />
+    </Step2>
+  </Action46>
+  <Action47 StartTask="6-18" EndTask="100-1" RoleType="Tina">
+    <Step1 Time="-1">
+      <Role>
+        <Tina Anim="W(7.3, 0.2, -3.7)(0.0, -1.0, 0.0, -0.2)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Role>
+        <Tina Anim="Talk" />
+      </Role>
+      <Conversation Content="idle_bubble15_1|Tina" />
+    </Step2>
+  </Action47>
+  <Action48 StartTask="6-18" EndTask="100-1" RoleType="Tina">
+    <Step1 Time="-1">
+      <Role>
+        <Tina Anim="W(8.7, 0.2, -1.5)(0.0, -0.1, 0.0, -1.0)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Role>
+        <Tina Anim="Talk" />
+      </Role>
+      <Conversation Content="idle_bubble15_1|Tina" />
+    </Step2>
+  </Action48>
+  <Action49 StartTask="6-18" EndTask="100-1" RoleType="Tina">
+    <Step1 Time="-1">
+      <Role>
+        <Tina Anim="W(-3.4, -1.3, -8.1)(0.0, 0.0, 0.0, -1.0)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Delay DelayTime="90" />
+    </Step2>
+  </Action49>
+  <Action50 StartTask="7-15" EndTask="100-1" RoleType="Tina">
+    <Step1 Time="-1">
+      <Role>
+        <Tina Anim="W(-0.5, -1.3, -16.8)(0.0, 0.7, 0.0, 0.7)" />
+      </Role>
+    </Step1>
+    <Step2 Time="-1">
+      <Role>
+        <Tina Anim="Talk" />
+      </Role>
+      <Conversation Content="idle_bubble26_1,idle_bubble26_2|Tina" />
+    </Step2>
+  </Action50>
+</IdleActionConfig>

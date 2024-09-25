@@ -1,0 +1,247 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &687078895
+SpriteAtlas:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DiningRoom
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300002, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300004, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300006, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300008, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300010, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300012, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300014, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300016, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300018, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300020, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300022, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300024, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300026, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300028, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300030, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300032, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300034, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300036, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300038, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300040, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300042, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300044, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300046, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300048, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300050, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300052, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300054, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300056, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300058, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300060, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300062, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300064, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300066, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300068, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300070, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300072, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300074, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300076, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300078, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300080, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300082, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300084, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300086, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300088, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300090, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300092, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300094, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300096, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300098, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300100, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300102, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300104, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300106, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300108, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300110, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300112, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300114, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300116, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300118, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300120, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300122, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300124, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300126, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300128, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300130, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300132, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300134, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300136, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    - {fileID: 21300138, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300002, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300004, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300006, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300008, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300010, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300012, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300014, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300016, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300018, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300020, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300022, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300024, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300026, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300028, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300030, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300032, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300034, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300036, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300038, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300040, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300042, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300044, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300046, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300048, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300050, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300052, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300054, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300056, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300058, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300060, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300062, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300064, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300066, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300068, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300070, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300072, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300074, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300076, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300078, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300080, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300082, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300084, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300086, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300088, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300090, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300092, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300094, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300096, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300098, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300100, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300102, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300104, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300106, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300108, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300110, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300112, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300114, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300116, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300118, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300120, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300122, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300124, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300126, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300128, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300130, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300132, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300134, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300136, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  - {fileID: 21300138, guid: c6fe078fc2f3fc84a8e01c54cfd29491, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - hu
+  - candle
+  - diningroom_fireplace_screen
+  - shiwu
+  - hua
+  - diningroom_chairA_1
+  - diningroom_sofaB_2
+  - guizi
+  - diningroom_armchairA_2
+  - guoqie
+  - canju_1
+  - diningroom_lograck_2M
+  - bange
+  - jiuping_green
+  - diningroom_diningcar_2
+  - ping
+  - diningroom_diningcar_1
+  - bread
+  - huiguanzi
+  - diningroom_armchairA_1
+  - diningroom_armchairA_3
+  - diningroom_sofaA_1
+  - diningroom_armchairB_1
+  - diningroom_sofaB_1
+  - diningroom_chairB_1
+  - diningroom_chairA_3
+  - diningroom_chairB_2
+  - diningroom_sofaA_3
+  - diningroom_dinnertable_2
+  - diningroom_lograck_2
+  - diningroom_dinnertable_1
+  - shuipen
+  - diningroom_dinnertable_3
+  - cup_alone
+  - diningroom_sofaA_2
+  - diningroom_bigcarpet_2
+  - guajian
+  - hongguanzi
+  - diningroom_bigcarpet_1
+  - dinner_table
+  - canju_2
+  - diningroom_lograck_3M
+  - panzi
+  - guopan
+  - diningroom_chairB_3
+  - jiupin_black
+  - diningroom_smallcarpet_1
+  - diningroom_armchairB_3
+  - bei
+  - Stand
+  - diningroom_lograck_1
+  - diningroom_armchairB_2
+  - diningroom_lograck_1M
+  - beizi
+  - zhuobu
+  - diningroom_sofaB_3
+  - diningroom_fireplace
+  - diningroom_bigcarpet_3
+  - xiaoguanzi
+  - diningroom_lograck_3
+  - dihu
+  - diningroom_diningcar_3
+  - chufanggui
+  - diningroom_smallcarpet_2
+  - zuishangceng
+  - diningroom_chairA_2
+  - xiaohuiguan
+  - kitchen_hearth
+  - guo
+  - diningroom_smallcarpet_3
+  m_Tag: DiningRoom
+  m_IsVariant: 0

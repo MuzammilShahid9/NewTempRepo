@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 099ddf9a674593542ad066a8335610cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: gaizi_lingjie_tou
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 212
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.4395097, y: 0.5308443}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gaizi_lingjie_tou
+      rect:
+        serializedVersion: 2
+        x: 68.07612
+        y: 77.04291
+        width: 63.87257
+        height: 57.94418
+      alignment: 9
+      pivot: {x: 0.3929691, y: 0.374397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.987597, y: 22.985}
+        - {x: 5.987598, y: 24.985}
+        - {x: 5.987598, y: 27.985}
+        - {x: 8.987598, y: 28.985}
+        - {x: 10.9876, y: 26.985}
+        - {x: 10.9876, y: 23.985}
+      - - {x: -17.0124, y: -29.015}
+        - {x: -32.0124, y: -8.014999}
+        - {x: -32.0124, y: 9.985001}
+        - {x: -26.0124, y: 19.985}
+        - {x: -17.0124, y: 22.985}
+        - {x: 7.987597, y: 22.985}
+        - {x: 13.9876, y: 22.985}
+        - {x: 31.9876, y: 1.985001}
+        - {x: 31.9876, y: -20.015}
+        - {x: 19.9876, y: -29.015}
+      physicsShape:
+      - - {x: -18.0124, y: 16.985}
+        - {x: -28.0124, y: 2.985001}
+        - {x: -28.0124, y: -13.015}
+        - {x: -23.0124, y: -17.015}
+        - {x: -10.0124, y: -27.015}
+        - {x: 13.9876, y: -27.015}
+        - {x: 23.9876, y: -20.015}
+        - {x: 23.9876, y: 5.985}
+        - {x: 8.987598, y: 16.985}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a60c048e3f414db7630d3b018d2a85
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gaizi_lingjie_tou: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

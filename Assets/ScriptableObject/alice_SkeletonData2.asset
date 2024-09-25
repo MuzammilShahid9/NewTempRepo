@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d9b1649175c4a940a2514b6a81472ee, type: 3}
+  m_Name: alice_SkeletonData2
+  m_EditorClassIdentifier:
+  atlasAssets:
+  - {fileID: 11400000, guid: a021168ef842034408e77578df94374c, type: 2}
+  scale: 1
+  skeletonJSON: {fileID: 4900000, guid: 4f0fe8ccfb5367440ab65fd290236654, type: 3}
+  skeletonDataModifiers: []
+  fromAnimation: []
+  toAnimation: []
+  duration: []
+  defaultMix: 0
+  controller: {fileID: 0}

@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: b839bec2c6c6b004db73757e899b42cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: gaizi_lingjie_zuodai
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 212
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.4777142, y: 0.480042}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gaizi_lingjie_zuodai
+      rect:
+        serializedVersion: 2
+        x: 10.07612
+        y: 20.01291
+        width: 105.8954
+        height: 82.91096
+      alignment: 9
+      pivot: {x: 0.8612203, y: 0.8355337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.97617, y: 14.53161}
+        - {x: 37.97617, y: -14.46839}
+        - {x: 34.97617, y: -23.46839}
+        - {x: 32.97617, y: -24.46839}
+        - {x: 23.97617, y: -41.46839}
+        - {x: -50.02383, y: -41.46839}
+        - {x: -53.02383, y: -26.46839}
+        - {x: -53.02383, y: -3.46839}
+        - {x: -51.02383, y: 0.5316086}
+        - {x: -37.02383, y: 9.531609}
+        - {x: -30.02383, y: 20.53161}
+        - {x: 5.976173, y: 41.53161}
+        - {x: 25.97617, y: 41.53161}
+        - {x: 40.97617, y: 39.53161}
+        - {x: 52.97617, y: 31.53161}
+      physicsShape:
+      - - {x: 47.97617, y: 32.53161}
+        - {x: 37.97617, y: 38.53161}
+        - {x: 14.97617, y: 38.53161}
+        - {x: 5.976173, y: 37.53161}
+        - {x: -15.02382, y: 27.53161}
+        - {x: -22.02383, y: 23.53161}
+        - {x: -36.02383, y: 9.531609}
+        - {x: -52.02383, y: -12.46839}
+        - {x: -52.02383, y: -16.46839}
+        - {x: -34.02382, y: -39.46839}
+        - {x: -23.02383, y: -39.46839}
+        - {x: -13.02383, y: -36.46839}
+        - {x: 8.976175, y: -13.46839}
+        - {x: 22.97617, y: 9.531609}
+        - {x: 47.97617, y: 20.53161}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641fc855cdea475d87f95230facd5041
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gaizi_lingjie_zuodai: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

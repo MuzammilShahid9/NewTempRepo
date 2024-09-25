@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 872b5188641e19c46ac0edd1d099e670
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: huangchuang_3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 128
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: huangchuang_3
+      rect:
+        serializedVersion: 2
+        x: 9.07612
+        y: 9.004041
+        width: 109.8478
+        height: 101.9866
+      alignment: 9
+      pivot: {x: 0.4908965, y: 0.5392471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: -50.99732}
+        - {x: -55, y: -2.997322}
+        - {x: -55, y: 51.00268}
+        - {x: 7, y: 51.00268}
+        - {x: 55, y: 13.00268}
+        - {x: 55, y: -39.99732}
+        - {x: 53, y: -48.99732}
+        - {x: 50, y: -50.99732}
+      physicsShape:
+      - - {x: 55, y: 2.002678}
+        - {x: 43, y: 7.002678}
+        - {x: 22, y: 11.00268}
+        - {x: 25, y: 20.00268}
+        - {x: 11, y: 34.00268}
+        - {x: -14, y: 43.00268}
+        - {x: -24, y: 35.00268}
+        - {x: -38, y: 41.00268}
+        - {x: -37, y: 46.00268}
+        - {x: -42, y: 50.00267}
+        - {x: -49, y: 50.00267}
+        - {x: -55, y: 47.00267}
+        - {x: -55, y: 0.002677917}
+        - {x: -50, y: -1.997322}
+        - {x: 46, y: -49.99732}
+        - {x: 50, y: -49.99732}
+        - {x: 51, y: -46.99732}
+        - {x: 53, y: -20.99732}
+        - {x: 55, y: -11.99732}
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa58ce6712e403686454f809a956b85
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      huangchuang_3: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

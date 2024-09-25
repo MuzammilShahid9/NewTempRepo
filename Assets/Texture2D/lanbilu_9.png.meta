@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: b753a95ad5f311f4bad53e675e42566f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: lanbilu_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 133
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5397962, y: 0.7029669}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lanbilu_9
+      rect:
+        serializedVersion: 2
+        x: 6.07612
+        y: 62.02675
+        width: 110.8478
+        height: 56.9465
+      alignment: 9
+      pivot: {x: 0.5392894, y: 0.552586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: -28.5}
+        - {x: -55.5, y: -19.5}
+        - {x: -55.5, y: -10.5}
+        - {x: 27.5, y: 28.5}
+        - {x: 36.5, y: 28.5}
+        - {x: 55.50001, y: 20.5}
+        - {x: 55.50001, y: 14.5}
+        - {x: 52.5, y: 9.499998}
+        - {x: -17.5, y: -28.5}
+      physicsShape:
+      - - {x: 24.5, y: 27.5}
+        - {x: -54.5, y: -9.500001}
+        - {x: -54.5, y: -15.5}
+        - {x: -35.5, y: -27.5}
+        - {x: -26.5, y: -27.5}
+        - {x: 52.5, y: 10.5}
+        - {x: 55.5, y: 14.5}
+        - {x: 55.5, y: 18.5}
+        - {x: 38.5, y: 27.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9f5e18212f40ccba97615476ae0e6e
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      lanbilu_9: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UICamera
+  - GuidMask
+  - Transition
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Objects
+  - Front
+  - Shell
+  - Plane
+  - BuLian
+  - Role
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 'Ground'
+    uniqueID: 3831138929
+    locked: 0
+  - name: Castle
+    uniqueID: 748370645
+    locked: 0
+  - name: Furnitures
+    uniqueID: 739016037
+    locked: 0
+  - name: UI
+    uniqueID: 1291060849
+    locked: 0

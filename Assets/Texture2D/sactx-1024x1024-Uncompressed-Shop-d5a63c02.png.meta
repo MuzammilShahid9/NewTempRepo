@@ -1,0 +1,1776 @@
+fileFormatVersion: 2
+guid: f2903f482263ee341979375b765d6633
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: icon_sale_coins12kplus
+  - first:
+      213: 21300002
+    second: icon_best
+  - first:
+      213: 21300004
+    second: shaozi
+  - first:
+      213: 21300006
+    second: icon_shop_coins_sack
+  - first:
+      213: 21300008
+    second: icon_shop_coins_a
+  - first:
+      213: 21300010
+    second: icon_shop_pack_epic
+  - first:
+      213: 21300012
+    second: icon_shop_coins_chest
+  - first:
+      213: 21300014
+    second: changban
+  - first:
+      213: 21300016
+    second: chuizi
+  - first:
+      213: 21300018
+    second: huangguan
+  - first:
+      213: 21300020
+    second: duanban
+  - first:
+      213: 21300022
+    second: dandujinbi
+  - first:
+      213: 21300024
+    second: icon_shop_pack_super
+  - first:
+      213: 21300026
+    second: icon_shop_coins_box
+  - first:
+      213: 21300028
+    second: icon_sale_coins12k
+  - first:
+      213: 21300030
+    second: icon_shop_coins_pile
+  - first:
+      213: 21300032
+    second: shoutao
+  - first:
+      213: 21300034
+    second: icon_shop_pack_mini
+  - first:
+      213: 21300036
+    second: shangshen
+  - first:
+      213: 21300038
+    second: meihongdai
+  - first:
+      213: 21300040
+    second: icon_shop_coins_bag
+  - first:
+      213: 21300042
+    second: icon_shop_pack_major
+  - first:
+      213: 21300044
+    second: button_more
+  - first:
+      213: 21300046
+    second: icon_shop_pack_grand
+  - first:
+      213: 21300048
+    second: icon_shop_pack_minor
+  - first:
+      213: 21300050
+    second: icon_sale_coins5k
+  - first:
+      213: 21300052
+    second: icon_most
+  - first:
+      213: 21300054
+    second: zhadantong
+  - first:
+      213: 21300056
+    second: shuangmifeng
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: icon_sale_coins12kplus
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 314
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -152, y: -61}
+        - {x: -157, y: -59}
+        - {x: -157, y: -31}
+        - {x: -51, y: 76}
+        - {x: 60, y: 76}
+        - {x: 80, y: 66}
+        - {x: 157, y: -25}
+        - {x: 157, y: -64}
+        - {x: 156, y: -66}
+        - {x: 131, y: -76}
+        - {x: -104, y: -76}
+        - {x: -131, y: -62}
+        - {x: -147, y: -62}
+      physicsShape:
+      - - {x: -11, y: -72}
+        - {x: 42, y: -72}
+        - {x: 61, y: -65}
+        - {x: 70, y: -72}
+        - {x: 82, y: -72}
+        - {x: 94, y: -70}
+        - {x: 103, y: -72}
+        - {x: 117, y: -72}
+        - {x: 121, y: -64}
+        - {x: 121, y: -59}
+        - {x: 120, y: -56}
+        - {x: 118, y: -19}
+        - {x: 108, y: -11}
+        - {x: 91, y: -9.999999}
+        - {x: 91, y: -1}
+        - {x: 81, y: 6}
+        - {x: 65, y: 5}
+        - {x: 79, y: 22}
+        - {x: 82, y: 48}
+        - {x: 69, y: 66.99999}
+        - {x: 57, y: 72}
+        - {x: 24, y: 76}
+        - {x: -27, y: 76}
+        - {x: -30, y: 75}
+        - {x: -39, y: 71}
+        - {x: -48, y: 63}
+        - {x: -37, y: 36}
+        - {x: -49, y: 25}
+        - {x: -63, y: 23}
+        - {x: -76, y: 14}
+        - {x: -85.99999, y: 7}
+        - {x: -112, y: -1}
+        - {x: -121, y: -7}
+        - {x: -129, y: -26}
+        - {x: -138, y: -26}
+        - {x: -143, y: -29}
+        - {x: -156, y: -40}
+        - {x: -156, y: -50}
+        - {x: -147, y: -57}
+        - {x: -111, y: -62}
+        - {x: -94, y: -64}
+        - {x: -90, y: -70}
+        - {x: -83, y: -72}
+        - {x: -72, y: -72}
+        - {x: -62, y: -64}
+        - {x: -41, y: -57}
+        - {x: -28, y: -59}
+      - - {x: 128, y: -38}
+        - {x: 121, y: -40}
+        - {x: 121, y: -60}
+        - {x: 151, y: -60}
+        - {x: 155, y: -54}
+        - {x: 155, y: -43}
+        - {x: 151, y: -38}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750186a34cef4eb29660d23291cf0318
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_best
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 708
+        width: 96
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: -48}
+        - {x: -48, y: -42}
+        - {x: -48, y: 31}
+        - {x: -42, y: 49}
+        - {x: 43, y: 49}
+        - {x: 48, y: 26}
+        - {x: 48, y: -34}
+        - {x: 38, y: -49}
+        - {x: -36, y: -49}
+      physicsShape:
+      - - {x: 47, y: 20}
+        - {x: 30, y: 42}
+        - {x: 18, y: 44}
+        - {x: 9, y: 49}
+        - {x: -8, y: 49}
+        - {x: -28, y: 42}
+        - {x: -44, y: 22}
+        - {x: -47, y: 11}
+        - {x: -47, y: -14}
+        - {x: -41, y: -21}
+        - {x: -33, y: -33}
+        - {x: -24, y: -41}
+        - {x: -8, y: -46}
+        - {x: 8, y: -46}
+        - {x: 23, y: -41}
+        - {x: 33, y: -35}
+        - {x: 47, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab766c880eff429bb839b1bcfdd474e2
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shaozi
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 478
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -22}
+        - {x: -24, y: -12}
+        - {x: -24, y: 22}
+        - {x: 5, y: 22}
+        - {x: 24, y: 1}
+        - {x: 24, y: -22}
+      physicsShape:
+      - - {x: -20, y: 22}
+        - {x: -23, y: 19}
+        - {x: -24, y: 9.999999}
+        - {x: -24, y: 5}
+        - {x: -20, y: -2}
+        - {x: 3, y: -17}
+        - {x: 22, y: -17}
+        - {x: 22, y: -7}
+        - {x: 21, y: -5}
+        - {x: 3, y: 20}
+        - {x: -7, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303448a12b2b45dcaa32c07d13e1bd7a
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_shop_coins_sack
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 0
+        width: 120
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: -67}
+        - {x: -60, y: -67}
+        - {x: -60, y: 31}
+        - {x: -36, y: 67}
+        - {x: 31, y: 67}
+        - {x: 43, y: 54}
+        - {x: 51, y: 49}
+        - {x: 60, y: 31}
+      physicsShape:
+      - - {x: 56, y: 22}
+        - {x: 53, y: 36}
+        - {x: 47, y: 46}
+        - {x: 37, y: 53}
+        - {x: 26, y: 56}
+        - {x: 22, y: 65}
+        - {x: 16, y: 66}
+        - {x: 0, y: 66}
+        - {x: -5, y: 63}
+        - {x: -26, y: 54}
+        - {x: -40, y: 38}
+        - {x: -43, y: 33}
+        - {x: -39, y: 16}
+        - {x: -44, y: -1}
+        - {x: -54, y: -14}
+        - {x: -57, y: -20}
+        - {x: -57, y: -37}
+        - {x: -56, y: -43}
+        - {x: -48, y: -49}
+        - {x: -30, y: -60}
+        - {x: -23, y: -61}
+        - {x: -15, y: -61}
+        - {x: -5, y: -56}
+        - {x: -4, y: -46}
+        - {x: 31, y: -61}
+        - {x: 49, y: -61}
+        - {x: 56, y: -53}
+        - {x: 56, y: -27}
+        - {x: 52, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a3bf029ea040c0afbfa066018ac27d
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_shop_coins_a
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 814
+        width: 98
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: -43}
+        - {x: -49, y: -39}
+        - {x: -49, y: 25}
+        - {x: -41, y: 43}
+        - {x: 24, y: 43}
+        - {x: 49, y: 17}
+        - {x: 49, y: -33}
+        - {x: 45, y: -43}
+      physicsShape:
+      - - {x: 44, y: 2}
+        - {x: 30, y: 13}
+        - {x: 31, y: 29}
+        - {x: 13, y: 43}
+        - {x: -26, y: 43}
+        - {x: -36, y: 25}
+        - {x: -28, y: 8}
+        - {x: -45, y: -5}
+        - {x: -45, y: -18}
+        - {x: -40, y: -32}
+        - {x: -30, y: -39}
+        - {x: 31, y: -39}
+        - {x: 47, y: -24}
+        - {x: 47, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db96c69775d404cbbdca286bda039a4
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_shop_pack_epic
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 208
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: -83}
+        - {x: -104, y: -72}
+        - {x: -104, y: 1}
+        - {x: -103, y: 5}
+        - {x: -89, y: 49}
+        - {x: -66, y: 91}
+        - {x: -47, y: 106}
+        - {x: 58, y: 106}
+        - {x: 91, y: 91}
+        - {x: 96, y: 70}
+        - {x: 104, y: 20}
+        - {x: 104, y: -91}
+        - {x: 8, y: -106}
+        - {x: -56, y: -106}
+      physicsShape:
+      - - {x: 19, y: -93}
+        - {x: 49, y: -90}
+        - {x: 66, y: -85.99999}
+        - {x: 84, y: -89}
+        - {x: 97.99999, y: -79}
+        - {x: 97.99999, y: -66}
+        - {x: 91.99999, y: -53}
+        - {x: 96, y: -34}
+        - {x: 93, y: -14}
+        - {x: 98.99999, y: -9}
+        - {x: 98.99999, y: 2}
+        - {x: 84, y: 25}
+        - {x: 77, y: 30}
+        - {x: 85, y: 41}
+        - {x: 88, y: 58}
+        - {x: 85.99999, y: 75}
+        - {x: 74, y: 93}
+        - {x: 57, y: 100}
+        - {x: 41, y: 106}
+        - {x: 16, y: 106}
+        - {x: 6, y: 105}
+        - {x: -18, y: 106}
+        - {x: -34, y: 105}
+        - {x: -50, y: 97.99999}
+        - {x: -59, y: 91}
+        - {x: -60, y: 82}
+        - {x: -61, y: 68}
+        - {x: -76, y: 57}
+        - {x: -85.99999, y: 41}
+        - {x: -83, y: 31}
+        - {x: -72, y: 21}
+        - {x: -91.99999, y: 8}
+        - {x: -96, y: -3}
+        - {x: -93, y: -20}
+        - {x: -91, y: -35}
+        - {x: -97.99999, y: -46}
+        - {x: -97.99999, y: -70}
+        - {x: -90, y: -78}
+        - {x: -54, y: -85}
+        - {x: -54, y: -95}
+        - {x: -46, y: -101}
+        - {x: -24, y: -101}
+        - {x: -18, y: -96}
+        - {x: -7, y: -87}
+        - {x: 3, y: -96}
+      - - {x: -44, y: -77}
+        - {x: -43, y: -76}
+        - {x: -41, y: -76}
+        - {x: -40, y: -77}
+        - {x: -26, y: -78}
+        - {x: -25, y: -78}
+        - {x: -26, y: -77}
+        - {x: -29, y: -77}
+        - {x: -30, y: -76}
+        - {x: -40, y: -76}
+        - {x: -41, y: -77}
+        - {x: -44, y: -77}
+        - {x: -45, y: -78}
+        - {x: -44, y: -78}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0a37d5ec9d47e0a2f10dfab9c92a78
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_shop_coins_chest
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 338
+        width: 118
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: -66}
+        - {x: -59, y: -66}
+        - {x: -59, y: 38}
+        - {x: -41, y: 66}
+        - {x: 48, y: 66}
+        - {x: 59, y: 62}
+        - {x: 59, y: -54}
+      physicsShape:
+      - - {x: 17, y: -57}
+        - {x: 43, y: -51}
+        - {x: 53, y: -32}
+        - {x: 54, y: -20}
+        - {x: 50, y: 2}
+        - {x: 43, y: 6}
+        - {x: 51, y: 19}
+        - {x: 56, y: 26}
+        - {x: 56, y: 44}
+        - {x: 52, y: 52}
+        - {x: 41, y: 65}
+        - {x: 15, y: 65}
+        - {x: -17, y: 64}
+        - {x: -24, y: 62}
+        - {x: -33, y: 55}
+        - {x: -33, y: 48}
+        - {x: -28, y: 33}
+        - {x: -42, y: 24}
+        - {x: -56, y: -12}
+        - {x: -56, y: -46}
+        - {x: -48, y: -53}
+        - {x: -40, y: -51}
+        - {x: -25, y: -61}
+        - {x: -12, y: -61}
+        - {x: -2, y: -53}
+        - {x: 5, y: -58}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d418cf45167d43c79c41e5b4caeea379
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changban
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 760
+        width: 234
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 33, y: 34, z: 32, w: 29}
+      outline:
+      - - {x: -103, y: -56}
+        - {x: -117, y: -48}
+        - {x: -117, y: 44}
+        - {x: -108, y: 54}
+        - {x: -101, y: 56}
+        - {x: 101, y: 56}
+        - {x: 114, y: 47}
+        - {x: 117, y: 44}
+        - {x: 117, y: -50}
+        - {x: 103, y: -56}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5846a101dffc4849a472237b92f190f5
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuizi
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 198
+        width: 48
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -25}
+        - {x: -24, y: -13}
+        - {x: -24, y: 13}
+        - {x: -20, y: 25}
+        - {x: 17, y: 25}
+        - {x: 24, y: 23}
+        - {x: 24, y: -25}
+      physicsShape:
+      - - {x: 7, y: 25}
+        - {x: -5, y: 25}
+        - {x: -22, y: 9}
+        - {x: -23, y: 8}
+        - {x: -23, y: -2}
+        - {x: -11, y: -15}
+        - {x: 7, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 14}
+        - {x: 9.999999, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7b6d7f11a94f5597887998629ab011
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huangguan
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 312
+        width: 48
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: -21}
+        - {x: -24, y: -21}
+        - {x: -24, y: 21}
+        - {x: 21, y: 21}
+        - {x: 24, y: 17}
+        - {x: 24, y: -7}
+      physicsShape:
+      - - {x: 20, y: 16}
+        - {x: 13, y: 20}
+        - {x: 7, y: 21}
+        - {x: -17, y: 21}
+        - {x: -24, y: 15}
+        - {x: -24, y: 4}
+        - {x: -21, y: -13}
+        - {x: -12, y: -18}
+        - {x: 7, y: -18}
+        - {x: 15, y: -13}
+        - {x: 18, y: 6}
+        - {x: 20, y: 9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fff07b77f5491ebb57a15757b39a00
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duanban
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 880
+        width: 210
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 39, y: 39, z: 39, w: 32}
+      outline:
+      - - {x: 94, y: -53}
+        - {x: -105, y: -53}
+        - {x: -105, y: 51}
+        - {x: -101, y: 53}
+        - {x: 96, y: 53}
+        - {x: 105, y: 35}
+        - {x: 105, y: -38}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcad71bf157e4e648374911caa9c5ac2
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dandujinbi
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 256
+        width: 46
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -24}
+        - {x: -23, y: -15}
+        - {x: -23, y: 17}
+        - {x: -15, y: 24}
+        - {x: 22, y: 24}
+        - {x: 23, y: 19}
+        - {x: 23, y: -20}
+        - {x: 18, y: -23}
+        - {x: 16, y: -24}
+      physicsShape:
+      - - {x: 13, y: 24}
+        - {x: -11, y: 24}
+        - {x: -16, y: 23}
+        - {x: -23, y: 16}
+        - {x: -23, y: -9.999999}
+        - {x: -18, y: -21}
+        - {x: 13, y: -21}
+        - {x: 23, y: -11}
+        - {x: 23, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31f730c3ade4db8a0584d497729adbd
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_shop_pack_super
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 192
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: -95}
+        - {x: -96, y: -83}
+        - {x: -96, y: 5}
+        - {x: -58, y: 89}
+        - {x: -36, y: 99}
+        - {x: 42, y: 99}
+        - {x: 85, y: 93}
+        - {x: 96, y: 73}
+        - {x: 96, y: -74}
+        - {x: 85, y: -86}
+        - {x: 18, y: -99}
+        - {x: -45, y: -99}
+      physicsShape:
+      - - {x: 46, y: -68}
+        - {x: 63, y: -78}
+        - {x: 75, y: -79.99999}
+        - {x: 82, y: -76}
+        - {x: 88, y: -70}
+        - {x: 88, y: -57}
+        - {x: 85.99999, y: -49}
+        - {x: 88, y: -24}
+        - {x: 83, y: -6}
+        - {x: 84, y: 4}
+        - {x: 76, y: 15}
+        - {x: 91.99999, y: 36}
+        - {x: 93, y: 41}
+        - {x: 93, y: 70}
+        - {x: 87, y: 81}
+        - {x: 69, y: 94}
+        - {x: 62, y: 91.99999}
+        - {x: 27, y: 96}
+        - {x: -2, y: 97.99999}
+        - {x: -24, y: 97.99999}
+        - {x: -32, y: 97}
+        - {x: -48, y: 84}
+        - {x: -48, y: 77}
+        - {x: -44, y: 54}
+        - {x: -59, y: 50}
+        - {x: -71, y: 31}
+        - {x: -58, y: 20}
+        - {x: -70, y: 8}
+        - {x: -79, y: -7}
+        - {x: -90, y: -12}
+        - {x: -93, y: -25}
+        - {x: -93, y: -48}
+        - {x: -90, y: -66.99999}
+        - {x: -83, y: -76}
+        - {x: -77, y: -79.99999}
+        - {x: -55, y: -76}
+        - {x: -42, y: -84}
+        - {x: -30, y: -84}
+        - {x: -13, y: -93}
+        - {x: 8, y: -93}
+        - {x: 16, y: -88}
+        - {x: 16, y: -78}
+        - {x: 33, y: -78}
+      - - {x: 4, y: -70}
+        - {x: 6, y: -70}
+        - {x: 8, y: -71}
+        - {x: 7, y: -70}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a94fedb71a4e3fb5ce227e5c531b04
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_shop_coins_box
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 198
+        width: 120
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: -66}
+        - {x: -60, y: -64}
+        - {x: -60, y: 22}
+        - {x: -54, y: 66}
+        - {x: 47, y: 66}
+        - {x: 60, y: 61}
+        - {x: 60, y: -42}
+        - {x: 31, y: -66}
+      physicsShape:
+      - - {x: 23, y: -51}
+        - {x: 28, y: -46}
+        - {x: 33, y: -36}
+        - {x: 49, y: -27}
+        - {x: 44, y: -7}
+        - {x: 45, y: 11}
+        - {x: 57, y: 22}
+        - {x: 57, y: 47}
+        - {x: 47, y: 60}
+        - {x: 36, y: 63}
+        - {x: 14, y: 66}
+        - {x: -25, y: 66}
+        - {x: -33, y: 63}
+        - {x: -39, y: 49}
+        - {x: -28, y: 30}
+        - {x: -54, y: 6}
+        - {x: -52, y: -6}
+        - {x: -58, y: -18}
+        - {x: -58, y: -29}
+        - {x: -57, y: -36}
+        - {x: -52, y: -46}
+        - {x: -43, y: -52}
+        - {x: -26, y: -56}
+        - {x: -18, y: -61}
+        - {x: 0, y: -61}
+        - {x: 3, y: -48}
+        - {x: -2, y: -44}
+        - {x: 9, y: -52}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5810605358af45508b7fac1afd02211c
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_sale_coins12k
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 248
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: -73}
+        - {x: -124, y: -65}
+        - {x: -124, y: -12}
+        - {x: -57, y: 70}
+        - {x: -44, y: 78}
+        - {x: 64, y: 78}
+        - {x: 103, y: 59}
+        - {x: 124, y: -16}
+        - {x: 124, y: -78}
+        - {x: 9, y: -78}
+      physicsShape:
+      - - {x: 110, y: -49}
+        - {x: 95, y: -40}
+        - {x: 79, y: -35}
+        - {x: 79, y: -15}
+        - {x: 74, y: -8}
+        - {x: 63, y: 0}
+        - {x: 83, y: 20}
+        - {x: 85, y: 48}
+        - {x: 77, y: 62}
+        - {x: 62, y: 71}
+        - {x: 27, y: 75}
+        - {x: 8, y: 76}
+        - {x: 3, y: 78}
+        - {x: -27, y: 78}
+        - {x: -40, y: 66}
+        - {x: -40, y: 58}
+        - {x: -30, y: 31}
+        - {x: -43, y: 23}
+        - {x: -50, y: 24}
+        - {x: -63, y: 25}
+        - {x: -74, y: 18}
+        - {x: -76, y: 11}
+        - {x: -95, y: 8}
+        - {x: -97, y: 4}
+        - {x: -97.99999, y: -12}
+        - {x: -110, y: -13}
+        - {x: -114, y: -14}
+        - {x: -120, y: -18}
+        - {x: -123, y: -26}
+        - {x: -123, y: -44}
+        - {x: -122, y: -49}
+        - {x: -114, y: -56}
+        - {x: -70, y: -59}
+        - {x: -48, y: -59}
+        - {x: -30, y: -56}
+        - {x: -11, y: -70}
+        - {x: -5, y: -71}
+        - {x: 43, y: -71}
+        - {x: 48, y: -69}
+        - {x: 68, y: -72.99999}
+        - {x: 89, y: -74}
+        - {x: 98.99999, y: -75}
+        - {x: 116, y: -75}
+        - {x: 121, y: -69}
+        - {x: 121, y: -59}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc394926f30846bcafea846261d744df
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_shop_coins_pile
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 340
+        width: 118
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: -51}
+        - {x: -59, y: -51}
+        - {x: -59, y: 6}
+        - {x: -30, y: 48}
+        - {x: -19, y: 51}
+        - {x: 38, y: 51}
+        - {x: 54, y: 44}
+        - {x: 59, y: 12}
+        - {x: 59, y: -49}
+      physicsShape:
+      - - {x: 46, y: -42}
+        - {x: 53, y: -39}
+        - {x: 57, y: -34}
+        - {x: 57, y: -11}
+        - {x: 49, y: -2}
+        - {x: 41, y: 8}
+        - {x: 46, y: 16}
+        - {x: 45, y: 25}
+        - {x: 41, y: 38}
+        - {x: 29, y: 45}
+        - {x: 9.999999, y: 45}
+        - {x: 0, y: 41}
+        - {x: -8, y: 34}
+        - {x: -24, y: 34}
+        - {x: -32, y: 31}
+        - {x: -45, y: 14}
+        - {x: -44, y: 0}
+        - {x: -55, y: -9}
+        - {x: -57, y: -19}
+        - {x: -57, y: -34}
+        - {x: -50, y: -42}
+        - {x: -41, y: -46}
+        - {x: -32, y: -46}
+        - {x: -25, y: -45}
+        - {x: 8, y: -41}
+        - {x: 27, y: -44}
+        - {x: 41, y: -43}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bd5e6b8ded4300a25a3fe1f22377c7
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoutao
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 142
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -22}
+        - {x: -22, y: -16}
+        - {x: -22, y: 19}
+        - {x: -19, y: 22}
+        - {x: 16, y: 22}
+        - {x: 22, y: 14}
+        - {x: 22, y: -19}
+        - {x: 21, y: -22}
+      physicsShape:
+      - - {x: -17, y: 22}
+        - {x: -21, y: 14}
+        - {x: -21, y: -3}
+        - {x: -3, y: -18}
+        - {x: 8, y: -18}
+        - {x: 15, y: -17}
+        - {x: 19, y: -15}
+        - {x: 19, y: 5}
+        - {x: 6, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026f91442ed64a7daa6d1918aebd71fc
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_shop_pack_mini
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 154
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: -76}
+        - {x: -77, y: -75}
+        - {x: -77, y: 47}
+        - {x: -20, y: 76}
+        - {x: 77, y: 76}
+        - {x: 77, y: -63}
+        - {x: 55, y: -76}
+      physicsShape:
+      - - {x: 63, y: -42}
+        - {x: 72, y: -13}
+        - {x: 72, y: -1}
+        - {x: 65, y: 2}
+        - {x: 71, y: 16}
+        - {x: 68, y: 35}
+        - {x: 72, y: 41}
+        - {x: 72, y: 53}
+        - {x: 69, y: 66.99999}
+        - {x: 59, y: 75}
+        - {x: 34, y: 75}
+        - {x: 30, y: 69}
+        - {x: 30, y: 62}
+        - {x: 29, y: 52}
+        - {x: 25, y: 46}
+        - {x: 25, y: 45}
+        - {x: 25, y: 47}
+        - {x: 28, y: 51}
+        - {x: 22, y: 60}
+        - {x: 15, y: 64}
+        - {x: -5, y: 59}
+        - {x: -27, y: 57}
+        - {x: -39, y: 42}
+        - {x: -40, y: 37}
+        - {x: -71, y: 20}
+        - {x: -74, y: 13}
+        - {x: -74, y: -17}
+        - {x: -62, y: -24}
+        - {x: -62, y: -35}
+        - {x: -53, y: -59}
+        - {x: -42, y: -66.99999}
+        - {x: -17, y: -68}
+        - {x: -7, y: -60}
+        - {x: 7, y: -71}
+        - {x: 22, y: -71}
+        - {x: 33, y: -65}
+        - {x: 37, y: -50}
+        - {x: 54, y: -49}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827af310c7d344de934edbffeac7ed6b
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shangshen
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 0
+        width: 206
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: -54}
+        - {x: -103, y: -49}
+        - {x: -103, y: 46}
+        - {x: -96, y: 54}
+        - {x: 96, y: 54}
+        - {x: 103, y: 50}
+        - {x: 103, y: -54}
+      physicsShape:
+      - - {x: 101, y: 35}
+        - {x: 100, y: 38}
+        - {x: 96, y: 54}
+        - {x: -98.99999, y: 54}
+        - {x: -103, y: 52}
+        - {x: -103, y: -50}
+        - {x: -100, y: -54}
+        - {x: 90, y: -54}
+        - {x: 97.99999, y: -44}
+        - {x: 101, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adc2e84f36a47409b59eada031bcdff
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meihongdai
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 116
+        width: 252
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: -37}
+        - {x: -126, y: -37}
+        - {x: -126, y: 32}
+        - {x: -103, y: 37}
+        - {x: 123, y: 37}
+        - {x: 126, y: 36}
+        - {x: 126, y: -23}
+        - {x: 120, y: -29}
+      physicsShape:
+      - - {x: 115, y: -19}
+        - {x: 122, y: -15}
+        - {x: 122, y: 28}
+        - {x: 118, y: 36}
+        - {x: 13, y: 36}
+        - {x: -32, y: 34}
+        - {x: -33, y: 35}
+        - {x: -114, y: 33}
+        - {x: -123, y: 26}
+        - {x: -124, y: 19}
+        - {x: -124, y: -23}
+        - {x: -118, y: -32}
+        - {x: -113, y: -32}
+        - {x: -110, y: -24}
+        - {x: 25, y: -25}
+        - {x: 93, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53416c391d034060ab0aff9a9196822c
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_shop_coins_bag
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 198
+        width: 116
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58, y: -67}
+        - {x: -58, y: -67}
+        - {x: -58, y: 35}
+        - {x: -35, y: 67}
+        - {x: 36, y: 67}
+        - {x: 51, y: 64}
+        - {x: 58, y: 24}
+      physicsShape:
+      - - {x: 55, y: -43}
+        - {x: 52, y: -40}
+        - {x: 56, y: -19}
+        - {x: 56, y: -3}
+        - {x: 50, y: 12}
+        - {x: 35, y: 27}
+        - {x: 44, y: 33}
+        - {x: 36, y: 52}
+        - {x: 17, y: 61}
+        - {x: -11, y: 61}
+        - {x: -18, y: 60}
+        - {x: -36, y: 42}
+        - {x: -44, y: 24}
+        - {x: -34, y: 13}
+        - {x: -32, y: 2}
+        - {x: -41, y: -20}
+        - {x: -53, y: -30}
+        - {x: -53, y: -52}
+        - {x: -52, y: -55}
+        - {x: -47, y: -60}
+        - {x: -39, y: -61}
+        - {x: -9, y: -61}
+        - {x: 5, y: -52}
+        - {x: 37, y: -61}
+        - {x: 43, y: -61}
+        - {x: 48, y: -60}
+        - {x: 56, y: -54}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641f4dcb1f1f4ff8b3026a0ebac89f8f
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_shop_pack_major
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 566
+        width: 166
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83, y: -93}
+        - {x: -83, y: -93}
+        - {x: -83, y: -8}
+        - {x: -78, y: 13}
+        - {x: -83, y: 25}
+        - {x: -83, y: 61}
+        - {x: -56, y: 93}
+        - {x: 68, y: 93}
+        - {x: 83, y: 42}
+      physicsShape:
+      - - {x: 66.99999, y: -50}
+        - {x: 55, y: -52}
+        - {x: 64, y: -28}
+        - {x: 74, y: -24}
+        - {x: 76, y: -18}
+        - {x: 75, y: -4}
+        - {x: 76, y: 6}
+        - {x: 51, y: 28}
+        - {x: 47, y: 53}
+        - {x: 47, y: 66}
+        - {x: 45, y: 85.99999}
+        - {x: 31, y: 93}
+        - {x: 29, y: 93}
+        - {x: 24, y: 89}
+        - {x: 0, y: 85.99999}
+        - {x: -3, y: 85}
+        - {x: -5, y: 88}
+        - {x: -7, y: 93}
+        - {x: -31, y: 93}
+        - {x: -46, y: 87}
+        - {x: -54, y: 77}
+        - {x: -71, y: 60}
+        - {x: -77, y: 49}
+        - {x: -77, y: 46}
+        - {x: -62, y: 31}
+        - {x: -58, y: 26}
+        - {x: -41, y: 22}
+        - {x: -44, y: 14}
+        - {x: -49, y: 4}
+        - {x: -58, y: -19}
+        - {x: -69, y: -20}
+        - {x: -77, y: -27}
+        - {x: -79.99999, y: -44}
+        - {x: -79.99999, y: -71}
+        - {x: -78, y: -77}
+        - {x: -68, y: -85}
+        - {x: -55, y: -85}
+        - {x: -27, y: -85.99999}
+        - {x: -19, y: -79}
+        - {x: -15, y: -62}
+        - {x: -3, y: -77}
+        - {x: 5, y: -79.99999}
+        - {x: 26, y: -88}
+        - {x: 48, y: -87}
+        - {x: 54, y: -88}
+        - {x: 72.99999, y: -88}
+        - {x: 79.99999, y: -78}
+        - {x: 79.99999, y: -66}
+        - {x: 78, y: -59}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3fb50ba7374220b110cddf0e8ba92f
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_more
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 566
+        width: 100
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: -67}
+        - {x: -50, y: -67}
+        - {x: -50, y: 67}
+        - {x: 45, y: 67}
+        - {x: 50, y: 62}
+        - {x: 50, y: -63}
+      physicsShape:
+      - - {x: -49, y: 66.99999}
+        - {x: -49, y: -61}
+        - {x: -47, y: -63}
+        - {x: 49, y: -63}
+        - {x: 49, y: 65}
+        - {x: 43, y: 66.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68243055e1f84c4083680e55b6078a5b
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_shop_pack_grand
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 160
+        width: 190
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: -102}
+        - {x: -95, y: -81}
+        - {x: -95, y: 20}
+        - {x: -80, y: 47}
+        - {x: -63, y: 78}
+        - {x: -49, y: 102}
+        - {x: 57, y: 102}
+        - {x: 72, y: 100}
+        - {x: 95, y: 28}
+        - {x: 95, y: -102}
+      physicsShape:
+      - - {x: 35, y: -74}
+        - {x: 62, y: -85.99999}
+        - {x: 81, y: -83}
+        - {x: 89, y: -72.99999}
+        - {x: 89, y: -58}
+        - {x: 85.99999, y: -53}
+        - {x: 74, y: -27}
+        - {x: 76, y: -20}
+        - {x: 89, y: -15}
+        - {x: 91, y: -9}
+        - {x: 91, y: 19}
+        - {x: 70, y: 27}
+        - {x: 66, y: 58}
+        - {x: 62, y: 64}
+        - {x: 64, y: 82}
+        - {x: 50, y: 94}
+        - {x: 35, y: 101}
+        - {x: 24, y: 101}
+        - {x: 17, y: 89}
+        - {x: -2, y: 91}
+        - {x: -16, y: 101}
+        - {x: -25, y: 101}
+        - {x: -40, y: 98.99999}
+        - {x: -49, y: 81}
+        - {x: -53, y: 64}
+        - {x: -58, y: 41}
+        - {x: -72.99999, y: 41}
+        - {x: -79, y: 38}
+        - {x: -85.99999, y: 14}
+        - {x: -71, y: 0}
+        - {x: -81, y: -11}
+        - {x: -85, y: -20}
+        - {x: -85.99999, y: -37}
+        - {x: -91.99999, y: -51}
+        - {x: -91.99999, y: -63}
+        - {x: -85.99999, y: -72.99999}
+        - {x: -69, y: -75}
+        - {x: -63, y: -71}
+        - {x: -42, y: -81}
+        - {x: -36, y: -83}
+        - {x: -18, y: -83}
+        - {x: -9, y: -76}
+        - {x: -6, y: -58}
+        - {x: -2, y: -69}
+        - {x: -9.999999, y: -76}
+        - {x: -9, y: -88}
+        - {x: -4, y: -95}
+        - {x: 4, y: -97}
+        - {x: 14, y: -97}
+        - {x: 21, y: -95}
+        - {x: 24, y: -94}
+        - {x: 29, y: -88}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96c7461d8ea412889fed70551bb8952
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_shop_pack_minor
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 372
+        width: 180
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86, y: -93}
+        - {x: -90, y: -79}
+        - {x: -90, y: 19}
+        - {x: -64, y: 93}
+        - {x: -10, y: 93}
+        - {x: 4, y: 87}
+        - {x: 5, y: 67}
+        - {x: 32, y: 76}
+        - {x: 47, y: 78}
+        - {x: 84, y: 62}
+        - {x: 90, y: 28}
+        - {x: 90, y: -79}
+        - {x: 85, y: -89}
+        - {x: 62, y: -93}
+      physicsShape:
+      - - {x: 12, y: -47}
+        - {x: 17, y: -54}
+        - {x: 59, y: -63}
+        - {x: 72, y: -61}
+        - {x: 87, y: -50}
+        - {x: 87, y: -35}
+        - {x: 85, y: -26}
+        - {x: 71, y: -17}
+        - {x: 72.99999, y: 17}
+        - {x: 72.99999, y: 59}
+        - {x: 61, y: 69}
+        - {x: 50, y: 64}
+        - {x: 44, y: 76}
+        - {x: 31, y: 71}
+        - {x: 6, y: 66}
+        - {x: -5, y: 71}
+        - {x: -9.999999, y: 83}
+        - {x: -18, y: 91.99999}
+        - {x: -43, y: 91.99999}
+        - {x: -49, y: 87}
+        - {x: -53, y: 61}
+        - {x: -44, y: 54}
+        - {x: -37, y: 51}
+        - {x: -31, y: 50}
+        - {x: -37, y: 51}
+        - {x: -42, y: 51}
+        - {x: -43, y: 52}
+        - {x: -51, y: 56}
+        - {x: -61, y: 57}
+        - {x: -71, y: 46}
+        - {x: -77, y: 16}
+        - {x: -84, y: 18}
+        - {x: -89, y: 11}
+        - {x: -89, y: -17}
+        - {x: -64, y: -26}
+        - {x: -65, y: -36}
+        - {x: -48, y: -47}
+        - {x: -33, y: -56}
+        - {x: -29, y: -57}
+        - {x: -31, y: -57}
+        - {x: -32, y: -56}
+        - {x: -34, y: -56}
+        - {x: -35, y: -55}
+        - {x: -40, y: -53}
+        - {x: -58, y: -54}
+        - {x: -68, y: -64}
+        - {x: -64, y: -79.99999}
+        - {x: -56, y: -82}
+        - {x: -32, y: -82}
+        - {x: -23, y: -74}
+        - {x: -23, y: -63}
+        - {x: -4, y: -59}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9bf50bf5fd45ff9e8ffc2f0fcf9967
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_sale_coins5k
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 89, y: -75}
+        - {x: -100, y: -75}
+        - {x: -100, y: 13}
+        - {x: -64, y: 75}
+        - {x: 57, y: 75}
+        - {x: 100, y: 15}
+        - {x: 100, y: -60}
+      physicsShape:
+      - - {x: 97, y: -19}
+        - {x: 89, y: -9}
+        - {x: 74, y: -7}
+        - {x: 62, y: -7}
+        - {x: 60, y: 6}
+        - {x: 65, y: 36}
+        - {x: 46, y: 64}
+        - {x: 25, y: 74}
+        - {x: -3, y: 74}
+        - {x: -23, y: 68}
+        - {x: -37, y: 57}
+        - {x: -52, y: 40}
+        - {x: -51, y: 17}
+        - {x: -64, y: 17}
+        - {x: -76, y: 12}
+        - {x: -89, y: -7}
+        - {x: -97, y: -14}
+        - {x: -97, y: -42}
+        - {x: -91.99999, y: -54}
+        - {x: -78, y: -63}
+        - {x: -68, y: -62}
+        - {x: -54, y: -54}
+        - {x: -43, y: -65}
+        - {x: -35, y: -68}
+        - {x: -18, y: -66.99999}
+        - {x: -9.999999, y: -61}
+        - {x: 1, y: -57}
+        - {x: 44, y: -64}
+        - {x: 66, y: -71}
+        - {x: 79.99999, y: -71}
+        - {x: 85.99999, y: -70}
+        - {x: 91.99999, y: -61}
+        - {x: 96, y: -52}
+        - {x: 97, y: -35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f08a2d0cce46f69b6b12a9b12f8bba
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_most
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 450
+        width: 96
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: -48}
+        - {x: -48, y: -42}
+        - {x: -48, y: 31}
+        - {x: -42, y: 49}
+        - {x: 43, y: 49}
+        - {x: 48, y: 26}
+        - {x: 48, y: -34}
+        - {x: 38, y: -49}
+        - {x: -36, y: -49}
+      physicsShape:
+      - - {x: 47, y: 20}
+        - {x: 30, y: 42}
+        - {x: 18, y: 44}
+        - {x: 9, y: 49}
+        - {x: -8, y: 49}
+        - {x: -28, y: 42}
+        - {x: -44, y: 22}
+        - {x: -47, y: 11}
+        - {x: -47, y: -14}
+        - {x: -41, y: -21}
+        - {x: -33, y: -33}
+        - {x: -24, y: -41}
+        - {x: -8, y: -46}
+        - {x: 8, y: -46}
+        - {x: 23, y: -41}
+        - {x: 33, y: -35}
+        - {x: 47, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53529d72f24444eea81e6e5845dbdad5
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhadantong
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 142
+        width: 40
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: -23}
+        - {x: -20, y: -23}
+        - {x: -20, y: 23}
+        - {x: 20, y: 23}
+      physicsShape:
+      - - {x: -5, y: 23}
+        - {x: -19, y: 17}
+        - {x: -20, y: 11}
+        - {x: -20, y: -8}
+        - {x: -9.999999, y: -17}
+        - {x: 9.999999, y: -17}
+        - {x: 18, y: -9}
+        - {x: 18, y: 15}
+        - {x: 16, y: 23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4185f8867ded4c3eba14b8970aae1571
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangmifeng
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 530
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -21}
+        - {x: -22, y: -20}
+        - {x: -22, y: 8}
+        - {x: -17, y: 21}
+        - {x: 22, y: 21}
+        - {x: 22, y: -10}
+        - {x: 14, y: -21}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193b2d14abfa4dd2922fa9c63069c9a7
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      icon_shop_coins_chest: 21300012
+      icon_best: 21300002
+      shaozi: 21300004
+      dandujinbi: 21300022
+      icon_shop_coins_a: 21300008
+      icon_shop_pack_super: 21300024
+      shangshen: 21300036
+      shuangmifeng: 21300056
+      shoutao: 21300032
+      icon_sale_coins5k: 21300050
+      icon_shop_pack_grand: 21300046
+      meihongdai: 21300038
+      zhadantong: 21300054
+      icon_shop_pack_major: 21300042
+      chuizi: 21300016
+      icon_shop_pack_epic: 21300010
+      icon_sale_coins12kplus: 21300000
+      changban: 21300014
+      huangguan: 21300018
+      duanban: 21300020
+      icon_shop_coins_pile: 21300030
+      button_more: 21300044
+      icon_shop_coins_box: 21300026
+      icon_most: 21300052
+      icon_shop_coins_bag: 21300040
+      icon_shop_coins_sack: 21300006
+      icon_shop_pack_mini: 21300034
+      icon_sale_coins12k: 21300028
+      icon_shop_pack_minor: 21300048
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

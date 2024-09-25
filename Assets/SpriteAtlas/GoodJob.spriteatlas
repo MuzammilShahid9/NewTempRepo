@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &687078895
+SpriteAtlas:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GoodJob
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: a3b87fc97110e494d8bf2401cb705de4, type: 3}
+    - {fileID: 21300002, guid: a3b87fc97110e494d8bf2401cb705de4, type: 3}
+    - {fileID: 21300004, guid: a3b87fc97110e494d8bf2401cb705de4, type: 3}
+    - {fileID: 21300006, guid: a3b87fc97110e494d8bf2401cb705de4, type: 3}
+    - {fileID: 21300008, guid: a3b87fc97110e494d8bf2401cb705de4, type: 3}
+    - {fileID: 21300010, guid: 9154ae83a835d3b45be90fa43716ae2f, type: 3}
+    - {fileID: 21300012, guid: a3b87fc97110e494d8bf2401cb705de4, type: 3}
+    - {fileID: 21300014, guid: a3b87fc97110e494d8bf2401cb705de4, type: 3}
+    - {fileID: 21300016, guid: a3b87fc97110e494d8bf2401cb705de4, type: 3}
+    - {fileID: 21300018, guid: a3b87fc97110e494d8bf2401cb705de4, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a3b87fc97110e494d8bf2401cb705de4, type: 3}
+  - {fileID: 21300002, guid: a3b87fc97110e494d8bf2401cb705de4, type: 3}
+  - {fileID: 21300004, guid: a3b87fc97110e494d8bf2401cb705de4, type: 3}
+  - {fileID: 21300006, guid: a3b87fc97110e494d8bf2401cb705de4, type: 3}
+  - {fileID: 21300008, guid: a3b87fc97110e494d8bf2401cb705de4, type: 3}
+  - {fileID: 21300010, guid: 9154ae83a835d3b45be90fa43716ae2f, type: 3}
+  - {fileID: 21300012, guid: a3b87fc97110e494d8bf2401cb705de4, type: 3}
+  - {fileID: 21300014, guid: a3b87fc97110e494d8bf2401cb705de4, type: 3}
+  - {fileID: 21300016, guid: a3b87fc97110e494d8bf2401cb705de4, type: 3}
+  - {fileID: 21300018, guid: a3b87fc97110e494d8bf2401cb705de4, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - main_xiaoban_jz 2
+  - o2
+  - G
+  - B
+  - gantan
+  - panel_heart_reward
+  - J
+  - D
+  - o1
+  - o3
+  m_Tag: GoodJob
+  m_IsVariant: 0

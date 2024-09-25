@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: d903f47a2becc7c4f9beca7b3080cdfc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: mutong
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 200
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mutong
+      rect:
+        serializedVersion: 2
+        x: 16.07612
+        y: 13.07612
+        width: 160.8477
+        height: 162.8477
+      alignment: 9
+      pivot: {x: 0.5217597, y: 0.5214925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.49999, y: -77.49998}
+        - {x: -80.49999, y: -41.49998}
+        - {x: -80.49999, y: 48.50002}
+        - {x: -65.49999, y: 81.50002}
+        - {x: 68.50001, y: 81.50002}
+        - {x: 80.50001, y: 71.50002}
+        - {x: 80.50001, y: -56.49999}
+        - {x: 77.50001, y: -70.49998}
+        - {x: 45.50001, y: -81.49998}
+        - {x: -44.49999, y: -81.49998}
+      physicsShape:
+      - - {x: 76.5, y: -30.49998}
+        - {x: 80.50001, y: 2.500015}
+        - {x: 80.50001, y: 25.50002}
+        - {x: 76.5, y: 37.50002}
+        - {x: 68.50001, y: 56.50001}
+        - {x: 56.5, y: 69.50002}
+        - {x: 39.50001, y: 77.50002}
+        - {x: 30.50001, y: 78.50002}
+        - {x: 17.50001, y: 80.50002}
+        - {x: -22.49999, y: 80.50002}
+        - {x: -39.49999, y: 77.50002}
+        - {x: -58.49999, y: 70.50001}
+        - {x: -72.49999, y: 48.50002}
+        - {x: -79.49999, y: 28.50002}
+        - {x: -79.49999, y: -7.499985}
+        - {x: -78.49999, y: -18.49998}
+        - {x: -72.49999, y: -37.49998}
+        - {x: -66.49999, y: -49.49998}
+        - {x: -49.49999, y: -69.49998}
+        - {x: -40.49999, y: -73.49998}
+        - {x: -29.49999, y: -77.49998}
+        - {x: -8.499992, y: -81.49998}
+        - {x: 2.500008, y: -81.49998}
+        - {x: 26.50001, y: -79.49998}
+        - {x: 37.50001, y: -76.49998}
+        - {x: 50.50001, y: -68.49998}
+        - {x: 66.50001, y: -51.49998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71a609551554917babb2bddfe7273d8
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mutong: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

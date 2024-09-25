@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+PrefabInstance:
+  serializedVersion: 2
+  m_RootGameObject: {fileID: 1139109023927540}
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+--- !u!1 &1139109023927540
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 100100000}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 224756247024742620}
+  m_Layer: 0
+  m_Name: Game
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &224756247024742620
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 100100000}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1139109023927540}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.004, y: 0.022, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4041915103551672}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -0.004, y: 0.022}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &1858885875035105
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 100100000}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4041915103551672}
+  - component: {fileID: 114062192665138943}
+  - component: {fileID: 114051095475243369}
+  m_Layer: 0
+  m_Name: Board
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4041915103551672
+Transform:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 100100000}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1858885875035105}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224756247024742620}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114062192665138943
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 100100000}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1858885875035105}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc0d28c573599034ab89d044188e82e8, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  container: {fileID: 1858885875035105}
+  CellPrefab: {fileID: 1096974021390278, guid: 54e36f57dd0130e4492db40883dc6618, type: 2}
+  bg1: {fileID: 21300040, guid: c31f7e37f3f591c469de360f4ffef203, type: 3}
+  bg2: {fileID: 21300012, guid: c31f7e37f3f591c469de360f4ffef203, type: 3}
+  levelRowStart: 0
+  levelRowEnd: 8
+  levelColStart: 0
+  levelColEnd: 10
+  MaxRow: 9
+  MaxCol: 11
+  BoardIndex: 0
+  offsetx: 0
+  offsety: 0
+  switching: 0
+  moveCount: 0
+  currArea: 0
+  moveStep: 0
+  currentDragElem: {fileID: 0}
+  currentTouchElem: {fileID: 0}
+  canCheckAreaChange: 0
+  canCheckMapChange: 0
+  MoveToJewel: 0
+  JewelNum: 0
+  data:
+    width: 0
+    height: 0
+    areaList: []
+    pathList: []
+    transporterPathList: []
+    catPathList: []
+    transList: []
+    createrList: []
+    map:
+  transMatList: []
+  lastMoveCount: 0
+  TapEffect: {fileID: 0}
+  HeadCellCollect: []
+--- !u!114 &114051095475243369
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 100100000}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1858885875035105}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 544c16fe653442b428053de2176d5c0a, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  ElementPrefab: {fileID: 1924135895161693, guid: 8108f94fdf168bf458a146f71942311c, type: 2}

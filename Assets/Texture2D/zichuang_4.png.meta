@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 6d7470aa19b53b149b3b99f0e3f72a6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: zichuang_4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 265
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zichuang_4
+      rect:
+        serializedVersion: 2
+        x: 33.02675
+        y: 12.02675
+        width: 183.9465
+        height: 209.9169
+      alignment: 9
+      pivot: {x: 0.5407727, y: 0.5310352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: -80.98519}
+        - {x: -92, y: 26.01481}
+        - {x: -92, y: 91.01481}
+        - {x: -37, y: 102.0148}
+        - {x: -27, y: 105.0148}
+        - {x: -9, y: 105.0148}
+        - {x: 92, y: 64.01481}
+        - {x: 92, y: -91.98519}
+        - {x: 91, y: -100.9852}
+        - {x: 81, y: -104.9852}
+        - {x: 64, y: -104.9852}
+      physicsShape:
+      - - {x: 84, y: 12.01481}
+        - {x: 90, y: 16.01481}
+        - {x: 92, y: 28.01481}
+        - {x: 92, y: 51.01481}
+        - {x: 79, y: 55.01481}
+        - {x: 75, y: 48.01481}
+        - {x: 34, y: 66.0148}
+        - {x: -14, y: 89.01481}
+        - {x: -11, y: 93.01481}
+        - {x: -17, y: 104.0148}
+        - {x: -30, y: 104.0148}
+        - {x: -38, y: 92.0148}
+        - {x: -32, y: 88.01481}
+        - {x: -71, y: 71.01481}
+        - {x: -86, y: 78.01481}
+        - {x: -92, y: 71.01481}
+        - {x: -92, y: 38.01481}
+        - {x: -80, y: 26.01481}
+        - {x: -67, y: 6.014809}
+        - {x: -43, y: -21.98519}
+        - {x: -34, y: -25.98519}
+        - {x: -30, y: -51.98519}
+        - {x: -28, y: -52.98519}
+        - {x: 1, y: -57.98519}
+        - {x: 33, y: -76.98519}
+        - {x: 64, y: -89.98519}
+        - {x: 75, y: -101.9852}
+        - {x: 77, y: -103.9852}
+        - {x: 83, y: -101.9852}
+        - {x: 85, y: -98.98518}
+        - {x: 86.99999, y: -76.98519}
+        - {x: 85, y: -66.98518}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1c049b83e24125a56919c40739fe9a
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zichuang_4: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &687078895
+SpriteAtlas:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CastleUI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+    - {fileID: 21300002, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+    - {fileID: 21300004, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+    - {fileID: 21300006, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+    - {fileID: 21300008, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+    - {fileID: 21300010, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+    - {fileID: 21300012, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+    - {fileID: 21300014, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+    - {fileID: 21300016, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+    - {fileID: 21300018, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+    - {fileID: 21300020, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+    - {fileID: 21300022, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+    - {fileID: 21300024, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+    - {fileID: 21300026, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+    - {fileID: 21300028, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+    - {fileID: 21300030, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+    - {fileID: 21300032, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+    - {fileID: 21300034, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+    - {fileID: 21300036, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+    - {fileID: 21300038, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+    - {fileID: 21300040, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+    - {fileID: 21300042, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+    - {fileID: 21300044, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+    - {fileID: 21300046, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+    - {fileID: 21300048, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+    - {fileID: 21300050, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+    - {fileID: 21300052, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+    - {fileID: 21300054, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+    - {fileID: 21300056, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+  - {fileID: 21300002, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+  - {fileID: 21300004, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+  - {fileID: 21300006, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+  - {fileID: 21300008, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+  - {fileID: 21300010, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+  - {fileID: 21300012, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+  - {fileID: 21300014, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+  - {fileID: 21300016, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+  - {fileID: 21300018, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+  - {fileID: 21300020, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+  - {fileID: 21300022, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+  - {fileID: 21300024, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+  - {fileID: 21300026, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+  - {fileID: 21300028, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+  - {fileID: 21300030, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+  - {fileID: 21300032, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+  - {fileID: 21300034, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+  - {fileID: 21300036, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+  - {fileID: 21300038, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+  - {fileID: 21300040, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+  - {fileID: 21300042, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+  - {fileID: 21300044, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+  - {fileID: 21300046, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+  - {fileID: 21300048, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+  - {fileID: 21300050, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+  - {fileID: 21300052, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+  - {fileID: 21300054, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+  - {fileID: 21300056, guid: 80fa20a16c762a4418e2901405b5c687, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - icon_fb_connect
+  - gongzhu
+  - icon_arrow_green
+  - jiesuanzi
+  - faguangzhou
+  - icon_heart
+  - light_orange
+  - panel_tips
+  - panel_scroll
+  - panel_help
+  - pic_renovated
+  - diyuan
+  - yuansuban
+  - panel_select
+  - icon_phone
+  - panel_renovated
+  - ban
+  - icon_connect_fail
+  - icon_font_entrance
+  - icon_arrow_pink
+  - panel_lower_purple
+  - icon_buy_success
+  - lvjian
+  - icon_font_booster
+  - pic_match
+  - icon_arrow_connect
+  - ribbon_renovated
+  - lanbeijing
+  - icon_font_renovated
+  m_Tag: CastleUI
+  m_IsVariant: 0
